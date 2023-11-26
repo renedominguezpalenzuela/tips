@@ -1,0 +1,160 @@
+div#modalFormulario h3
+{
+    font-family: 'Klavika', sans-serif;
+    font-weight: 500;
+    font-size: 1.5rem;
+    line-height: 19px;
+    color: var(--tertiary);
+    display: block;
+    text-decoration: none;
+    margin: 0px 20px;
+    margin-bottom: 20px;
+ }
+
+.wpcf7-list-item-label
+{
+    font-family: 'Klavika', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    color: var(--primary);
+    text-decoration: none;
+}
+
+.wpcf7-not-valid button.btn.dropdown-toggle, .wpcf7-not-valid.codedropz-upload-handler
+{
+    border-color: #dc3545 !important;
+    padding-right: calc(1.5em + 0.75rem);
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12' width='12' height='12' fill='none' stroke='%23dc3545'%3e%3ccircle cx='6' cy='6' r='4.5'/%3e%3cpath stroke-linejoin='round' d='M5.8 3.6h.4L6 6.5z'/%3e%3ccircle cx='6' cy='8.2' r='.6' fill='%23dc3545' stroke='none'/%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-position: right calc(0.375em + 0.1875rem) center;
+    background-size: calc(0.75em + 0.375rem) calc(0.75em + 0.375rem);
+}
+
+.form-select.wpcf7-not-valid, .form-control.wpcf7-not-valid
+{
+    border-color: #dc3545;
+    padding-right: calc(1.5em + 0.75rem);
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12' width='12' height='12' fill='none' stroke='%23dc3545'%3e%3ccircle cx='6' cy='6' r='4.5'/%3e%3cpath stroke-linejoin='round' d='M5.8 3.6h.4L6 6.5z'/%3e%3ccircle cx='6' cy='8.2' r='.6' fill='%23dc3545' stroke='none'/%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-position: right calc(0.375em + 0.1875rem) center;
+    background-size: calc(0.75em + 0.375rem) calc(0.75em + 0.375rem);
+}
+
+.iconInfo-modalFormulario
+{
+    width: 10px;
+    height: 22px;
+    background-color: var(--tertiary);
+    display: flex;
+    border-radius: 5px;
+    margin-top: -8px;
+}
+
+.iconInfo-modalFormulario::after
+{
+    content: '';
+    height: 8px;
+    width: 8px;
+    background-color: var(--primary);
+    border-radius: 50%;
+    bottom: -24px;
+    position: relative;
+    left: 0.9px;
+}
+
+.form-label
+{
+    font-family: 'Klavika', sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+    color: var(--tertiary);
+    text-decoration: none;
+}
+
+.wpcf7-spinner
+{
+    display: none;
+    position: absolute;
+}
+
+form.submitting .wpcf7-spinner
+{
+    display: none;
+    position: absolute;
+}
+
+.wpcf7-submit
+{
+    font-size: 1em;
+    background-color: var(--secondary);
+    font-family: 'Klavika';
+    color: var(--tertiary);
+    font-weight: 500;
+	-webkit-border-radius: 3em;
+    -moz-border-radius: 3em;
+    border-radius: 3em;
+}
+
+.wpcf7-submit:disabled
+{
+    background-color: var(--secondary);
+    color: var(--tertiary);
+    border: none;
+}
+
+.wpcf7-submit:hover
+{
+    background-color: var(--tertiary);
+    color: #FFFFFF;
+}
+
+input.wpcf7-form-control, select.wpcf7-form-control, textarea.wpcf7-form-control
+{
+    font-family: 'Klavika';
+    border: solid 2px;
+    -webkit-border-radius: 3em;
+    -moz-border-radius: 3em;
+    border-radius: 1em;
+    font-size: 0.8em;
+}
+
+.wpcf7-not-valid-tip
+{
+    font-size: .85em;
+    font-weight: normal;
+    color: inherit;
+    display: block;
+    color: #dc3232!important;
+}
+
+input.wpcf7-submit
+{
+    border-color: var(--secondary);
+    background: var(--secondary);
+    color: var(--tertiary);
+    text-transform: none;
+    display: inline;
+    margin: auto !important;
+    width: 100%;
+}
+
+input.wpcf7-text, select.wpcf7-form-control, textarea.wpcf7-textarea
+{
+    border-color: var(--primary);
+    color: var(--tertiary) !important;
+    font-family: Klavika;
+    font-weight: 400;
+    font-size: 1rem;
+    text-decoration: none;
+}
+
+.wpcf7-list-item-label::before, .wpcf7-list-item-label::after {
+    content: " ";
+    padding: 0px 5px;
+}
+
+.wpcf7 form .wpcf7-response-output {
+    border: 1px solid !important;
+    margin: 0px !important;
+    display: none;
+}

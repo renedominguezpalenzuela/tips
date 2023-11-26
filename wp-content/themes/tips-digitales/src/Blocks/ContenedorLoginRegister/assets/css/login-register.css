@@ -1,0 +1,550 @@
+.addPointer {
+    cursor: pointer;
+    font-family: Klavika;
+    font-weight: 400;
+    font-size: 1rem;
+    color: var(--tertiary);
+    text-decoration: none
+}
+
+.inputError {
+    display: none
+}
+
+.label-danger {
+    font-size: .85em;
+    font-weight: 400;
+    display: block;
+    font-family: Klavika
+}
+
+div#otraOrganizacion {
+    display: none
+}
+
+button.btn.dropdown-toggle.btn-light:focus {
+    border-color: #86b7fe;
+    box-shadow: 0 0 0 .25rem rgb(13 110 253 / 25%)
+}
+
+button.btn.dropdown-toggle.btn-light {
+    font-family: Klavika;
+    border: 2px solid;
+    -webkit-border-radius: 1em;
+    -moz-border-radius: 1em;
+    border-radius: 1em;
+    font-size: .8em;
+    text-transform: capitalize;
+    border-color: var(--primary);
+    padding: 4px 15px;
+    background: #fff;
+    outline: 0 !important;
+    color: var(--tertiary) !important
+}
+
+button.btn.dropdown-toggle.btn-light.is-invalid {
+    border-color: #dc3545;
+    padding-right: calc(1.5em + .75rem);
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12' width='12' height='12' fill='none' stroke='%23dc3545'%3e%3ccircle cx='6' cy='6' r='4.5'/%3e%3cpath stroke-linejoin='round' d='M5.8 3.6h.4L6 6.5z'/%3e%3ccircle cx='6' cy='8.2' r='.6' fill='%23dc3545' stroke='none'/%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-position: right calc(.375em + .1875rem) center;
+    background-size: calc(.75em + .375rem) calc(.75em + .375rem)
+}
+
+#registerFoto-error {
+    position: relative;
+    top: 130px;
+    text-align: center;
+    padding: 10px
+}
+
+#registerAceptarRegistro-error {
+    position: absolute;
+    margin-top: -8px;
+    font-size: .96em;
+    font-weight: 400;
+    font-family: Klavika
+}
+
+#registerOrganiacionCiudadana-error,
+#registerPoblacionDiferencial-error {
+    position: absolute;
+    display: block;
+    top: 33px;
+    font-size: .96em;
+    font-weight: 400;
+    font-family: Klavika
+}
+
+.modal-register {
+    --bs-modal-width: 80%
+}
+
+.photoRegister {
+    width: 200px;
+    height: 200px;
+    display: block;
+    position: relative;
+    border: 1.5px solid var(--tertiary);
+    border-radius: 8px;
+    margin: auto
+}
+
+.photoRegister::after {
+    content: "Haga click aqui para cargar tu foto";
+    color: #c2c2c2;
+    margin: 5px;
+    bottom: 10px;
+    position: absolute;
+    text-align: center
+}
+
+.form-control.is-valid,
+.was-validated .form-control:valid {
+    background-image: none !important
+}
+
+input.wpcf7-form-control-password {
+    font-family: Klavika;
+    border: 2px solid;
+    -webkit-border-radius: 1em;
+    -moz-border-radius: 1em;
+    border-radius: 1em;
+    font-size: .8em;
+    border-color: var(--primary)
+}
+
+input.wpcf7-login {
+    border-color: var(--secondary);
+    background-color: var(--secondary);
+    color: var(--tertiary);
+    text-transform: none;
+    display: inline;
+    margin: auto !important;
+    width: 100%;
+    font-size: 1em;
+    font-family: Klavika;
+    font-weight: 500
+}
+
+.wpcf7-login {
+    font-size: 1em;
+    background-color: var(--secondary);
+    font-family: Klavika;
+    color: var(--tertiary);
+    font-weight: 500;
+    -webkit-border-radius: 3em;
+    -moz-border-radius: 3em;
+    border-radius: 3em;
+    border: none;
+}
+
+.wpcf7-login:disabled {
+    background-color: var(--secondary);
+    border: none;
+    color: var(--tertiary);
+}
+
+.wpcf7-login:hover {
+    background-color: var(--tertiary);
+    color: #fff
+}
+
+.login-links a {
+    color: var(--tertiary);
+    font-family: Klavika;
+    font-weight: 400;
+    font-size: 1.138em;
+    line-height: 1.25;
+    text-align: center;
+    display: block
+}
+
+.login-links a:active,
+.login-links a:hover {
+    color: var(--primary) !important
+}
+
+#image-preview {
+    width: 200px;
+    height: 200px;
+    display: block;
+    position: relative;
+    border: 1.5px solid var(--tertiary);
+    border-radius: 8px
+}
+
+#image-preview input {
+    line-height: 200px;
+    font-size: 200px;
+    position: absolute;
+    opacity: 0;
+    z-index: 10;
+    width: 200px
+}
+
+#image-preview label {
+    position: absolute;
+    z-index: 5;
+    opacity: .8;
+    cursor: pointer;
+    background-color: #bdc3c7;
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    line-height: 50px;
+    text-transform: capitalize;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    text-align: center
+}
+
+@media (max-width:991px) {
+    #image-preview {
+        margin: auto
+    }
+}
+
+@media (min-width:2000px) {
+    .modal-register {
+        --bs-modal-width: 50%
+    }
+}
+
+.bootstrap-select .dropdown-menu
+{
+    background: #FFF;
+    border: 1px solid var(--tertiary);
+}
+
+.bootstrap-select .dropdown-menu li a,
+.bootstrap-select .dropdown-toggle .filter-option-inner-inner {
+    font-family: Klavika;
+    font-weight: 400;
+    font-size: 1rem;
+    color: var(--tertiary);
+    text-decoration: none
+}
+
+.dropdown-item.active,
+.dropdown-item:active {
+    background-color: var(--tertiary);
+    color: #fff !important
+}
+
+.dropdown-item:focus,
+.dropdown-item:hover {
+    background-color: var(--primary)
+}
+
+.avatar-myspace
+{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 6px solid var(--secondary);
+    position: absolute;
+    background-color: white;
+    background-position: center;
+    background-size: cover;
+    margin-top: -10px;
+    margin-left: -30px;
+}
+
+.name-profile
+{
+    background-color: var(--primary);
+    color: white;
+    min-height: 40px;
+    z-index:3;
+}
+
+.name-profile i.fa-regular.fa-pen-to-square {
+    color: white;
+    padding: 10px;
+    font-size: 2em;
+}
+
+.cargo-block
+{
+    border: 2px solid var(--secondary);
+    background: #FFF;
+    z-index:2;
+}
+
+@media (max-width:468px)
+{
+    .name-profile
+    {
+        margin-left: 0px;
+    }
+}
+
+.cargo-block-text
+{
+    color: var(--tertiary);
+    font-family: 'Klavika';
+    font-weight: 400;
+    font-size: 1.2em;
+    line-height: 1.25;
+    background: #FFF;
+}
+
+.container-data-user
+{
+    margin-top: -30px;
+}
+
+#tabsMiPerfilAb1
+{
+    overflow: hidden;
+}
+
+.tabsMiPerfilArr, .tabsMiPerfilAb
+{
+    display: none;
+}
+
+.inputMiPerfilArr, .inputMiPerfilAb
+{
+    display: none;
+}
+
+.editPhoto
+{
+    max-height: 200px;
+    display: block;
+    position: relative;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.progress
+{
+    display: none;
+    margin-bottom: 1rem;
+}
+
+.img-container img
+{
+    max-width: 100%;
+}
+
+.cropper-view-box,
+.cropper-face
+{
+  border-radius: 50%;
+}
+
+.cropper-view-box
+{
+    outline: 0;
+    box-shadow: 0 0 0 1px #39f;
+}
+
+.container-changeFoto
+{
+    color: var(--tertiary);
+    font-family: 'Klavika';
+    font-weight: 500;
+    font-size: 1.5em;
+    letter-spacing: -2px;
+    margin-top: -12px;
+}
+
+.tagify{
+    border: solid 2px var(--primary) !important;
+    color: var(--tertiary) !important;
+    border-radius: 1em;
+    padding: 0px;
+    margin: 0px;
+}
+
+.tagify__tag>div
+{
+    background: var(--tag-bg);
+}
+
+tag.tagify__tag.tagify--noAnim {
+    font-family: Klavika;
+    font-weight: 400;
+    color: var(--tertiary);
+    text-decoration: none;
+    word-break: break-word;
+}
+
+.updateUserTags.tagify--noTags
+{
+    --tags-border-color: #dc3545;
+    border-color: #dc3545 !important;
+}
+
+.contenedor-eventos-calendario-user
+{
+    height: 550px;
+    overflow: auto;
+}
+
+.contenedor-propuestas-user
+{
+    height: 520px;
+    overflow: auto;
+}
+
+.mesEvent-user
+{
+    color: var(--tertiary);
+    font-family: 'Klavika';
+    font-weight: 600;
+    font-size: 2em;
+    letter-spacing: -2px;
+    text-align: center;
+}
+
+.diaEvent-user
+{
+    color: var(--tertiary);
+    font-family: 'Klavika';
+    font-weight: 600;
+    font-size: 5em;
+    letter-spacing: -2px;
+    text-align: center;
+    position: relative;
+    top: -40px;
+}
+
+.tituloEvent-user
+{
+    color: var(--tertiary);
+    font-family: 'Klavika';
+    font-weight: 400;
+    font-size: 1.3em;
+    letter-spacing: 0px;
+    margin-top: 35px;
+    border-bottom: 4px solid var(--secondary);
+}
+
+.direccionEvent-user
+{
+    color: var(--tertiary);
+    font-family: 'Klavika';
+    font-weight: 500;
+    font-size: 1.3em;
+    letter-spacing: 0px;
+}
+
+.horaEvent-user
+{
+    color: var(--primary);
+    font-family: 'Klavika';
+    font-weight: 500;
+    font-size: 1.1em;
+}
+
+.descripcionEvent-user
+{
+    color: var(--tertiary);
+    font-family: 'Klavika';
+    font-weight: 400;
+    font-size: 1.138em;
+    line-height: 1.25;
+}
+
+.calendar-user-bottom
+{
+    border-bottom: 2px solid var(--primary);
+    padding-bottom: 10px;
+}
+
+.propuesta-user-bottom
+{
+    border-bottom: 2px solid var(--primary);
+    padding-bottom: 10px;
+}
+
+
+@media (max-width:767px)
+{
+    .tituloEvent-user
+    {
+        margin-top: -60px;
+    }
+}
+
+.nombre-user-edit-perfil
+{
+    font-family: 'Klavika';
+    font-weight: 400;
+    font-size: 1.5em;
+    line-height: 1.25;
+    color: #FFF;
+    text-transform: capitalize;
+}
+
+.no-event-calendar-user, .no-event-calendar-user-events
+{
+    display: none;
+}
+
+.swal2-modal .swal2-styled
+{
+    padding: 10px 0px !important;
+    width: 40% !important;
+    margin: 10px !important;
+}
+
+.container-loading-ultimas-noticias
+{
+    display: none; /* hidden by default */
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 9;
+    background: #FFF;
+}
+
+.page-load-status-container-ultimas-noticias
+{
+    display: none; /* hidden by default */
+    top: 50%;
+    color: var(--tertiary);
+    position: absolute;
+    z-index: 10;
+}
+
+.container-ultimas-noticias-by-localidad
+{
+    width: 100%;
+    display: block !important;
+    margin-top: auto;
+    margin-bottom: auto;
+    position: relative;
+}
+
+.propuestaClon
+{
+    display: none;
+}
+
+.iniciativaClon
+{
+    display: none;
+}
+
+#shareProfileEvento, #shareProfileDocumento
+{
+    width: 160px;
+}
+
+#tabsMiPerfilArr
+{
+    margin-top: -15px;
+}
+
+.bm-name
+{
+    text-transform: capitalize;
+}

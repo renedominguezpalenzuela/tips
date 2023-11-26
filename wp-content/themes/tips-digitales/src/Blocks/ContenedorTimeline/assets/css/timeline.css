@@ -1,0 +1,355 @@
+.container-timeline
+{
+    display: block;
+    border: 1.4px solid var(--primary);
+    position: relative;
+    border-radius: 7px;
+    box-shadow: 5px 4px #d3d0d0;
+}
+
+.timeline {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    counter-reset: step;
+    display: block;
+    height: 61px
+}
+
+.timeline li {
+    float: left;
+    text-align: center;
+    width: 200px;
+    position: relative;
+    opacity: 1 !important
+}
+
+.timeline li::before {
+    content: '';
+    counter-increment: step;
+    line-height: 20px;
+    width: 15px;
+    height: 15px;
+    display: block;
+    border-radius: 100%;
+    border: 1px solid #ccc;
+    margin: 0 auto 15px;
+    background-color: var(--tertiary) !important;
+    cursor: pointer;
+    position: relative;
+    top: 96px
+}
+
+.timeline .slick-list li::after,
+.timeline li::after {
+    content: '';
+    width: 100%;
+    height: 1px;
+    background: var(--tertiary);
+    display: block;
+    position: absolute;
+    top: 101.5px;
+    left: 50%;
+    z-index: -1
+}
+
+.setLine li:first-child:after {
+    background: var(--tertiary)
+}
+
+.titleIcon {
+    position: absolute;
+    top: -11px;
+    margin-left: -10px;
+}
+
+.fecha-timeline {
+    position: relative;
+    top: -25px;
+    color: var(--tertiary)
+}
+
+.fecha-text-timeline {
+    font-family: Klavika;
+    font-weight: 500;
+    margin-left: 30px;
+    color: var(--tertiary);
+    text-transform: capitalize
+}
+
+.titulo-timeline {
+    font-family: Klavika;
+    color: var(--tertiary);
+    display: block;
+    top: 35px;
+    text-align: center;
+    position: relative;
+    font-weight: 500;
+    font-size: 1em;
+    line-height: 14px;
+    padding: 0 0 10px
+}
+
+.descripcion-timeline {
+    font-family: Klavika;
+    color: var(--tertiary);
+    display: block;
+    top: 35px;
+    width: 60%;
+    height: 160px;
+    text-align: center;
+    margin: auto;
+    position: relative;
+    font-weight: 400;
+    font-size: .8em;
+    line-height: 14px
+}
+
+.carousel-indicators [data-bs-target] {
+    border-radius: 50%;
+    height: 20px;
+    width: 20px
+}
+
+.timeline .slick-list .slick-current li::before {
+    background-color: var(--tertiary) !important
+}
+
+.timeline .slick-list .slick-current li {
+    opacity: 1
+}
+
+.carousel-control-next-icon {
+    background-color: var(--tertiary) !important;
+    border-radius: 50%;
+    background-position: 63%;
+    background-size: 66% 56%;
+    font-weight: 700;
+    position: relative
+}
+
+.carousel-control-prev-icon {
+    background-color: var(--tertiary) !important;
+    border-radius: 50%;
+    background-position: 34%;
+    background-size: 66% 56%;
+    font-weight: 700;
+    position: relative
+}
+
+.box-timeline {
+    width: 100%;
+    height: 300px;
+    overflow-y: hidden
+}
+
+.timeline button.slick-next.slick-arrow {
+    background-color: var(--tertiary) !important;
+    border-radius: 15%;
+    background-position: 63%;
+    background-size: 66% 56%;
+    right: 0;
+    top: 100px;
+    width: 32px;
+    z-index: 1
+}
+
+.timeline button.slick-prev.slick-arrow {
+    background-color: var(--tertiary) !important;
+    border-radius: 15%;
+    background-position: 34%;
+    background-size: 66% 56%;
+    left: 0;
+    top: 100px;
+    width: 32px;
+    z-index: 1
+}
+
+.slick-next,
+.slick-prev {
+    font-size: 0;
+    line-height: 0;
+    position: absolute;
+    top: 50%;
+    display: block;
+    width: 20px;
+    height: 32px;
+    padding: 0;
+    -webkit-transform: translate(0, -50%);
+    -ms-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+    cursor: pointer;
+    color: transparent;
+    border: none;
+    outline: 0;
+    background: 0 0
+}
+
+.slick-next:focus,
+.slick-next:hover,
+.slick-prev:focus,
+.slick-prev:hover {
+    color: transparent;
+    outline: 0;
+    background: 0 0
+}
+
+.slick-next:focus:before,
+.slick-next:hover:before,
+.slick-prev:focus:before,
+.slick-prev:hover:before {
+    opacity: 1
+}
+
+.slick-next.slick-disabled:before,
+.slick-prev.slick-disabled:before {
+    opacity: .25
+}
+
+.slick-next:before,
+.slick-prev:before {
+    font-size: 20px;
+    line-height: 1;
+    opacity: .75;
+    color: #fff;
+    font-family: FontAwesome;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+.slick-prev {
+    left: -40px
+}
+
+.slick-prev:before {
+    content: "\f104"
+}
+
+.slick-next {
+    right: -40px
+}
+
+.slick-next:before {
+    content: "\f105"
+}
+
+@media (min-width:320px) {
+    .timeline li {
+        opacity: 0
+    }
+    .box-timeline {
+        height: 400px
+    }
+    .descripcion-timeline {
+        top: 35px;
+        text-align: center;
+        width: 100%;
+        height: 340px
+    }
+}
+
+@media (min-width:375px) {
+    .timeline li {
+        opacity: .45
+    }
+    .box-timeline {
+        height: 320px
+    }
+    .descripcion-timeline {
+        top: 35px;
+        text-align: center;
+        width: 100%;
+        height: 320px
+    }
+}
+
+@media (min-width:400px) {
+    .descripcion-timeline {
+        top: 35px;
+        text-align: center;
+        width: 100%;
+        height: 320px
+    }
+}
+
+@media (min-width:425px) {
+    .descripcion-timeline {
+        top: 35px;
+        text-align: center;
+        width: 100%;
+        height: 240px
+    }
+}
+
+@media (min-width:480px) {
+    .descripcion-timeline {
+        top: 35px;
+        text-align: center;
+        width: 80%;
+        height: 200px
+    }
+}
+
+@media (min-width:540px) {
+    .descripcion-timeline {
+        top: 35px;
+        text-align: center
+    }
+}
+
+@media (min-width:600px) {
+    .descripcion-timeline {
+        top: 35px;
+        text-align: center
+    }
+}
+
+@media (min-width:680px) {
+    .descripcion-timeline {
+        top: 35px;
+        text-align: center
+    }
+}
+
+@media (min-width:768px) {
+    .box-timeline {
+        height: 280px
+    }
+    .descripcion-timeline {
+        top: 35px;
+        text-align: center
+    }
+}
+
+@media (min-width:900px) {
+}
+
+@media (min-width:993px) {
+}
+
+@media (min-width:1024px) {
+}
+
+@media (min-width:1200px) {
+}
+
+@media (min-width:1280px) {
+}
+
+@media (min-width:1440px) {
+    .box-timeline {
+        height: 360px
+    }
+}
+
+@media (min-width:1600px) {
+}
+
+@media (min-width:1800px) {
+}
+
+@media (min-width:1960px) {
+}
+
+@media (min-width:2560px) {
+}

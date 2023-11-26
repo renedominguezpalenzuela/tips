@@ -1,0 +1,100 @@
+{
+  "Combiner_CSS":{
+    //CSS Plantilla
+
+    combine:"../public/css/style.css",
+
+    //CSS Utilidades
+    combine:"../public/css/HoldOn.min.css",
+    combine:"../public/css/sweetalert2.min.css",
+    combine:"../public/css/bootstrap-datepicker.css",
+    combine:"../public/css/bootstrap-multiselect.css",
+    combine:"../public/css/slick.css",
+    combine:"../public/css/tagify.css",
+    combine:"../public/css/negative-contrast.css",
+    combine:"../public/css/jssocials.css",
+    combine:"../public/css/jssocials-theme-minima.css",
+    combine:"../public/css/cropper.css",
+
+    //CSS Blocks
+    combine:"../src/Blocks/ContenedorFormulario/assets/css/modal-formulario.css",
+    combine:"../src/Blocks/ContenedorMultimedia/assets/css/modal-multimedia.css",
+    combine:"../src/Blocks/ContenedorLoginRegister/assets/css/login-register.css",
+    combine:"../src/Blocks/ContenedorDependencias/assets/css/dependencias.css",
+    combine:"../src/Blocks/ContenedorTimeline/assets/css/timeline.css",
+    combine:"../src/Blocks/ContenedorCalendario/assets/css/calendario.css",
+    combine:"../src/Blocks/ContenedorParticipacionAlDia/assets/css/participacion-al-dia.css",
+    combine:"../src/Blocks/ContenedorFormularioSecciones/assets/css/formulario-secciones.css",
+    combine:"../src/Blocks/ContenedorYoParticipoEnSalud/assets/css/yoparticipoensalud.css",
+    combine:"../src/Blocks/ContenedorCajaHerramientas/assets/css/caja-herramientas.css",
+    combine:"../src/Blocks/ContenedorBiblioteca/assets/css/biblioteca.css",
+    combine:"../src/Blocks/ContenedorEncuesta/assets/css/encuesta.css",
+
+    combine:"../src/Blocks/ContenedorMapa/assets/css/mapa.css",
+
+    combine:"../src/Blocks/ContenedorBuzon/assets/css/buzon.css",
+
+    //CSS PostTypes
+    combine:"../src/PostTypes/Cursos/assets/css/cursos.css",
+    combine:"../src/PostTypes/Secciones/assets/css/secciones.css",
+    combine:"../src/PostTypes/Secciones/assets/css/donde-esta-tips.css",
+    combine:"../src/PostTypes/Secciones/assets/css/participacion-al-dia.css",
+    combine:"../src/PostTypes/Noticias/assets/css/noticias.css",
+
+    //CSS Output
+    output:"../public/css/styles.css"
+  },
+
+  "Combiner_JS":{
+    //JS Utilidades
+    combine:"../public/js/HoldOn.min.js",
+    combine:"../public/js/sweetalert2.min.js",
+    combine:"../public/js/jquery.validate.js",
+    combine:"../public/js/bootstrap-multiselect.js",
+    combine:"../public/js/bootstrap-datepicker.js",
+    combine:"../public/js/bootstrap-datepicker.es.min.js",
+    combine:"../public/js/jquery.uploadPreview.js",
+    combine:"../public/js/slick.js",
+    combine:"../public/js/fullcalendar.js",
+    combine:"../public/js/tagify.js",
+    combine:"../public/js/isotope.js",
+    combine:"../public/js/infinite-scroll.js",
+    combine:"../public/js/jquery.cookie.js",
+    combine:"../public/js/markerClusterer.js",
+    combine:"../public/js/FileSaver.js",
+    combine:"../public/js/jsZip.js",
+    combine:"../public/js/jssocials.js",
+    combine:"../public/js/jquery-cropper.js",
+
+    //JS Plantilla
+    combine:"../public/js/script.js",
+
+    //JS Blocks
+    combine:"../src/Blocks/ContenedorFormulario/assets/js/modal-formulario.js",
+    combine:"../src/Blocks/ContenedorMultimedia/assets/js/modal-multimedia.js",
+    combine:"../src/Blocks/ContenedorLoginRegister/assets/js/login-register.js",
+    combine:"../src/Blocks/ContenedorLoginRegister/assets/js/mi-perfil.js",
+    combine:"../src/Blocks/ContenedorLoginRegister/assets/js/edit-perfil.js",
+    combine:"../src/Blocks/ContenedorDependencias/assets/js/dependencias.js",
+    combine:"../src/Blocks/ContenedorTimeline/assets/js/timeline.js",
+    combine:"../src/Blocks/ContenedorCalendario/assets/js/calendario.js",
+    combine:"../src/Blocks/ContenedorCalendario/assets/js/calendario-user.js",
+    combine:"../src/Blocks/ContenedorParticipacionAlDia/assets/js/participacion-al-dia.js",
+    combine:"../src/Blocks/ContenedorFormularioSecciones/assets/js/formulario-secciones.js",
+    combine:"../src/Blocks/ContenedorYoParticipoEnSalud/assets/js/yoparticipoensalud.js",
+    combine:"../src/Blocks/ContenedorCajaHerramientas/assets/js/caja-herramientas.js",
+    combine:"../src/Blocks/ContenedorBiblioteca/assets/js/biblioteca.js",
+    combine:"../src/Blocks/ContenedorMapa/assets/js/mapa.js",
+    combine:"../src/Blocks/ContenedorEncuesta/assets/js/encuesta.js",
+
+    combine:"../src/Blocks/ContenedorBuzon/assets/js/buzon.js",
+
+    //JS PostTypes
+    combine:"../src/PostTypes/Secciones/assets/js/donde-esta-tips.js",
+    combine:"../src/PostTypes/Secciones/assets/js/participacion-al-dia.js",
+    combine:"../src/PostTypes/Noticias/assets/js/noticias.js",
+
+    //JS Output
+    output:"../public/js/scripts.js"
+  },
+}

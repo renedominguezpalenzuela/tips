@@ -1,0 +1,184 @@
+.title-cursos{
+    color: var(--tertiary);
+    font-family: 'Klavika';
+    font-weight: 600;
+    font-size: 2.4em;
+    letter-spacing: -2px;
+    margin-top: -12px;
+}
+
+.descripcion-cursos
+{
+    color: var(--tertiary);
+    font-family: 'Klavika';
+    font-weight: 400;
+    font-size: 1.138em;
+    line-height: 1.25;
+}
+
+.separator-btn-cursos-izq
+{
+    background: #ffff;
+    height: 26px;
+    width: 2px;
+    position: relative;
+    margin-top: -4px;
+    top: 2px;
+    float: left;
+    left: 6px;
+}
+
+.separator-btn-cursos-izq::before{
+    content: " ";
+}
+
+.icono-btn-cursos-izq
+{
+    position: relative;
+    float: left;
+    left: 2px;
+    top: 4px;
+    color: #FFF;
+}
+
+.separator-btn-cursos-der
+{
+    background: #ffff;
+    height: 26px;
+    width: 2px;
+    position: relative;
+    margin-top: -4px;
+    top: 2px;
+    float: right;
+    right: 6px;
+}
+
+.separator-btn-cursos-der::before{
+    content: " ";
+}
+
+.icono-btn-cursos-der
+{
+    position: relative;
+    float: right;
+    right: 2px;
+    top: 4px;
+    color: #FFF;
+}
+
+.boton_curso a
+{
+    font-size: 1.4em;
+    background-color: #FFFFFF;
+    font-family: 'Klavika';
+    border-color: var(--tertiary);
+    color: var(--tertiary) !important;
+    font-weight: 500;
+    width: 100%;
+    border-radius: 10px;
+    border: 2px solid;
+    box-shadow: 4px 4px 6px 0px var(--tertiary);
+}
+
+.boton_curso a:hover
+{
+    background-color: var(--primary);
+    border-color: var(--primary);
+    color: #FFFFFF !important;
+}
+
+.boton_pagination_cursos{
+    font-size: .938em;
+    background-color: var(--secondary) !important;
+    border: var(--secondary);
+    font-family: Klavika!important;
+    color: var(--tertiary) !important;
+    font-weight: 500!important;
+    width: 100%;
+}
+
+.boton_pagination_cursos:hover{
+    background-color: var(--tertiary) !important;
+    color: #FFFFFF !important;
+}
+
+
+.border-container-cursos{
+    border-top: 7px solid #dbdce1;
+    border-left: 7px solid #dbdce1;
+    border-top-left-radius: 40px;
+}
+
+.cursos-imagenes
+{
+    margin-bottom: 10px;
+}
+
+.cursos-imagenes img {
+    width: 100%;
+    width: 100%;
+    border: 2px solid var(--tertiary);
+    box-shadow: 4px 4px 6px 0px var(--tertiary);
+    border-radius: 10px
+}
+
+.title-cursos-icon{
+    margin-left: -10px;
+    position: absolute;
+    margin-top: -20px;
+}
+
+.datos-curso-accordion
+{
+    background: #FFF;
+    z-index: 0;
+}
+
+.accordion-button-cursos
+{
+    height: 20px;
+    color: var(--tertiary) !important;
+    font-size: 1.1em;
+    font-family: 'Klavika';
+    font-weight: 400;
+    border: 2px solid var(--secondary);
+    border-radius: 10px !important;
+    background: #FFF;
+}
+
+.accordion-button-cursos:not(.collapsed)
+{
+    background: var(--primary);
+    color: #fff!important;
+    border: 2px solid var(--tertiary);
+}
+
+.accordion-collapse-cursos
+{
+    border: 2px solid var(--tertiary);
+    margin-top: -10px;
+}
+
+.accordion-descripcion-cursos
+{
+    color: var(--tertiary);
+    font-family: 'Klavika';
+    font-weight: 400;
+    font-size: 1.138em;
+    line-height: 1.25;
+    padding: 0px;
+    overflow: auto;
+}
+
+.accordion-button:not(.collapsed)::after
+{
+    background: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='white'%3e%3cpath fill-rule='evenodd' d='M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z'/%3e%3c/svg%3e");
+}
+
+@media (max-width:767px)
+{
+    .title-cursos-icon
+    {
+        display: none;
+    }
+}

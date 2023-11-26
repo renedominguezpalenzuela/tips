@@ -1,0 +1,330 @@
+.container-calendario
+{
+    width: 100%;
+    display: block !important;
+    border: 1.4px solid var(--primary);
+    margin-top: auto;
+    margin-bottom: auto;
+    position: relative;
+    border-radius: 18px;
+    box-shadow: 5px 4px #d3d0d0;
+}
+
+.container-calendario-usuario
+{
+    width: 100%;
+    display: block !important;
+    margin-top: auto;
+    margin-bottom: auto;
+    position: relative;
+}
+
+.fullcalendar_hidden_events, .fullcalendar_hidden_events .fc-event-main
+{
+  display: none !important;
+}
+
+.container-loading, .container-loading-calendario, .container-loading-calendario-usuario
+{
+    display: none; /* hidden by default */
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 9;
+    background: #FFF;
+}
+
+.page-load-status-container, .page-load-status-container-calendario, .page-load-status-container-calendario-usuario
+{
+    display: none; /* hidden by default */
+    top: 50%;
+    color: var(--tertiary);
+    position: absolute;
+    z-index: 10;
+}
+
+.accordion-collapse-calendario
+{
+    background: #fff !important;
+    z-index: 10 !important;
+}
+
+.container-calendario-info
+{
+    text-align: center;
+    display: block;
+    font-family: 'MuseoSans';
+    font-weight: 500;
+    color: var(--primary)!important;
+    font-size: 1em;
+    position: relative;
+    padding: 30px 0px 10px 0px;
+}
+
+.fc .fc-view-harness
+{
+    height: 425px !important;
+}
+
+.fc .fc-scrollgrid-section-liquid>td
+{
+    top: 20px;
+    position: relative;
+}
+
+.fc-day-today
+{
+  background-color: inherit !important;
+}
+
+.fc-bg-event
+{
+    background: none !important;
+}
+
+.borderBottom
+{
+    border-bottom: 2px solid var(--primary);
+    padding: 0px 0px 10px 0px;
+}
+
+.fc .fc-bg-event, .fc-bg-event{
+    opacity: 1 !important;
+    border: 4px solid var(--primary);
+    cursor: pointer;
+    background: initial !important;
+    z-index: 10 !important;
+}
+
+.fc .fc-daygrid-day-number
+{
+    font-family: 'MuseoSans';
+    font-weight: 700;
+    color: var(--tertiary);
+    text-transform: capitalize!important;
+    font-size: 1.5em;
+    border: none !important;
+    margin-top: auto!important;
+    margin-bottom: auto!important;
+    display: block;
+}
+
+.fc .fc-scrollgrid-liquid {
+    border: none !important
+}
+
+.fc-theme-standard td {
+    border: 2px solid var(--secondary) !important;
+}
+
+.fc-theme-standard th {
+    border: none !important
+}
+
+.fc .fc-scrollgrid-section,
+.fc .fc-scrollgrid-section table,
+.fc .fc-scrollgrid-section>td {
+    height: 1px;
+    border-radius: 10px
+}
+
+.fc .fc-button
+{
+    padding: 0px !important;
+}
+
+.fc .fc-button-primary {
+    background-color: #ffffff !important;
+    border-color: transparent !important;
+    color: var(--primary) !important
+}
+
+.fc .fc-toolbar-title {
+    font-family: 'MuseoSans';
+    font-weight: 900;
+    color: var(--tertiary);
+    text-transform: capitalize !important;
+    font-size: 3em !important;
+    text-align: center;
+    padding: 10px;
+}
+
+a.fc-col-header-cell-cushion {
+    font-family: 'MuseoSans';
+    font-weight: 500;
+    color: var(--primary);
+    text-transform: capitalize !important;
+    font-size: 1em
+}
+
+.fc .fc-button .fc-icon {
+    font-size: 3.5em !important
+}
+
+.closeModal {
+    border: 0;
+    color: var(--primary);
+    background: #fff;
+    font-size: 25px
+}
+
+.btnIconClose {
+    float: right;
+    top: -38px;
+    display: flex;
+    position: relative
+}
+
+.modal-content-calendario {
+    border: 6px solid var(--primary);
+    border-radius: 10px;
+    height: 425px;
+}
+
+.modal-body-calendario {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    background: #FFFFFF;
+}
+
+.modal-title-calendario
+{
+    font-family: 'Klavika';
+    font-weight: 500;
+    color: var(--tertiary);
+    text-transform: capitalize!important;
+    font-size: 2em!important;
+}
+
+.modal-subtitle-calendario
+{
+    font-family: 'Klavika';
+    font-weight: 500;
+    color: var(--primary);
+    text-transform: capitalize!important;
+    font-size: 1.2em!important
+}
+
+.modal-descripcion-calendario, .modal-direccion-calendario, .modal-fecha-calendario
+{
+    font-family: 'Klavika';
+    font-weight: 400;
+    color: var(--tertiary);
+    font-size: 1em!important;
+    line-height: 20px;
+}
+
+
+.modal-calendario {
+    left: 0
+}
+
+::-webkit-scrollbar {
+    width: 6px
+}
+
+::-webkit-scrollbar-track {
+    background: #f4f6f8;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #7a8ba3;
+    border-radius: 20px
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555
+}
+
+.fc .fc-daygrid-day-top {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 100%;
+    justify-content: center;
+    font-size: 1.4em!important;
+    text-align: center;
+    position: relative;
+}
+
+.fc .fc-daygrid-body-unbalanced .fc-daygrid-day-events {
+    min-height: 18px !important;
+    position: absolute !important;
+}
+
+/* ###### Estilos a modificar con js para eventos ###### */
+.selected-event::before {
+    content: '';
+    width: 8px;
+    height: 17px;
+    background-color: var(--tertiary)!important;
+    display: flex;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    top: 2px;
+    float: right;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+.selected-event::after {
+    content: '';
+    height: 9px;
+    width: 8px;
+    background-color: var(--primary)!important;
+    border-radius: 50%;
+    bottom: 0;
+    top: 21px;
+    float: right;
+    margin-right: -8px;
+    margin-top: 25px;
+}
+
+.fc .fc-daygrid-day-frame {
+    min-height: 100%;
+    display: flex !important;
+    width: 100% !important;
+    justify-content: space-evenly !important;
+    flex-direction: row !important;
+    align-items: stretch !important;
+}
+
+
+
+@media (max-width:600px)
+{
+    .fc .fc-toolbar-title {
+        font-size: 1.5em !important;
+    }
+
+    .fc .fc-daygrid-day-number
+    {
+        font-size: 0.8em!important;
+    }
+
+    .selected-event::after
+    {
+        display:none;
+    }
+
+    .selected-event::before
+    {
+        display:none;
+    }
+
+}
+
+@media (max-width: 575.98px)
+{
+    .fc .fc-view-harness
+    {
+        height: 240px !important;
+    }
+}
+
+.day-highlight
+{
+  background-color: var(--primary) !important;
+}

@@ -1,0 +1,115 @@
+
+.modal-multimedia .modal-content
+{
+    background: var(--secondary);
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 25px;
+}
+
+
+.modal-open .modal-multimedia {
+   z-index: 100000;
+}
+
+.modal-multimedia .video
+{
+    padding: 10px;
+}
+
+.modal-multimedia video, .modal-multimedia iframe, .rll-youtube-player
+{
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 25px;
+    width: 100%;
+}
+
+.modal-multimedia .titulo
+{
+    font-family: 'MuseoSans';
+    font-weight: 700;
+    font-size: 1.5em;
+    color: var(--tertiary);
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    line-height: 1.25em;
+    letter-spacing: -2px;
+}
+
+.modal-multimedia .descripcion
+{
+    font-family: 'Klavika';
+    font-weight: 400;
+    font-size: 1.1em;
+    color: var(--tertiary);
+    text-align: center;
+    margin: auto;
+    line-height: 20px;
+    width: 80%;
+    margin-top: 20px;
+}
+
+.modal-multimedia .modal-botones
+{
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+}
+
+.modal-multimedia .btn-multimedia
+{
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 25px;
+    width: 150px;
+    color: #fff;
+    border: none;
+    font-family: 'Klavika';
+    margin: 0 0 10px;
+    font-weight: 500;
+    font-size: 1em;
+}
+
+.btn-multimedia-si
+{
+    background: var(--tertiary);
+}
+
+.btn-multimedia-no
+{
+    background: var(--tertiary);
+}
+
+button.btn.btn-multimedia.btn-multimedia-si:active, button.btn.btn-multimedia.btn-multimedia-si:hover, button.btn.btn-multimedia.btn-multimedia-si:focus, button.btn.btn-multimedia.btn-multimedia-si:focus-visible
+{
+    background: var(--primary);
+    color: #FFF;
+    border: none;
+}
+
+button.btn.btn-multimedia.btn-multimedia-no:active, button.btn.btn-multimedia.btn-multimedia-no:hover, button.btn.btn-multimedia.btn-multimedia-no:focus, button.btn.btn-multimedia.btn-multimedia-no:focus-visible
+
+{
+    background: var(--primary);
+    color: #FFF;
+    border: none;
+}
+
+@media (max-width:992px)
+{
+    .modal-multimedia .titulo
+    {
+        font-size: 1.48em;
+        width: 78%;
+    }
+
+    .modal-multimedia .btn-multimedia
+    {
+        width: 100%;
+        margin: 0px 0px 20px 0px;
+        padding: 10px;
+    }
+
+}

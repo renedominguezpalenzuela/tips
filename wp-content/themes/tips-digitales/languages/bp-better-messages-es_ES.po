@@ -1,0 +1,5985 @@
+# Translation of Plugins - Better Messages – Live Chat for WordPress, BuddyPress, PeepSo, Ultimate Member, BuddyBoss - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Better Messages – Live Chat for WordPress, BuddyPress, PeepSo, Ultimate Member, BuddyBoss - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-04-14 11:50:23+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Better Messages – Live Chat for WordPress, BuddyPress, PeepSo, Ultimate Member, BuddyBoss - Stable (latest release)\n"
+
+#: views/layout-settings.php:2599 views/layout-settings.php:3090
+#: views/layout-settings.php:3426
+msgctxt "Settings page"
+msgid "When enabled users will receive push notifications for Group Chats"
+msgstr ""
+
+#: addons/onesignal.php:67
+msgctxt "Settings page"
+msgid "The OneSignal WordPress plugin integration is active and will be used, this option do not need to be enabled. Please follow <a href=\"%s\" target=\"_blank\">this guide</a> to configure integration"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:393 assets/js/bp-messages-premium.js:393
+msgid "All"
+msgstr "Todo"
+
+#: assets/js/bp-messages-free.js:390 assets/js/bp-messages-premium.js:390
+msgctxt "Users List"
+msgid "Anonymous"
+msgstr "Anónimo"
+
+#: assets/js/bp-messages-free.js:221 assets/js/bp-messages-premium.js:221
+msgid "Register"
+msgstr "Registro"
+
+#: assets/js/bp-messages-free.js:219 assets/js/bp-messages-premium.js:219
+msgid "Change"
+msgstr "Cambiar"
+
+#: assets/js/bp-messages-free.js:218 assets/js/bp-messages-premium.js:218
+msgctxt "Moderation actions"
+msgid "Guest Settings"
+msgstr "Ajustes de invitado"
+
+#: assets/js/bp-messages-free.js:217 assets/js/bp-messages-premium.js:217
+msgctxt "Not logged-in user"
+msgid "Chatting as"
+msgstr "Chateando cómo"
+
+#: assets/js/bp-messages-free.js:121 assets/js/bp-messages-premium.js:121
+msgid "Save"
+msgstr "Guardar"
+
+#: assets/js/bp-messages-free.js:120 assets/js/bp-messages-premium.js:120
+msgid "Display Name"
+msgstr "Nombre visible"
+
+#: views/layout-settings.php:1121
+msgctxt "Settings page"
+msgid "Enable Support Chat widget for not logged in users which allow to contact website support contacts"
+msgstr ""
+
+#: views/layout-settings.php:1109
+msgctxt "Settings page"
+msgid "Support Chat"
+msgstr "Soporte de chat"
+
+#: views/layout-settings.php:349
+msgctxt "Settings page"
+msgid "Guest Chat"
+msgstr ""
+
+#: inc/chats.php:700
+msgctxt "Chat rooms settings page"
+msgid "Guest Chat Button Text"
+msgstr ""
+
+#: inc/chats.php:568
+msgctxt "Chat rooms settings page"
+msgid "Allow not logged-in users (guests) to send messages in chat room"
+msgstr ""
+
+#: inc/chats.php:335 inc/chats.php:420
+msgctxt "Chat rooms settings page"
+msgid "Chat as Guest"
+msgstr "Chat anónimo"
+
+#: addons/dokan.php:56
+msgctxt "Marketplace Integrations"
+msgid "Enable live chat in store"
+msgstr ""
+
+#: addons/dokan.php:51
+msgctxt "Marketplace Integrations"
+msgid "Live Chats"
+msgstr ""
+
+#: inc/guests.php:112 assets/js/bp-messages-free.js:9
+#: assets/js/bp-messages-premium.js:9
+msgctxt "Not logged-in user"
+msgid "Anonymous User"
+msgstr "Usuario Anónimo"
+
+#: assets/js/bp-messages-free.js:392 assets/js/bp-messages-premium.js:392
+msgctxt "Users List"
+msgid "Banned"
+msgstr "Bloqueado"
+
+#: assets/js/bp-messages-free.js:391 assets/js/bp-messages-premium.js:391
+msgctxt "Users List"
+msgid "Muted"
+msgstr "Silenciado"
+
+#: assets/js/bp-messages-free.js:389 assets/js/bp-messages-premium.js:389
+msgctxt "Users List"
+msgid "Moderators"
+msgstr "Moderadores"
+
+#: assets/js/bp-messages-free.js:386 assets/js/bp-messages-premium.js:386
+msgctxt "Moderation actions"
+msgid "Banned until %s"
+msgstr "Bloqueado hasta el %s"
+
+#: assets/js/bp-messages-free.js:385 assets/js/bp-messages-premium.js:385
+msgctxt "Moderation actions"
+msgid "Muted until %s"
+msgstr "Silenciado hasta el %s"
+
+#: assets/js/bp-messages-free.js:384 assets/js/bp-messages-premium.js:384
+msgctxt "Moderation actions"
+msgid "Unban user"
+msgstr "Desbloquear usuario"
+
+#: assets/js/bp-messages-free.js:383 assets/js/bp-messages-premium.js:383
+msgctxt "Moderation actions"
+msgid "Ban user"
+msgstr "Bloquear al usuario"
+
+#: assets/js/bp-messages-free.js:382 assets/js/bp-messages-premium.js:382
+msgctxt "Moderation actions"
+msgid "Unmute user"
+msgstr "Dejar de silenciar usuario"
+
+#: assets/js/bp-messages-free.js:381 assets/js/bp-messages-premium.js:381
+msgctxt "Moderation actions"
+msgid "Mute user"
+msgstr "Silenciar usuario"
+
+#: assets/js/bp-messages-free.js:380 assets/js/bp-messages-premium.js:380
+msgctxt "Remove user from the conversation"
+msgid "Kick participant"
+msgstr "Expulsar usuario"
+
+#: assets/js/bp-messages-free.js:125 assets/js/bp-messages-premium.js:125
+msgctxt "Moderation actions"
+msgid "Mute"
+msgstr "Silenciar"
+
+#: assets/js/bp-messages-free.js:124 assets/js/bp-messages-premium.js:124
+msgctxt "Moderation actions"
+msgid "Mute user for"
+msgstr "Silenciar usuario por"
+
+#: assets/js/bp-messages-free.js:119 assets/js/bp-messages-premium.js:119
+msgctxt "Moderation actions"
+msgid "Ban"
+msgstr "Bloquear"
+
+#: assets/js/bp-messages-free.js:118 assets/js/bp-messages-premium.js:118
+msgid "Days"
+msgstr "Días"
+
+#: assets/js/bp-messages-free.js:117 assets/js/bp-messages-premium.js:117
+msgid "Hours"
+msgstr "Horas"
+
+#: assets/js/bp-messages-free.js:116 assets/js/bp-messages-premium.js:116
+msgid "Minutes"
+msgstr "Minutos"
+
+#: assets/js/bp-messages-free.js:115 assets/js/bp-messages-premium.js:115
+msgctxt "Moderation actions"
+msgid "Ban user for"
+msgstr "Bloquear al usuario por"
+
+#: inc/moderation.php:213
+msgctxt "Message when user was muted in conversation"
+msgid "You were muted in this conversation until %s"
+msgstr "Has sido silenciado en esta conversación hasta el %s"
+
+#: views/layout-settings.php:3749
+msgctxt "Settings page"
+msgid "Complete delete database data and reinstall the tables"
+msgstr "Completar borrado de base de datos y reinstalar las tablas"
+
+#: views/layout-settings.php:3748 views/layout-settings.php:3752
+msgctxt "Settings page"
+msgid "Reset Database"
+msgstr "Restablecer base de datos"
+
+#: views/layout-settings.php:3741
+msgctxt "Settings page"
+msgid "Database"
+msgstr "Base de datos"
+
+#: views/layout-settings.php:3457
+msgctxt "Settings page"
+msgid "Enable push notifications on new messages in BuddyBoss application when user is offline."
+msgstr "Activar notificaciones push en nuevos mensajes en la aplicación BuddyBoss cuando el usuario no está en línea."
+
+#: views/layout-settings.php:3456
+msgctxt "Settings page"
+msgid "Enable BuddyBoss App Push Notifications"
+msgstr "Permitir las Notificaciones Push del Navegador"
+
+#: views/layout-settings.php:364
+msgctxt "Settings page"
+msgid "Tools"
+msgstr "Herramientas"
+
+#: addons/buddyboss/notifications/new-message.php:100
+msgid "A member receives a new private message "
+msgstr "Un miembro recibe un nuevo mensaje privado "
+
+#: addons/buddyboss/notifications/new-message.php:99
+msgid "You receive a new private message"
+msgstr "Has recibido un nuevo mensaje privado"
+
+#: addons/buddyboss/notifications/new-message.php:75
+msgid "Private Messages"
+msgstr "Mensajes privados"
+
+#: assets/js/bp-messages-free.js:85 assets/js/bp-messages-premium.js:85
+msgctxt "Conversations list item"
+msgid "Pinned conversation"
+msgstr "Conversación anclada"
+
+#: assets/js/bp-messages-free.js:52 assets/js/bp-messages-premium.js:52
+msgctxt "\"Pin thread\" Button"
+msgid "Pin to top"
+msgstr "Anclar en la parte superior"
+
+#: assets/js/bp-messages-free.js:51 assets/js/bp-messages-premium.js:51
+msgctxt "\"Unpin thread\" Button"
+msgid "Unpin from top"
+msgstr "Desanclar de la parte superior"
+
+#: views/layout-settings.php:862
+msgctxt "Settings page"
+msgid "Users will be able to pin specific conversations to the top of conversations list"
+msgstr "Los usuarios podrán fijar conversaciones específicas en la parte superior de la lista de conversaciones."
+
+#: views/layout-settings.php:861
+msgctxt "Settings page"
+msgid "Enable Pinned Conversations"
+msgstr "Permitir conversaciones ancladas"
+
+#: views/layout-settings.php:849
+msgctxt "Settings page"
+msgid "Conversations functions"
+msgstr "Funciones de conversaciones"
+
+#: assets/js/bp-messages-free.js:72 assets/js/bp-messages-premium.js:72
+msgctxt "\"Erase thread\" Button"
+msgid "Erase conversation"
+msgstr "Borrar conversación"
+
+#: views/layout-viewer.php:56
+msgctxt "WP Admin"
+msgid "Filter"
+msgstr "Filtrar"
+
+#: views/layout-viewer.php:53
+msgctxt "WP Admin"
+msgid "Type user name or user id"
+msgstr "Escriba el nombre de usuario o la identificación del usuario"
+
+#: views/layout-viewer.php:52
+msgctxt "WP Admin"
+msgid "Filter by Sender"
+msgstr "Filtrado por Remitente"
+
+#: views/layout-settings.php:1292
+msgctxt "Settings page"
+msgid "Add \"Tap to open\" message to message container"
+msgstr "Agregar mensaje \"toque para abrir\" el contenedor de mensajes"
+
+#: views/layout-settings.php:1291
+msgctxt "Settings page"
+msgid "Tap To Open Message"
+msgstr "Toque para abrir el mensaje"
+
+#: views/layout-settings.php:1374
+msgctxt "Settings page"
+msgid "Always show popup notifications on bottom"
+msgstr "Permitir notificaciones en la parte inferior"
+
+#: views/layout-settings.php:1373
+msgctxt "Settings page"
+msgid "Always on Bottom"
+msgstr "Siempre en la parte inferior"
+
+#: views/layout-settings.php:1369
+msgctxt "Settings page"
+msgid "Always show popup notifications on top"
+msgstr "Siempre mostrar notificaciones en la parte inferior"
+
+#: views/layout-settings.php:1368
+msgctxt "Settings page"
+msgid "Always on Top"
+msgstr "Siempre arriba"
+
+#: views/layout-settings.php:1364
+msgctxt "Settings page"
+msgid "Show popup notifications on bottom, but in conversation screen shows it on top to not overlay over the reply area."
+msgstr "Mostrar notificaciones en la parte inferior, pero en la pantalla mostrar en la parte superior del area de respuesta."
+
+#: views/layout-settings.php:1363
+msgctxt "Settings page"
+msgid "Automatic position"
+msgstr "Posición automática"
+
+#: views/layout-settings.php:1350
+msgctxt "Settings page"
+msgid "Mobile Onsite Notifications"
+msgstr "Desactivar las notificaciones del mismo sitio"
+
+#: views/layout-settings.php:1227
+msgctxt "Settings page"
+msgid "If enabled the open mini chats will not be saved and will not be synced between browser tabs"
+msgstr "Si está activo, los mini chats abiertos no serán guardados y no serán sincronizados entre las pestañas del navegador"
+
+#: views/layout-settings.php:1226
+msgctxt "Settings page"
+msgid "Disable synchronization of mini chats between browser tabs."
+msgstr "Desactivar sincronización de mini chats entre pestañas del navegador."
+
+#: views/layout-settings.php:1225
+msgctxt "Settings page"
+msgid "Disable Sync Between Tabs"
+msgstr "Desactivar Sincronización Entre Pestañas"
+
+#: views/layout-settings.php:3832
+msgctxt "Settings page"
+msgid "Shows single conversation at any page"
+msgstr "Muestra una sola conversación en cada página"
+
+#: views/layout-settings.php:3831
+msgctxt "Settings page"
+msgid "Single Conversation Display"
+msgstr "Vista de Conversación Única"
+
+#: inc/shortcodes.php:86
+msgid "Conversation not exists"
+msgstr "La conversación no existe"
+
+#: views/layout-settings.php:3468
+msgctxt "Settings page"
+msgid "This is disabled by default as it can cause issues with some plugins."
+msgstr "Esto está desactivado por defecto ya que puede causar problemas en algunos plugins."
+
+#: views/layout-settings.php:3467
+msgctxt "Settings page"
+msgid "Enable fallback when sending function with buddypress native messages_new_message function."
+msgstr ""
+
+#: views/layout-settings.php:3466
+msgctxt "Settings page"
+msgid "Enable fallback when sending new message"
+msgstr ""
+
+#: views/layout-settings.php:3444
+msgctxt "Settings page"
+msgid "Other"
+msgstr "Otro"
+
+#: addons/uncanny/better-messages/actions/automator-send-message-action.php:45
+msgctxt "Uncanny Automator Integration"
+msgid "Recipient"
+msgstr "Destinatario"
+
+#: addons/uncanny/better-messages/actions/automator-send-message-action.php:41
+#: addons/uncanny/better-messages/actions/automator-send-message-action.php:49
+msgctxt "Uncanny Automator Integration"
+msgid "Accepts User ID"
+msgstr ""
+
+#: addons/uncanny/better-messages/actions/automator-send-message-action.php:37
+msgctxt "Uncanny Automator Integration"
+msgid "Sender"
+msgstr "Remitente"
+
+#. translators: Action - WordPress
+#: addons/uncanny/better-messages/actions/automator-send-message-action.php:31
+msgctxt "Uncanny Automator Integration"
+msgid "Send {{a private message}} to the user"
+msgstr "Enviar {{mensaje privado}} al usuario"
+
+#. translators: Action - WordPress
+#: addons/uncanny/better-messages/actions/automator-send-message-action.php:29
+msgctxt "Uncanny Automator Integration"
+msgid "Send {{a private message:%1$s}} to the user"
+msgstr "Enviar {{mensaje privado:%1$s}} al usuario"
+
+#: addons/automatorwp/actions/send-message.php:58
+msgctxt "Uncanny AutomatorWP Integration"
+msgid "Content"
+msgstr "Contenido"
+
+#: addons/automatorwp/actions/send-message.php:52
+#: addons/uncanny/better-messages/actions/automator-send-message-action.php:66
+msgctxt "Uncanny Automator Integration"
+msgid "If you dont want to create many conversations with same user. You need to put unique tag, which will create conversation or send reply to conversation within the unique tag. For example for all system messages you can put \"system\" tag and they all will be sending to same conversation."
+msgstr ""
+
+#: addons/automatorwp/actions/send-message.php:51
+msgctxt "Uncanny AutomatorWP Integration"
+msgid "Unique Tag"
+msgstr ""
+
+#: addons/automatorwp/actions/send-message.php:45
+msgctxt "Uncanny AutomatorWP Integration"
+msgid "Subject"
+msgstr "Asunto"
+
+#: addons/automatorwp/actions/send-message.php:38
+msgctxt "Uncanny AutomatorWP Integration"
+msgid "Recipient"
+msgstr "Destinatario"
+
+#: addons/automatorwp/actions/send-message.php:32
+#: addons/automatorwp/actions/send-message.php:39
+msgctxt "Uncanny AutomatorWP Integration"
+msgid "Accepts User ID"
+msgstr ""
+
+#: addons/automatorwp/actions/send-message.php:31
+msgctxt "Uncanny AutomatorWP Integration"
+msgid "Sender"
+msgstr "Remitente"
+
+#: addons/automatorwp/actions/send-message.php:28
+msgctxt "Uncanny AutomatorWP Integration"
+msgid "a private message"
+msgstr "un mensaje privado"
+
+#. translators: %1$s: User.
+#: addons/automatorwp/actions/send-message.php:23
+#: addons/automatorwp/actions/send-message.php:25
+msgctxt "Uncanny AutomatorWP Integration"
+msgid "Send a %1$s to the user"
+msgstr "Enviar un %1$s al usuario"
+
+#: addons/automatorwp/actions/send-message.php:20
+#: addons/automatorwp/actions/send-message.php:21
+msgctxt "Uncanny AutomatorWP Integration"
+msgid "Send <strong>a private message</strong> to the user"
+msgstr "Send <strong>un mensaje privado</strong> al usuario"
+
+#: assets/js/bp-messages-free.js:360 assets/js/bp-messages-premium.js:360
+msgid "Connection dropped! This could happen if another participant of this call closed their browser or lost internet connection."
+msgstr "¡Se cayó la conexión! Esto podría suceder si otro participante de esta llamada cerrara su navegador o perdiera la conexión a Internet."
+
+#: assets/js/bp-messages-free.js:226 assets/js/bp-messages-premium.js:226
+msgid "Send Message"
+msgstr "Enviar mensaje"
+
+#: assets/js/bp-messages-free.js:452 assets/js/bp-messages-premium.js:452
+msgid "Are you sure you want to unmute this conversation?"
+msgstr "¿Seguro que quieres activar el sonido de esta conversación?"
+
+#: assets/js/bp-messages-free.js:451 assets/js/bp-messages-premium.js:451
+msgid "Are you sure you want to mute this conversation?"
+msgstr "¿Seguro que quieres silenciar esta conversación?"
+
+#: inc/hooks.php:1622
+msgid "You already have conversations with %s"
+msgstr "Ya tienes conversaciones con %s"
+
+#: assets/js/bp-messages-free.js:450 assets/js/bp-messages-premium.js:450
+msgctxt "Thread restoring"
+msgid "Conversation restored"
+msgstr "Conversación restaurada"
+
+#: assets/js/bp-messages-free.js:449 assets/js/bp-messages-premium.js:449
+msgctxt "Thread restoring"
+msgid "Restoring conversation"
+msgstr "Restaurando conversación"
+
+#: inc/component.php:142
+msgid "New Conversation"
+msgstr "Nueva conversación"
+
+#: inc/component.php:121
+msgid "Conversations"
+msgstr "Conversaciones"
+
+#: addons/giphy.php:104 addons/stickers.php:121
+msgid "You are not allowed to reply to this conversation."
+msgstr "No tienes permiso para responder a esta conversación."
+
+#: views/layout-settings.php:3820 views/layout-settings.php:3847
+#: views/layout-settings.php:3868 views/layout-settings.php:3889
+msgctxt "Settings page"
+msgid "You can force user id with user_id=\"1\" attribute."
+msgstr "Puede forzar la identificación del usuario con el atributo user_id=\"1\"."
+
+#: inc/api/bulk-message.php:118
+msgid "Admin disabled replies to this conversation"
+msgstr "El administrador deshabilitó las respuestas a esta conversación"
+
+#: assets/js/bp-messages-free.js:379 assets/js/bp-messages-premium.js:379
+msgctxt "Users List"
+msgid "Remove from moderators"
+msgstr "Eliminar de los moderadores"
+
+#: assets/js/bp-messages-free.js:378 assets/js/bp-messages-premium.js:378
+msgctxt "Users List"
+msgid "Promote to moderator"
+msgstr "Ascender a moderador"
+
+#: assets/js/bp-messages-free.js:241 assets/js/bp-messages-premium.js:241
+msgctxt "Conversation Settings"
+msgid "Change conversation subject"
+msgstr "Cambiar tema de conversación"
+
+#: assets/js/bp-messages-free.js:170 assets/js/bp-messages-premium.js:170
+msgctxt "Bulk Messages Page"
+msgid "Hide this conversation from your conversation list"
+msgstr "Ocultar esta conversación de tu lista de conversaciones"
+
+#: assets/js/bp-messages-free.js:56 assets/js/bp-messages-premium.js:56
+msgctxt "\"Mute thread\" Button"
+msgid "Mute conversation"
+msgstr "Silenciar conversación"
+
+#: assets/js/bp-messages-free.js:54 assets/js/bp-messages-premium.js:54
+msgctxt "\"Unmute thread\" Button"
+msgid "Unmute conversation"
+msgstr "Activar conversación"
+
+#: views/layout-viewer.php:107
+msgctxt "WP Admin"
+msgid "Conversation ID:"
+msgstr "ID de conversación:"
+
+#: views/layout-viewer.php:63
+msgctxt "WP Admin"
+msgid "Conversation"
+msgstr "Conversación"
+
+#: views/layout-settings.php:2187
+msgctxt "Settings page"
+msgid "Message when call is restricted"
+msgstr "Mensaje cuando la llamada está restringida"
+
+#: views/layout-settings.php:2062
+msgctxt "Settings page"
+msgid "Message when word from Bad Words List is found in message"
+msgstr "Mensaje cuando se encuentra una palabra de la lista de malas palabras en el mensaje"
+
+#: views/layout-settings.php:1990
+msgctxt "Settings page"
+msgid "Content of messages when user is restricted from viewing message"
+msgstr "Contenido de los mensajes cuando el usuario no puede ver el mensaje"
+
+#: views/layout-settings.php:1968
+msgctxt "Settings page"
+msgid "Message when new replies are restricted"
+msgstr "Mensaje cuando las nuevas respuestas están restringidas"
+
+#: views/layout-settings.php:1914
+msgctxt "Settings page"
+msgid "Message when rate limit for new replies reached"
+msgstr "Mensaje cuando se alcanza el límite de frecuencia para nuevas respuestas"
+
+#: views/layout-settings.php:1623
+msgctxt "Settings page"
+msgid "Disable onsite notifications about new messages"
+msgstr "Deshabilitar las notificaciones en el sitio sobre nuevos mensajes"
+
+#: views/layout-settings.php:1546
+msgctxt "Settings page"
+msgid "Mute Conversations"
+msgstr "Silenciar conversaciones"
+
+#: views/layout-settings.php:1537
+msgctxt "Settings page"
+msgid "Browser Tab Notifications"
+msgstr "Notificaciones de la pestaña del navegador"
+
+#: views/layout-settings.php:1388
+msgctxt "Settings page"
+msgid "Margin from bottom for Mobile Chat button (px)"
+msgstr "Margen desde abajo para el botón de chat móvil (px)"
+
+#: assets/js/bp-messages-free.js:422 assets/js/bp-messages-premium.js:422
+msgctxt "Thread deleting"
+msgid "Conversation deleted"
+msgstr "Conversación eliminada"
+
+#: assets/js/bp-messages-free.js:421 assets/js/bp-messages-premium.js:421
+msgctxt "Thread deleting"
+msgid "Deleting conversation"
+msgstr "Eliminando conversación"
+
+#: views/layout-settings.php:2405
+msgctxt "Settings page"
+msgid "Disable New Conversation Screen"
+msgstr "Desactivar nueva pantalla de conversación"
+
+#: views/layout-settings.php:2396
+msgctxt "Settings page"
+msgid "Disables user settings button"
+msgstr "Desactiva el botón de configuración del usuario"
+
+#: views/layout-settings.php:2349
+msgctxt "Settings page"
+msgid "Side conversation list width"
+msgstr "Ancho de la lista de conversaciones secundarias"
+
+#: views/layout-settings.php:2269
+msgctxt "Settings page"
+msgid "Enable Audio Chat for Conversations"
+msgstr "Habilitar Chat de Audio para las Conversaciones"
+
+#: views/layout-settings.php:2229
+msgctxt "Settings page"
+msgid "Enable Video Chat for Conversations"
+msgstr "Habilitar Videollamada para las Conversaciones"
+
+#: views/layout-settings.php:1999
+msgctxt "Settings page"
+msgid "Restrict access to mini widgets"
+msgstr "Restringir el acceso a mini widgets"
+
+#: views/layout-settings.php:1937
+msgctxt "Settings page"
+msgid "Message when the creation of a new conversation restricted"
+msgstr "Mensaje cuando se restringe la creación de una nueva conversación"
+
+#: views/layout-settings.php:591
+msgctxt "Settings page"
+msgid "Always show conversation list on left side of conversation"
+msgstr "Mostrar siempre la lista de conversaciones en el lado izquierdo de la conversación"
+
+#: views/layout-settings.php:481
+msgctxt "Settings page"
+msgid "AJAX refresh interval on open conversation"
+msgstr "Intervalo de actualización de AJAX en conversación abierta"
+
+#: views/layout-settings.php:480 views/layout-settings.php:486
+#: views/layout-settings.php:501
+msgctxt "Settings page"
+msgid "Conversation Refresh Interval"
+msgstr "Intervalo de actualización de conversación"
+
+#: inc/chats.php:683
+msgctxt "Chat rooms settings page"
+msgid "Not Authorized Message"
+msgstr "Mensaje no autorizado"
+
+#: inc/chats.php:333 inc/chats.php:428
+msgctxt "Chat rooms settings page"
+msgid "You need to login to website to send messages"
+msgstr "Necesita iniciar sesión en el sitio web para enviar mensajes"
+
+#: inc/chats.php:329 inc/chats.php:402
+msgctxt "Chat rooms settings page"
+msgid "You need to join this chat room to send messages"
+msgstr "Necesitas unirte a esta sala de chat para enviar mensajes"
+
+#: views/layout-settings.php:3911
+msgctxt "Settings page"
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: views/layout-settings.php:3887
+msgctxt "Settings page"
+msgid "Shows audio call button"
+msgstr "Muestra el botón de llamada de audio"
+
+#: views/layout-settings.php:3866
+msgctxt "Settings page"
+msgid "Shows video call button"
+msgstr "Muestra el botón de videollamada"
+
+#: views/layout-settings.php:3845
+msgctxt "Settings page"
+msgid "This button will work only if Mini Chats option is enabled"
+msgstr "Este botón funcionará solo si la opción Mini Chats está habilitada"
+
+#: views/layout-settings.php:3844
+msgctxt "Settings page"
+msgid "Shows mini chat button (opens mini chat with user on click)"
+msgstr "Muestra el botón de mini chat (abre el mini chat con el usuario al hacer clic)"
+
+#: views/layout-settings.php:3843
+msgctxt "Settings page"
+msgid "Mini Chat Button"
+msgstr "Botón Mini chat"
+
+#: views/layout-settings.php:3818
+msgctxt "Settings page"
+msgid "Shows private message button"
+msgstr "Muestra el botón de mensaje privado"
+
+#: views/layout-settings.php:3817
+msgctxt "Settings page"
+msgid "Private Message Button"
+msgstr "Botón de mensaje privado"
+
+#: views/layout-settings.php:3803
+msgctxt "Settings page"
+msgid "For example: "
+msgstr "Por ejemplo: "
+
+#: views/layout-settings.php:3799
+msgctxt "Settings page"
+msgid "Return url to logged in user inbox"
+msgstr "Devolver URL a la bandeja de entrada del usuario registrado"
+
+#: views/layout-settings.php:3798
+msgctxt "Settings page"
+msgid "My messages URL"
+msgstr "URL de mis mensajes"
+
+#: views/layout-settings.php:3787
+msgctxt "Settings page"
+msgid "Show unread messages counter anywhere in your website"
+msgstr "Muestra el contador de mensajes no leídos en cualquier parte de tu sitio web"
+
+#: views/layout-settings.php:3786
+msgctxt "Settings page"
+msgid "Unread messages counter"
+msgstr "Contador de mensajes no leídos"
+
+#: views/layout-settings.php:3670
+msgctxt "Settings page"
+msgid "Paste settings copied before"
+msgstr "Pegar configuraciones copiadas antes"
+
+#: views/layout-settings.php:3669
+msgctxt "Settings page"
+msgid "Import Settings"
+msgstr "Importar ajustes"
+
+#: views/layout-settings.php:3657
+msgctxt "Settings page"
+msgid "Copy settings, so you can import them later to another website"
+msgstr "Copiar Ajustes, para que puedas importarlos después a otro sitio web"
+
+#: views/layout-settings.php:3656
+msgctxt "Settings page"
+msgid "Export Settings"
+msgstr "Exportar los ajustes"
+
+#: views/layout-settings.php:3639
+msgctxt "Settings page"
+msgid "Outgoing call sound volume"
+msgstr "Volumen del sonido de la llamada saliente"
+
+#: views/layout-settings.php:3629
+msgctxt "Settings page"
+msgid "Incoming call sound volume"
+msgstr "Volumen del sonido de la llamada entrante"
+
+#: views/layout-settings.php:3620
+msgctxt "Settings page"
+msgid "Message sent sound volume"
+msgstr "Volumen del sonido del mensaje enviado"
+
+#: views/layout-settings.php:3612 views/layout-settings.php:3621
+#: views/layout-settings.php:3630 views/layout-settings.php:3640
+msgctxt "Settings page"
+msgid "From 0 to 100 (0 to disable)"
+msgstr "De 0 a 100 (0 para desactivar)"
+
+#: views/layout-settings.php:3611
+msgctxt "Settings page"
+msgid "Message notification sound volume"
+msgstr "Volumen de sonido del mensaje de notificación"
+
+#: views/layout-settings.php:3482
+msgctxt "Settings page"
+msgid "This notice will be hidden when MyCRED plugin is installed"
+msgstr "Este aviso se ocultará cuando se instale el plugin MyCRED"
+
+#: views/layout-settings.php:3220
+msgctxt "Settings page"
+msgid "For example (en, ko, es)"
+msgstr "Por ejemplo (en, ko, es)"
+
+#: views/layout-settings.php:3218
+msgctxt "Settings page"
+msgid "Language"
+msgstr "Idioma"
+
+#: views/layout-settings.php:3210
+msgctxt "Settings page"
+msgid "Leave this field empty to disable stickers"
+msgstr "Dejar este espacio vacío para desactivar los stickers"
+
+#: views/layout-settings.php:3209
+msgctxt "Settings page"
+msgid "Stipop.io API Key"
+msgstr ""
+
+#: views/layout-settings.php:3179
+msgctxt "Settings page"
+msgid "GIPHY Language <a href=\"%s\" target=\"_blank\">Learn more</a>"
+msgstr ""
+
+#: views/layout-settings.php:3178
+msgctxt "Settings page"
+msgid "GIPHY Language"
+msgstr "Lenguaje GIPHY"
+
+#: views/layout-settings.php:3169
+msgctxt "Settings page"
+msgid "GIPHY Content rating"
+msgstr "Clasificación de contenido de GIPHY"
+
+#: views/layout-settings.php:3161
+msgctxt "Settings page"
+msgid "How to create GIPHY API key"
+msgstr "Cómo crear una clave API de GIPHY"
+
+#: views/layout-settings.php:3160
+msgctxt "Settings page"
+msgid "Leave this field empty to disable giphy"
+msgstr "Deja este espacio vacío para desactivar giphy"
+
+#: views/layout-settings.php:3159
+msgctxt "Settings page"
+msgid "GIPHY API Key"
+msgstr "Clave API de GIPHY"
+
+#: views/layout-settings.php:2395
+msgctxt "Settings page"
+msgid "Disable User Settings"
+msgstr "Deshabilitar Ajustes del Usuario"
+
+#: views/layout-settings.php:2386
+msgctxt "Settings page"
+msgid "Disables favorite messages functionality"
+msgstr "Deshabilita la funcionalidad de mensajes favoritos"
+
+#: views/layout-settings.php:2385
+msgctxt "Settings page"
+msgid "Disable Favorite Messages"
+msgstr "Desactivar Añadir Mensajes a Favoritos"
+
+#: views/layout-settings.php:2376
+msgctxt "Settings page"
+msgid "Disables search functionality"
+msgstr "Deshabilita la funcionalidad de búsqueda"
+
+#: views/layout-settings.php:2375
+msgctxt "Settings page"
+msgid "Disable Search"
+msgstr "Desactivar la búsqueda"
+
+#: views/layout-settings.php:2366
+msgctxt "Settings page"
+msgid "Allow user disable sound notifications in their user settings"
+msgstr "Permitir que el usuario desactive los sonidos de notificaciones en su configuración de usuario"
+
+#: views/layout-settings.php:2365
+msgctxt "Settings page"
+msgid "Allow to disable sound notification"
+msgstr "Permitir la desactivación de las notificaciones sonido"
+
+#: views/layout-settings.php:2145
+msgctxt "Settings page"
+msgid "Missed call message when user was offline"
+msgstr "Mensaje de llamada perdida cuando el usuario no estaba conectado"
+
+#: views/layout-settings.php:2135
+msgctxt "Settings page"
+msgid "Call Request Time Limit"
+msgstr "Límite de Tiempo de Petición de Llamada"
+
+#: views/layout-settings.php:2130
+msgctxt "Settings page"
+msgid "Call time limit before call marked as missed (seconds)"
+msgstr "Límite de tiempo de la llamada para marcar como perdida (segundos)"
+
+#: views/layout-settings.php:2121
+msgctxt "Settings page"
+msgid "Makes mute and hide video icons to appear in reverse way"
+msgstr "Hace que los íconos de silenciar y ocultar vídeo aparezcan en forma inversa"
+
+#: views/layout-settings.php:2120
+msgctxt "Settings page"
+msgid "Revert Mute Voice & Hide Video icons"
+msgstr "Invertir los íconos de Silenciar Voz y Ocultar Vídeo"
+
+#: views/layout-settings.php:2098
+msgctxt "Settings page"
+msgid "Allow users to make audio calls between each other"
+msgstr "Permite a los usuarios que hagan llamadas de voz entre ellos"
+
+#: views/layout-settings.php:2097
+msgctxt "Settings page"
+msgid "Enable Audio Calls"
+msgstr "Activar Llamadas de Voz"
+
+#: views/layout-settings.php:2087
+msgctxt "Settings page"
+msgid "Allow users to make video calls between each other"
+msgstr "Permitir a los usuarios que hagan video llamadas entre ellos"
+
+#: views/layout-settings.php:2086
+msgctxt "Settings page"
+msgid "Enable Video Calls"
+msgstr "Activar Vídeo Llamadas"
+
+#: views/layout-settings.php:2078
+msgctxt "Settings page"
+msgid "This notice will be hidden when website will work via HTTPS"
+msgstr "Este aviso será ocultado cuando el sitio web trabaje con HTTPS"
+
+#: views/layout-settings.php:2053
+msgctxt "Settings page"
+msgid "One word per line"
+msgstr "Una palabra por línea."
+
+#: views/layout-settings.php:2052
+msgctxt "Settings page"
+msgid "Bad Words List"
+msgstr "Lista de malsonante"
+
+#: views/layout-settings.php:2000
+msgctxt "Settings page"
+msgid "Selected roles will not see selected widgets"
+msgstr "A los roles seleccionados no se les permitirá ver los widgets seleccionados"
+
+#: views/layout-settings.php:1977
+msgctxt "Settings page"
+msgid "Restrict from viewing message"
+msgstr "Restringir la visualización de mensajes"
+
+#: views/layout-settings.php:1956
+msgctxt "Settings page"
+msgid "Selected roles will not be allowed to reply"
+msgstr "A los roles seleccionados no se les permitirá responder"
+
+#: views/layout-settings.php:1955
+msgctxt "Settings page"
+msgid "Restrict new replies"
+msgstr "Restringir las nuevas respuestas"
+
+#: views/layout-settings.php:1946
+msgctxt "Settings page"
+msgid "Remove new conversation button for restricted users"
+msgstr "Eliminar botón de nueva conversación para usuarios restringidos"
+
+#: views/layout-settings.php:1924
+msgctxt "Settings page"
+msgid "Selected roles will not be allowed to start new conversations"
+msgstr "A los roles seleccionados no se les permitirá que comiencen nuevas conversaciones"
+
+#: views/layout-settings.php:1923
+msgctxt "Settings page"
+msgid "Restrict the creation of a new conversation"
+msgstr "Restringir la creación de una nueva conversación"
+
+#: views/layout-settings.php:1901
+msgctxt "Settings page"
+msgid "Day"
+msgstr "Día"
+
+#: views/layout-settings.php:1900
+msgctxt "Settings page"
+msgid "Hour"
+msgstr "Hora"
+
+#: views/layout-settings.php:1898
+msgctxt "Settings page"
+msgid "messages per"
+msgstr "mensajes por"
+
+#: views/layout-settings.php:1881
+msgctxt "Settings page"
+msgid "Limitation (0 to disable)"
+msgstr "limitación (0 para deshabilitar)"
+
+#: views/layout-settings.php:1873
+msgctxt "Settings page"
+msgid "Limit max amount of replies within timeframe"
+msgstr "Limitar el máximo numero de respuestas dentro de un periodo de tiempo"
+
+#: views/layout-settings.php:1872
+msgctxt "Settings page"
+msgid "Rate limiting for new replies"
+msgstr "Limitación de la tasa de nuevas respuestas"
+
+#: views/layout-settings.php:1821
+msgctxt "Settings page"
+msgid "You cannot send messages to this user"
+msgstr "No puedes enviar mensajes a este usuario"
+
+#: views/layout-settings.php:1801
+msgctxt "Settings page"
+msgid "Add new rule"
+msgstr "Añadir nueva regla"
+
+#: views/layout-settings.php:1770
+msgctxt "Settings page"
+msgid "Message"
+msgstr "Mensaje"
+
+#: views/layout-settings.php:1769
+msgctxt "Settings page"
+msgid "To"
+msgstr "Destinatario"
+
+#: views/layout-settings.php:1768
+msgctxt "Settings page"
+msgid "From"
+msgstr "De"
+
+#: views/layout-settings.php:1762
+msgctxt "Settings page"
+msgid "No role block rules added"
+msgstr "No se han añadido reglas de bloqueo de roles"
+
+#: views/layout-settings.php:1754
+msgctxt "Settings page"
+msgid "Role to Role restrictions"
+msgstr "Restricciones de Rol a Rol"
+
+#: views/layout-settings.php:1744
+msgctxt "Settings page"
+msgid "Restrict users from deleting conversations"
+msgstr "Restringir a los usuarios que borren conversaciones"
+
+#: views/layout-settings.php:1734
+msgctxt "Settings page"
+msgid "Limit new conversations creation to prevent users spam"
+msgstr "Limitar la creación de nuevas conversaciones para evitar usuarios spam"
+
+#: views/layout-settings.php:1733
+msgctxt "Settings page"
+msgid "Rate limiting new conversations (seconds)"
+msgstr "Tasa de limitación de nuevas conversaciones (segundos)"
+
+#: views/layout-settings.php:1678
+msgctxt "Settings page"
+msgid "Allow users to restrict who can start conversations with them"
+msgstr "Permitir a los usuarios restringir quien puede empezar una conversación con ellos"
+
+#: views/layout-settings.php:1633
+msgctxt "Settings page"
+msgid "How it works?"
+msgstr "¿Cómo funciona?"
+
+#: views/layout-settings.php:1632
+msgctxt "Settings page"
+msgid "Additional realtime onsite notifications"
+msgstr "Notificaciones adicionales en el sitio web en tiempo real"
+
+#: views/layout-settings.php:1604
+msgctxt "Settings page"
+msgid "Onsite notifications position"
+msgstr "Posición de las notificaciones en el sitio web"
+
+#: views/layout-settings.php:1584
+msgctxt "Settings page"
+msgid "Enable Browser Push Notifications"
+msgstr "Activar Notificaciones Push en el Navegador"
+
+#: views/layout-settings.php:1576
+msgctxt "Settings page"
+msgid "This will work only with setting above"
+msgstr "Esto funcionará solamente con los ajustes de arriba"
+
+#: views/layout-settings.php:1557 views/layout-settings.php:1735
+msgctxt "Settings page"
+msgid "Set to 0 to disable"
+msgstr ""
+
+#: views/layout-settings.php:1556
+msgctxt "Settings page"
+msgid "Send notifications every (minutes)"
+msgstr "Enviar notificaciones cada (minutos)"
+
+#: views/layout-settings.php:1411
+msgctxt "Settings page"
+msgid "Disable Send on Enter for Mobile Devices"
+msgstr "Desactivar Enviar cuando da Enter en dispositivos Móviles"
+
+#: views/layout-settings.php:1398
+msgctxt "Settings page"
+msgid "Dont show mobile chat button to following roles"
+msgstr ""
+
+#: views/layout-settings.php:1397
+msgctxt "Settings page"
+msgid "Dont show Mobile Chat button"
+msgstr ""
+
+#: views/layout-settings.php:1335 views/layout-settings.php:1610
+msgctxt "Settings page"
+msgid "Right"
+msgstr "Derecha"
+
+#: views/layout-settings.php:1331 views/layout-settings.php:1614
+msgctxt "Settings page"
+msgid "Left"
+msgstr "Izquierda"
+
+#: views/layout-settings.php:1216
+msgctxt "Settings page"
+msgid "Add video call button to the mini chats"
+msgstr "Agregar botón de vídeo llamada al mini chat"
+
+#: views/layout-settings.php:1215 views/layout-settings.php:3865
+msgctxt "Settings page"
+msgid "Video Call Button"
+msgstr "Botón de llamada de video"
+
+#: views/layout-settings.php:1206
+msgctxt "Settings page"
+msgid "Add audio call button to the mini chats"
+msgstr "Agregar botón de llamada de voz al mini chat"
+
+#: views/layout-settings.php:1205 views/layout-settings.php:3886
+msgctxt "Settings page"
+msgid "Audio Call Button"
+msgstr ""
+
+#: views/layout-settings.php:920
+msgctxt "Settings page"
+msgid "Enable link previews"
+msgstr "Habilitar previsualizar links"
+
+#: views/layout-settings.php:911
+msgctxt "Settings page"
+msgid "Enable oEmbed for popular services"
+msgstr ""
+
+#: views/layout-settings.php:825
+msgctxt "Settings page"
+msgid "Search all users"
+msgstr "Buscar usuarios"
+
+#: views/layout-settings.php:816
+msgctxt "Settings page"
+msgid "Disables suggestions when starting new conversation"
+msgstr "Desactivar sugerencias al comenzar una nueva conversación"
+
+#: views/layout-settings.php:815
+msgctxt "Settings page"
+msgid "Disable users search"
+msgstr "Deshabilitar la búsqueda de usuarios"
+
+#: views/layout-settings.php:671
+msgctxt "Settings page"
+msgid "This website has domain name <b>%s</b>"
+msgstr ""
+
+#: views/layout-settings.php:622
+msgctxt "Settings page"
+msgid "Enable messages viewer page in WordPress admin"
+msgstr ""
+
+#: views/layout-settings.php:621
+msgctxt "Settings page"
+msgid "Enable Messages Viewer"
+msgstr "Habilitar visor de mensajes"
+
+#: views/layout-settings.php:611
+msgctxt "Settings page"
+msgid "Show my profile button in the messages interface"
+msgstr ""
+
+#: views/layout-settings.php:610
+msgctxt "Settings page"
+msgid "Show My Profile Button"
+msgstr ""
+
+#: views/layout-settings.php:601
+msgctxt "Settings page"
+msgid "Show full screen button for desktop browsers"
+msgstr ""
+
+#: views/layout-settings.php:600
+msgctxt "Settings page"
+msgid "Full Screen Mode"
+msgstr "Modo de pantalla completa"
+
+#: views/layout-settings.php:576
+msgctxt "Settings page"
+msgid "Allow users to set their status: Online, Away or Do not disturb"
+msgstr ""
+
+#: views/layout-settings.php:575
+msgctxt "Settings page"
+msgid "User Statuses"
+msgstr ""
+
+#: views/layout-settings.php:554
+msgctxt "Settings page"
+msgid "All messages at left side"
+msgstr "Todos los mensajes en el lado izquierdo"
+
+#: views/layout-settings.php:550
+msgctxt "Settings page"
+msgid "My messages at right side"
+msgstr "Mis mensajes en el lado derecho"
+
+#: views/layout-settings.php:546
+msgctxt "Settings page"
+msgid "My messages at left side"
+msgstr "Mis mensajes en el lado izquierdo"
+
+#: views/layout-settings.php:531
+msgctxt "Settings page"
+msgid "Modern"
+msgstr "Moderno"
+
+#: views/layout-settings.php:527
+msgctxt "Settings page"
+msgid "Standard"
+msgstr "Estándar"
+
+#: views/layout-settings.php:521
+msgctxt "Settings page"
+msgid "Messages styling"
+msgstr "Estilo de mensajes"
+
+#: views/layout-settings.php:509
+msgctxt "Settings page"
+msgid "Enable Encryption"
+msgstr "Activar Encriptación"
+
+#: views/layout-settings.php:496
+msgctxt "Settings page"
+msgid "AJAX refresh interval on other sites pages"
+msgstr ""
+
+#: views/layout-settings.php:495
+msgctxt "Settings page"
+msgid "Site Refresh Interval"
+msgstr ""
+
+#: views/layout-settings.php:469
+msgctxt "Settings page"
+msgid "WebSocket"
+msgstr ""
+
+#: views/layout-settings.php:465
+msgctxt "Settings page"
+msgid "AJAX"
+msgstr "AJAX"
+
+#: views/layout-settings.php:458 views/layout-settings.php:464
+msgctxt "Settings page"
+msgid "Refresh mechanism"
+msgstr ""
+
+#: views/layout-settings.php:438
+msgctxt "Settings page"
+msgid "Show in WooCommerce My Account"
+msgstr ""
+
+#: views/layout-settings.php:434
+msgctxt "Settings page"
+msgid "Show in Asgaros Forum Profile"
+msgstr ""
+
+#: views/layout-settings.php:399
+msgctxt "Settings page"
+msgid "Show in Ultimate Member profile"
+msgstr ""
+
+#: views/layout-settings.php:397
+msgctxt "Settings page"
+msgid "Show in BuddyPress profile"
+msgstr ""
+
+#: views/layout-settings.php:394
+msgctxt "Settings page"
+msgid "Select page"
+msgstr "Seleccionar la página"
+
+#: views/layout-settings.php:376
+msgctxt "Settings page"
+msgid "Choose the page where Better Messages will be located"
+msgstr "Elige la página donde los Better Messages quieres que funcione"
+
+#: views/layout-settings.php:375
+msgctxt "Settings page"
+msgid "Better Messages Location"
+msgstr "Ubicación de Better Messages"
+
+#: views/layout-settings.php:363
+msgctxt "Settings page"
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: views/layout-settings.php:360
+msgctxt "Settings page"
+msgid "Group Calls"
+msgstr "LLamadas grupales"
+
+#: views/layout-settings.php:359
+msgctxt "Settings page"
+msgid "Calls"
+msgstr "Llamadas"
+
+#: views/layout-settings.php:358
+msgctxt "Settings page"
+msgid "Sounds"
+msgstr "Sonidos"
+
+#: views/layout-settings.php:357
+msgctxt "Settings page"
+msgid "Restrictions"
+msgstr "Restricciones"
+
+#: views/layout-settings.php:356
+msgctxt "Settings page"
+msgid "Notifications"
+msgstr "Notificaciones"
+
+#: views/layout-settings.php:355
+msgctxt "Settings page"
+msgid "Attachments"
+msgstr "Adjuntos"
+
+#: views/layout-settings.php:354
+msgctxt "Settings page"
+msgid "Mobile"
+msgstr "Móviles"
+
+#: views/layout-settings.php:353
+msgctxt "Settings page"
+msgid "Mini Widgets"
+msgstr ""
+
+#: views/layout-settings.php:352
+msgctxt "Settings page"
+msgid "Integrations"
+msgstr "Integraciones"
+
+#: views/layout-settings.php:346
+msgctxt "Settings page"
+msgid "Messaging"
+msgstr "Mensajería"
+
+#: views/layout-settings.php:345
+msgctxt "Settings page"
+msgid "General"
+msgstr "General"
+
+#: views/layout-settings.php:343
+msgctxt "Settings page"
+msgid "Better Messages"
+msgstr "Better Messages"
+
+#: inc/chats.php:692
+msgctxt "Chat rooms settings page"
+msgid "Login Button Text"
+msgstr "Texto del Botón para Login"
+
+#: inc/chats.php:674
+msgctxt "Chat rooms settings page"
+msgid "Not Allowed To Reply Message"
+msgstr "No Tienes Permitido Responder al Mensaje"
+
+#: inc/chats.php:665
+msgctxt "Chat rooms settings page"
+msgid "Not Allowed To Join Message"
+msgstr "No Tienes Permitido Unirte al Mensaje"
+
+#: inc/chats.php:657
+msgctxt "Chat rooms settings page"
+msgid "Join Button Text"
+msgstr "Texto del Botón para Unirse"
+
+#: inc/chats.php:647
+msgctxt "Chat rooms settings page"
+msgid "Not Joined Message"
+msgstr "Mensaje Cuando No Unido"
+
+#: inc/chats.php:593
+msgctxt "Chat rooms settings page"
+msgid "Users will be added to chat room immediately after save of these settings. The following roles will not be able to leave the chat room."
+msgstr "Los usuarios serán añadidos a la sala de chat inmediatamente luego de guardar estos ajustes. Los siguientes roles no podrán dejar la sala de chat."
+
+#: inc/chats.php:592
+msgctxt "Chat rooms settings page"
+msgid "Auto add users with following roles to this chat room"
+msgstr "Añadir usuarios automáticamente con los siguientes roles a esta sala de chat"
+
+#: inc/chats.php:582
+msgctxt "Chat rooms settings page"
+msgid "Who can reply in this chat room?"
+msgstr "¿Quién puede responder en esta sala de chat?"
+
+#: inc/chats.php:574 inc/chats.php:584 inc/chats.php:595
+msgid "Unselect All"
+msgstr "Deseleccionar todo"
+
+#: inc/chats.php:574 inc/chats.php:584 inc/chats.php:595
+msgid "Select All"
+msgstr "Seleccionar todo"
+
+#: inc/chats.php:572
+msgctxt "Chat rooms settings page"
+msgid "Who can join to this chat room?"
+msgstr "¿Quién puede unirse a esta sala de chat?"
+
+#: inc/chats.php:564
+msgctxt "Chat rooms settings page"
+msgid "Allow not logged-in users (guests) to see chat room"
+msgstr "Permitir que los usuarios no registrados (invitados) vean la sala de chat"
+
+#: inc/chats.php:560
+msgctxt "Chat rooms settings page"
+msgid "Enable notifications via email & push notifications (when push enabled)"
+msgstr "Permitir notificaciones a través de correo electrónico & notificaciones push (cuando esté activado)"
+
+#: inc/chats.php:556
+msgctxt "Chat rooms settings page"
+msgid "Hide chat from conversation list"
+msgstr "Esconder chat desde la lista de conversaciones"
+
+#: inc/chats.php:552
+msgctxt "Chat rooms settings page"
+msgid "Enable file uploads"
+msgstr "Habilitar subida de archivos"
+
+#: inc/chats.php:334 inc/chats.php:414
+msgctxt "Chat rooms settings page"
+msgid "Login"
+msgstr "Acceder"
+
+#: inc/chats.php:332 inc/chats.php:440
+msgctxt "Chat rooms settings page"
+msgid "You are not allowed to reply in this chat room"
+msgstr "No tienes permitido responde en esta sala de chat"
+
+#: inc/chats.php:331 inc/chats.php:434
+msgctxt "Chat rooms settings page"
+msgid "You are not allowed to join this chat room"
+msgstr "No tienes permitido entrar en este sala de chat"
+
+#: inc/chats.php:330 inc/chats.php:408
+msgctxt "Chat rooms settings page"
+msgid "Join chat room"
+msgstr "Entrar a sala de chat"
+
+#: inc/chats.php:308
+msgctxt "Chat rooms settings page"
+msgid "Chat settings"
+msgstr "Ajustes de chat"
+
+#: inc/chats.php:285
+msgctxt "Chat Rooms"
+msgid "New Chat Room"
+msgstr "Nueva sala de chat"
+
+#: inc/chats.php:284
+msgctxt "Chat Rooms"
+msgid "Edit Chat Room"
+msgstr "Editar sala de chat"
+
+#: inc/chats.php:282 inc/chats.php:283
+msgctxt "Chat Rooms"
+msgid "Create new Chat Room"
+msgstr "Crear nueva sala de chat"
+
+#: inc/chats.php:281
+msgctxt "Chat Rooms"
+msgid "Chat Room"
+msgstr "Sala de chat"
+
+#: inc/chats.php:280
+msgctxt "Chat Rooms"
+msgid "Chat Rooms"
+msgstr "Salas de chat"
+
+#: assets/js/bp-messages-free.js:477 assets/js/bp-messages-premium.js:477
+msgctxt "Push Request Proposal"
+msgid "Dismiss"
+msgstr "Descartar "
+
+#: assets/js/bp-messages-free.js:476 assets/js/bp-messages-premium.js:476
+msgctxt "Push Request Proposal"
+msgid "Enable"
+msgstr "Activar"
+
+#: assets/js/bp-messages-free.js:475 assets/js/bp-messages-premium.js:475
+msgctxt "Push Request Proposal"
+msgid "Enable browser push notifications to receive private messages when you are offline?"
+msgstr "¿Activar las notificaciones push del navegador para recibir mensajes privados cuando no estés conectado?"
+
+#: assets/js/bp-messages-free.js:408 assets/js/bp-messages-premium.js:408
+msgctxt "Mini Chats"
+msgid "Open"
+msgstr "Abrir"
+
+#: assets/js/bp-messages-free.js:406 assets/js/bp-messages-premium.js:406
+msgctxt "Mini Chats"
+msgid "Minimize"
+msgstr "Minimizar"
+
+#: assets/js/bp-messages-free.js:405 assets/js/bp-messages-premium.js:405
+msgctxt "Mini Chats"
+msgid "Start a voice call"
+msgstr "Comenzar una llamada de audio"
+
+#: assets/js/bp-messages-free.js:404 assets/js/bp-messages-premium.js:404
+msgctxt "Mini Chats"
+msgid "Start a video call"
+msgstr "Comenzar una videollamada"
+
+#: assets/js/bp-messages-free.js:403 assets/js/bp-messages-premium.js:403
+msgctxt "Mini Chat"
+msgid "Open in Messages"
+msgstr "Abrir en Mensajes"
+
+#: assets/js/bp-messages-free.js:402 assets/js/bp-messages-premium.js:402
+msgctxt "Mini Widgets"
+msgid "Start a new conversation"
+msgstr "Comenzar una nueva conversación"
+
+#: assets/js/bp-messages-free.js:401 assets/js/bp-messages-premium.js:401
+msgctxt "Mini Widgets - Head"
+msgid "Groups"
+msgstr "Grupos"
+
+#: assets/js/bp-messages-free.js:400 assets/js/bp-messages-premium.js:400
+msgctxt "Mini Widgets - Head"
+msgid "Friends"
+msgstr "Amigos"
+
+#: assets/js/bp-messages-free.js:399 assets/js/bp-messages-premium.js:399
+msgctxt "Mini Widgets - Head"
+msgid "Messages"
+msgstr "Mensajes"
+
+#: assets/js/bp-messages-free.js:479 assets/js/bp-messages-premium.js:479
+msgctxt "Onsite notifications"
+msgid "Close all notifications"
+msgstr "Cerrar todas las notificaciones"
+
+#: assets/js/bp-messages-free.js:478 assets/js/bp-messages-premium.js:478
+msgctxt "Rest API Error"
+msgid "Authorization failed. Please check if you are still authorized at this website."
+msgstr "La autorización ha fallado. Por favor comprueba si aún estás autorizado en este sitio web."
+
+#: assets/js/bp-messages-free.js:474 assets/js/bp-messages-premium.js:474
+msgctxt "Private Call - On Site Message"
+msgid "Incoming Video Call"
+msgstr "Videollamada entrante"
+
+#: assets/js/bp-messages-free.js:473 assets/js/bp-messages-premium.js:473
+msgctxt "Private Call Screen"
+msgid "User you are trying to call is already in call. Please try later."
+msgstr "El usuario al que intentas llamar ya está en una llamada. Por favor intenta más tarde."
+
+#: assets/js/bp-messages-free.js:472 assets/js/bp-messages-premium.js:472
+msgctxt "Private Call Screen"
+msgid "User rejected your call"
+msgstr "El usuario ha rechazado tu llamada"
+
+#: assets/js/bp-messages-free.js:471 assets/js/bp-messages-premium.js:471
+msgctxt "Calling Features - Device unknown error"
+msgid "Unknown error while trying to access %s"
+msgstr "Error desconocido al intentar acceder a %s"
+
+#: assets/js/bp-messages-free.js:470 assets/js/bp-messages-premium.js:470
+msgctxt "Calling Features - Device already in use error"
+msgid "%s is already in use. Ensure that its not used by other application or select other %s if available."
+msgstr "%s está ya en uso. Por favor asegúrate que no está siendo usado por otra aplicación o selecciona otra %s si hay disponible."
+
+#: assets/js/bp-messages-free.js:469 assets/js/bp-messages-premium.js:469
+msgctxt "Calling Features - Device no permission error"
+msgid "No permission to access %s. Please ensure access to %s is allowed in your browser settings."
+msgstr "No tienes permito para acceder a %s. Por favor asegúrate que el acceso a %s está permitido en los ajustes de tu navegador."
+
+#: assets/js/bp-messages-free.js:468 assets/js/bp-messages-premium.js:468
+msgctxt "Calling Features - Device not found error"
+msgid "%s not found"
+msgstr "%s no se ha encontrado"
+
+#: assets/js/bp-messages-free.js:467 assets/js/bp-messages-premium.js:467
+msgctxt "Calling Features - Device Name when error triggered"
+msgid "Camera or Microphone"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:466 assets/js/bp-messages-premium.js:466
+msgctxt "Media Inputs"
+msgid "Speaker"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:465 assets/js/bp-messages-premium.js:465
+msgctxt "Media Inputs"
+msgid "Microphone"
+msgstr "Micrófono"
+
+#: assets/js/bp-messages-free.js:464 assets/js/bp-messages-premium.js:464
+msgctxt "Media Inputs"
+msgid "Camera"
+msgstr "Cámara"
+
+#: assets/js/bp-messages-free.js:463 assets/js/bp-messages-premium.js:463
+msgctxt "Media Inputs"
+msgid "Communications"
+msgstr "Comunicaciones"
+
+#: assets/js/bp-messages-free.js:462 assets/js/bp-messages-premium.js:462
+msgctxt "Media Inputs"
+msgid "Same as system"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:461 assets/js/bp-messages-premium.js:461
+msgctxt "Media Inputs"
+msgid "Default"
+msgstr "Predeterminado"
+
+#: assets/js/bp-messages-free.js:460 assets/js/bp-messages-premium.js:460
+msgctxt "Conversations list item"
+msgid "%s attachment"
+msgid_plural "%s attachments"
+msgstr[0] "%s adjunto"
+msgstr[1] "%s adjuntos"
+
+#: assets/js/bp-messages-free.js:459 assets/js/bp-messages-premium.js:459
+msgctxt "Messages from blocked user"
+msgid "Message hidden"
+msgstr "Mensaje oculto"
+
+#: assets/js/bp-messages-free.js:458 assets/js/bp-messages-premium.js:458
+msgctxt "Message content attachments placeholder"
+msgid "Attachments uploading..."
+msgstr "Cargando adjuntos..."
+
+#: assets/js/bp-messages-free.js:457 assets/js/bp-messages-premium.js:457
+msgctxt "Push Notifications"
+msgid "Successfully unsubscribed from Web Push notifications"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:456 assets/js/bp-messages-premium.js:456
+msgctxt "Push Notifications"
+msgid "Failed to subscribe to Web Push notifications. Please ensure that your web browser permission settings allows to send notifications at this website."
+msgstr ""
+
+#: assets/js/bp-messages-free.js:455 assets/js/bp-messages-premium.js:455
+msgctxt "Push Notifications"
+msgid "Successfully subscribed to Web Push notifications"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:454 assets/js/bp-messages-premium.js:454
+msgctxt "Shortcode error"
+msgid "You can not start a conversation with yourself"
+msgstr "No puedes empezar una conversación contigo mismo."
+
+#: assets/js/bp-messages-free.js:453 assets/js/bp-messages-premium.js:453
+msgctxt "Shortcode error"
+msgid "You can not make a call to yourself"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:448 assets/js/bp-messages-premium.js:448
+msgctxt "Unmaking user a moderator in the conversation"
+msgid "%s is not moderator anymore"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:447 assets/js/bp-messages-premium.js:447
+msgctxt "Unmaking user a moderator in the conversation"
+msgid "Unmaking %s moderator"
+msgstr "Quitando a %s como moderador"
+
+#: assets/js/bp-messages-free.js:446 assets/js/bp-messages-premium.js:446
+msgctxt "Unmaking user a moderator in the conversation"
+msgid "Error while unmaking moderator"
+msgstr "Error al quitar moderador"
+
+#: assets/js/bp-messages-free.js:445 assets/js/bp-messages-premium.js:445
+msgctxt "Unmaking user a moderator in the conversation"
+msgid "Unmake %s moderator in this conversation?"
+msgstr "¿Quitar a %s como moderador en esta conversación?"
+
+#: assets/js/bp-messages-free.js:444 assets/js/bp-messages-premium.js:444
+msgctxt "Remove participant action"
+msgid "Participant removed"
+msgstr "Participante eliminado"
+
+#: assets/js/bp-messages-free.js:443 assets/js/bp-messages-premium.js:443
+msgctxt "Remove participant action"
+msgid "Removing participant"
+msgstr "Eliminando participante"
+
+#: assets/js/bp-messages-free.js:442 assets/js/bp-messages-premium.js:442
+msgctxt "Remove participant action"
+msgid "Error while removing participant"
+msgstr "Error al remover participante"
+
+#: assets/js/bp-messages-free.js:441 assets/js/bp-messages-premium.js:441
+msgctxt "Remove user from the conversation"
+msgid "Remove %s from this conversation?"
+msgstr "¿Eliminar a %s de esta conversación?"
+
+#: assets/js/bp-messages-free.js:440 assets/js/bp-messages-premium.js:440
+msgctxt "Making user a moderator in the conversation"
+msgid "%s is moderator now"
+msgstr "%s es ahora un moderador"
+
+#: assets/js/bp-messages-free.js:439 assets/js/bp-messages-premium.js:439
+msgctxt "Making user a moderator in the conversation"
+msgid "Making %s moderator"
+msgstr "Haciendo a %s moderador"
+
+#: assets/js/bp-messages-free.js:438 assets/js/bp-messages-premium.js:438
+msgctxt "Making user a moderator in the conversation"
+msgid "Error while making moderator"
+msgstr "Error al hacer moderador"
+
+#: assets/js/bp-messages-free.js:437 assets/js/bp-messages-premium.js:437
+msgctxt "Making user a moderator in the conversation"
+msgid "Make %s moderator in this conversation?"
+msgstr "¿Hacer a %s moderador en esta conversación?"
+
+#: assets/js/bp-messages-free.js:436 assets/js/bp-messages-premium.js:436
+msgctxt "Leave conversation action"
+msgid "You left the conversation"
+msgstr "Has abandonado la conversación"
+
+#: assets/js/bp-messages-free.js:435 assets/js/bp-messages-premium.js:435
+msgctxt "Leave conversation action"
+msgid "Leaving conversation"
+msgstr "Abandonando la conversación"
+
+#: assets/js/bp-messages-free.js:434 assets/js/bp-messages-premium.js:434
+msgctxt "Leave conversation action"
+msgid "Error while leaving conversation"
+msgstr "Error al abandonar la conversación"
+
+#: assets/js/bp-messages-free.js:433 assets/js/bp-messages-premium.js:433
+msgctxt "Leave conversation action"
+msgid "Are you sure you want to leave this conversation?"
+msgstr "¿Estás seguro que deseas abandonar esta conversación?"
+
+#: assets/js/bp-messages-free.js:432 assets/js/bp-messages-premium.js:432
+msgctxt "Clear Messages Action"
+msgid "Messages cleared"
+msgstr "Mensajes borrados"
+
+#: assets/js/bp-messages-free.js:431 assets/js/bp-messages-premium.js:431
+msgctxt "Clear Messages Action"
+msgid "Clearing messages"
+msgstr "Limpiando mensajes"
+
+#: assets/js/bp-messages-free.js:430 assets/js/bp-messages-premium.js:430
+msgctxt "Clear Messages Action"
+msgid "Error while clearing messages"
+msgstr "Error al limpiar mensajes"
+
+#: assets/js/bp-messages-free.js:429 assets/js/bp-messages-premium.js:429
+msgctxt "Add participant action"
+msgid "Participants added"
+msgstr "Participantes añadidos"
+
+#: assets/js/bp-messages-free.js:428 assets/js/bp-messages-premium.js:428
+msgctxt "Add participant action"
+msgid "Adding participants"
+msgstr "Añadiendo participantes"
+
+#: assets/js/bp-messages-free.js:427 assets/js/bp-messages-premium.js:427
+msgctxt "Add participant action"
+msgid "Error while adding participants"
+msgstr "Error al añadir participantes"
+
+#: assets/js/bp-messages-free.js:426 assets/js/bp-messages-premium.js:426
+msgctxt "Delete Conversation Action"
+msgid "Conversation deleted"
+msgstr "Conversación eliminada"
+
+#: assets/js/bp-messages-free.js:425 assets/js/bp-messages-premium.js:425
+msgctxt "Delete Conversation Action"
+msgid "Deleting conversation"
+msgstr "Eliminando conversación"
+
+#: assets/js/bp-messages-free.js:424 assets/js/bp-messages-premium.js:424
+msgctxt "Delete Conversation Action"
+msgid "Error while deleting conversation"
+msgstr "Error al eliminar conversación"
+
+#: assets/js/bp-messages-free.js:423 assets/js/bp-messages-premium.js:423
+msgctxt "Thread deleting"
+msgid "Restore?"
+msgstr "¿Restaurar?"
+
+#: assets/js/bp-messages-free.js:420 assets/js/bp-messages-premium.js:420
+msgctxt "Messages deleting"
+msgid "Message deleted"
+msgstr "Mensaje eliminado"
+
+#: assets/js/bp-messages-free.js:419 assets/js/bp-messages-premium.js:419
+msgctxt "Messages deleting"
+msgid "Deleting message"
+msgstr "Eliminando mensaje"
+
+#: assets/js/bp-messages-free.js:418 assets/js/bp-messages-premium.js:418
+msgctxt "Messages deleting"
+msgid "Error while deleting message"
+msgstr "Error al eliminar mensaje"
+
+#: assets/js/bp-messages-free.js:417 assets/js/bp-messages-premium.js:417
+msgctxt "Messages deleting"
+msgid "Are you sure you want to delete this message?"
+msgstr "¿Estás seguro que deseas eliminar este mensaje?"
+
+#: assets/js/bp-messages-free.js:416 assets/js/bp-messages-premium.js:416
+msgctxt "Unblock user action"
+msgid "This user has been unblocked"
+msgstr "Este usuario ha sido desbloqueado"
+
+#: assets/js/bp-messages-free.js:415 assets/js/bp-messages-premium.js:415
+msgctxt "Unblock user action"
+msgid "Unblocking user"
+msgstr "Desbloqueando usuario"
+
+#: assets/js/bp-messages-free.js:414 assets/js/bp-messages-premium.js:414
+msgctxt "Unblock user action"
+msgid "Error while unblocking user"
+msgstr "Error al desbloquear usuario"
+
+#: assets/js/bp-messages-free.js:413 assets/js/bp-messages-premium.js:413
+msgctxt "Unblock user action"
+msgid "Are you sure you want to unblock user from sending you messages?"
+msgstr "¿Estás seguro de que deseas desbloquear al usuario para enviarte mensajes?"
+
+#: assets/js/bp-messages-free.js:412 assets/js/bp-messages-premium.js:412
+msgctxt "Block user action"
+msgid "This user has been blocked"
+msgstr "Este usuario ha sido bloqueado"
+
+#: assets/js/bp-messages-free.js:411 assets/js/bp-messages-premium.js:411
+msgctxt "Block user action"
+msgid "Blocking user"
+msgstr "Bloqueando usuario"
+
+#: assets/js/bp-messages-free.js:410 assets/js/bp-messages-premium.js:410
+msgctxt "Block user action"
+msgid "Error while blocking user"
+msgstr "Error al bloquear al usuario"
+
+#: assets/js/bp-messages-free.js:409 assets/js/bp-messages-premium.js:409
+msgctxt "Block user action"
+msgid "Are you sure you want to block user from sending you messages?"
+msgstr "¿Estás seguro de que deseas bloquear al usuario para enviarte mensajes?"
+
+#: assets/js/bp-messages-free.js:407 assets/js/bp-messages-premium.js:407
+msgctxt "Mini Chats"
+msgid "Close"
+msgstr "Cerrar"
+
+#: assets/js/bp-messages-free.js:398 assets/js/bp-messages-premium.js:398
+msgctxt "New threads screen"
+msgid "Add <strong>%s</strong>"
+msgstr "Añadir <strong>%s</strong>"
+
+#: assets/js/bp-messages-free.js:397 assets/js/bp-messages-premium.js:397
+msgctxt "Moderator Icon Tooltip"
+msgid "Moderator"
+msgstr "Moderador"
+
+#: assets/js/bp-messages-free.js:396 assets/js/bp-messages-premium.js:396
+msgctxt "Username Tooltip"
+msgid "Go to <strong>%s</strong> profile"
+msgstr "Ir al perfil de <strong>%s</strong>"
+
+#: assets/js/bp-messages-free.js:395 assets/js/bp-messages-premium.js:395
+msgctxt "Verifice Icon Tooltip"
+msgid "Verified"
+msgstr "Verificado"
+
+#: assets/js/bp-messages-free.js:394 assets/js/bp-messages-premium.js:394
+msgctxt "My profile button"
+msgid "My profile"
+msgstr "Mi perfil"
+
+#: assets/js/bp-messages-free.js:126 assets/js/bp-messages-premium.js:126
+msgctxt "Users List"
+msgid "User profile"
+msgstr "Perfil del usuario"
+
+#: assets/js/bp-messages-free.js:388 assets/js/bp-messages-premium.js:388
+msgctxt "Users List"
+msgid "Video Call"
+msgstr "Videollamada"
+
+#: assets/js/bp-messages-free.js:387 assets/js/bp-messages-premium.js:387
+msgctxt "Users List"
+msgid "Audio Call"
+msgstr "Llamada de Audio"
+
+#: assets/js/bp-messages-free.js:377 assets/js/bp-messages-premium.js:377
+msgctxt "User online status (was active ago)"
+msgid "Active %s"
+msgstr "Activar a %s"
+
+#: assets/js/bp-messages-free.js:376 assets/js/bp-messages-premium.js:376
+msgctxt "User online status"
+msgid "Online"
+msgstr "En línea"
+
+#: assets/js/bp-messages-free.js:375 assets/js/bp-messages-premium.js:375
+msgctxt "Messages List - Avatar Alt"
+msgid "Profile picture of %s"
+msgstr "Foto de perfil de %s"
+
+#: assets/js/bp-messages-free.js:374 assets/js/bp-messages-premium.js:374
+msgctxt "Messages List - Avatar Tooltip"
+msgid "Go to <strong>%s</strong> profile"
+msgstr "Ir al perfil de <strong>%s</strong>"
+
+#: assets/js/bp-messages-free.js:373 assets/js/bp-messages-premium.js:373
+msgctxt "Group Thread Online Participants Count"
+msgid "%s online"
+msgstr "%s en línea"
+
+#: assets/js/bp-messages-free.js:372 assets/js/bp-messages-premium.js:372
+msgctxt "Group Thread Participants Count"
+msgid "%s participant"
+msgid_plural "%s participants"
+msgstr[0] "%s participante"
+msgstr[1] "%s participantes"
+
+#: assets/js/bp-messages-free.js:371 assets/js/bp-messages-premium.js:371
+msgctxt "Empty friends list"
+msgid "No friends found"
+msgstr "No se han encontrado amigos"
+
+#: assets/js/bp-messages-free.js:370 assets/js/bp-messages-premium.js:370
+msgctxt "Empty friends list"
+msgid "No friends added yet"
+msgstr "No hay amigos añadidos aún"
+
+#: assets/js/bp-messages-free.js:369 assets/js/bp-messages-premium.js:369
+msgctxt "Friends list"
+msgid "Search..."
+msgstr "Buscar..."
+
+#: assets/js/bp-messages-free.js:368 assets/js/bp-messages-premium.js:368
+msgctxt "Empty thread list"
+msgid "Start a new conversation"
+msgstr "Comenzar una nueva conversación"
+
+#: assets/js/bp-messages-free.js:367 assets/js/bp-messages-premium.js:367
+msgctxt "Empty thread list"
+msgid "No conversations yet"
+msgstr "No hay conversaciones aún"
+
+#: assets/js/bp-messages-free.js:366 assets/js/bp-messages-premium.js:366
+msgctxt "Starting Messages Screen (No threads selected)"
+msgid "Select conversation to display messages"
+msgstr "Elige conversación para mostrar los mensajes"
+
+#: assets/js/bp-messages-free.js:67 assets/js/bp-messages-premium.js:67
+msgctxt "Delete conversation tooltip"
+msgid "Delete Conversation"
+msgstr "Eliminar Conversación"
+
+#: assets/js/bp-messages-free.js:362 assets/js/bp-messages-premium.js:362
+msgctxt "Conversations list item"
+msgid "You were mentioned in this conversation"
+msgstr "Has sido mencionado en esta conversación"
+
+#: assets/js/bp-messages-free.js:86 assets/js/bp-messages-premium.js:86
+msgctxt "Conversations list item"
+msgid "Notifications disabled"
+msgstr "Notificaciones desactivadas"
+
+#: assets/js/bp-messages-free.js:365 assets/js/bp-messages-premium.js:365
+msgctxt "Frontend Scripts"
+msgid "Chat Online"
+msgstr "Chat en Línea"
+
+#: assets/js/bp-messages-free.js:364 assets/js/bp-messages-premium.js:364
+msgctxt "Frontend Scripts"
+msgid "Audio"
+msgstr "Audio"
+
+#: assets/js/bp-messages-free.js:363 assets/js/bp-messages-premium.js:363
+msgctxt "Frontend Scripts"
+msgid "Video"
+msgstr "Vídeo"
+
+#: assets/js/bp-messages-free.js:361 assets/js/bp-messages-premium.js:361
+msgctxt "Private Call Screen"
+msgid "User is offline at the moment. Try later."
+msgstr "El usuario no está conectado. Intenta más tarde."
+
+#: assets/js/bp-messages-free.js:359 assets/js/bp-messages-premium.js:359
+msgctxt "Private Call Screen"
+msgid "End Call"
+msgstr "Terminar Llamada"
+
+#: assets/js/bp-messages-free.js:358 assets/js/bp-messages-premium.js:358
+msgctxt "Private Call Screen"
+msgid "Reject"
+msgstr "Rechazar"
+
+#: assets/js/bp-messages-free.js:357 assets/js/bp-messages-premium.js:357
+msgctxt "Private Call Screen"
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: assets/js/bp-messages-free.js:356 assets/js/bp-messages-premium.js:356
+msgctxt "Private Call Screen"
+msgid "Exit Full Screen Mode"
+msgstr "Salir de Pantalla Completa"
+
+#: assets/js/bp-messages-free.js:355 assets/js/bp-messages-premium.js:355
+msgctxt "Private Call Screen"
+msgid "Switch to Full Screen Mode"
+msgstr "Cambiar a Pantalla Completa"
+
+#: assets/js/bp-messages-free.js:354 assets/js/bp-messages-premium.js:354
+msgctxt "Private Call Screen"
+msgid "Stop Screen Sharing"
+msgstr "Dejar de Compartir Pantalla"
+
+#: assets/js/bp-messages-free.js:353 assets/js/bp-messages-premium.js:353
+msgctxt "Private Call Screen"
+msgid "Share Screen"
+msgstr "Compartir Pantalla"
+
+#: assets/js/bp-messages-free.js:352 assets/js/bp-messages-premium.js:352
+msgctxt "Private Call Screen"
+msgid "Picture In Picture"
+msgstr "Pantalla Flotante"
+
+#: assets/js/bp-messages-free.js:351 assets/js/bp-messages-premium.js:351
+msgctxt "Private Call Screen"
+msgid "Enable Microphone"
+msgstr "Activar Micrófono"
+
+#: assets/js/bp-messages-free.js:350 assets/js/bp-messages-premium.js:350
+msgctxt "Private Call Screen"
+msgid "Disable Microphone"
+msgstr "Desactivar Micrófono"
+
+#: assets/js/bp-messages-free.js:349 assets/js/bp-messages-premium.js:349
+msgctxt "Private Call Screen"
+msgid "Enable Camera"
+msgstr "Activar Cámara"
+
+#: assets/js/bp-messages-free.js:348 assets/js/bp-messages-premium.js:348
+msgctxt "Private Call Screen"
+msgid "Disable Camera"
+msgstr "Desactivar Cámara"
+
+#: assets/js/bp-messages-free.js:347 assets/js/bp-messages-premium.js:347
+msgctxt "Private Call Screen"
+msgid "Configure"
+msgstr "Configurar"
+
+#: assets/js/bp-messages-free.js:346 assets/js/bp-messages-premium.js:346
+msgctxt "Private Call Screen"
+msgid "Answer"
+msgstr "Responder"
+
+#: assets/js/bp-messages-free.js:345 assets/js/bp-messages-premium.js:345
+msgctxt "Private Call Screen"
+msgid "Calling..."
+msgstr "Llamando..."
+
+#: assets/js/bp-messages-free.js:344 assets/js/bp-messages-premium.js:344
+msgctxt "Private Call Screen"
+msgid "Incoming Call"
+msgstr "Llamada Entrante"
+
+#: assets/js/bp-messages-free.js:343 assets/js/bp-messages-premium.js:343
+msgid "This browser not support video calls feature. Please use another browser."
+msgstr "Este navegador no soporta la funcionalidad de videollamadas. Por favor usa otro navegador."
+
+#: assets/js/bp-messages-free.js:342 assets/js/bp-messages-premium.js:342
+msgid "Realtime connection not established. Please wait until you will be connected to realtime server and try again"
+msgstr "La conexión en tiempo real no ha sido establecida. Por favor, espera hasta que estés conectado al servidor en tiempo real e inténtalo de nuevo"
+
+#: assets/js/bp-messages-free.js:341 assets/js/bp-messages-premium.js:341
+msgctxt "File Uploader"
+msgid "Name"
+msgstr "Nombre"
+
+#: assets/js/bp-messages-free.js:340 assets/js/bp-messages-premium.js:340
+msgctxt "\"Add attachment\" button tooltip with added files"
+msgid "%s attachment added, click to add more attachments"
+msgid_plural "%s attachments added, click to add more attachments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: assets/js/bp-messages-free.js:339 assets/js/bp-messages-premium.js:339
+msgctxt "\"Add attachment\" button tooltip"
+msgid "Add attachment"
+msgstr "Añadir adjunto"
+
+#: assets/js/bp-messages-free.js:338 assets/js/bp-messages-premium.js:338
+msgctxt "File Uploader"
+msgid "%{smart_count} files selected"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:337 assets/js/bp-messages-premium.js:337
+msgctxt "File Uploader"
+msgid "%{smart_count} file selected"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:336 assets/js/bp-messages-premium.js:336
+msgctxt "File Uploader"
+msgid "Upload +%{smart_count} files"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:335 assets/js/bp-messages-premium.js:335
+msgctxt "File Uploader"
+msgid "Upload +%{smart_count} file"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:334 assets/js/bp-messages-premium.js:334
+msgctxt "File Uploader"
+msgid "Send Now"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:333 assets/js/bp-messages-premium.js:333
+msgctxt "File Uploader"
+msgid "Upload failed"
+msgstr "La carga ha fallado"
+
+#: assets/js/bp-messages-free.js:332 assets/js/bp-messages-premium.js:332
+msgctxt "File Uploader"
+msgid "Upload complete"
+msgstr "Carga completada"
+
+#: assets/js/bp-messages-free.js:331 assets/js/bp-messages-premium.js:331
+msgctxt "File Uploader"
+msgid "Upload"
+msgstr "Cargar"
+
+#: assets/js/bp-messages-free.js:330 assets/js/bp-messages-premium.js:330
+msgctxt "File Uploader"
+msgid "Upload stalled for %{seconds} seconds, aborting."
+msgstr ""
+
+#: assets/js/bp-messages-free.js:329 assets/js/bp-messages-premium.js:329
+msgctxt "File Uploader"
+msgid "Take Picture"
+msgstr "Tomar Foto"
+
+#: assets/js/bp-messages-free.js:328 assets/js/bp-messages-premium.js:328
+msgctxt "File Uploader"
+msgid "Take a picture"
+msgstr "Tomar una foto"
+
+#: assets/js/bp-messages-free.js:327 assets/js/bp-messages-premium.js:327
+msgctxt "File Uploader"
+msgid "Submit recorded file"
+msgstr "Enviar archivo grabado"
+
+#: assets/js/bp-messages-free.js:326 assets/js/bp-messages-premium.js:326
+msgctxt "File Uploader"
+msgid "Stop video recording"
+msgstr "Detener grabación de vídeo"
+
+#: assets/js/bp-messages-free.js:325 assets/js/bp-messages-premium.js:325
+msgctxt "File Uploader"
+msgid "Stop screen capturing"
+msgstr "Detener captura de pantalla"
+
+#: assets/js/bp-messages-free.js:324 assets/js/bp-messages-premium.js:324
+msgctxt "File Uploader"
+msgid "Stop audio recording"
+msgstr "Detener grabación de audio"
+
+#: assets/js/bp-messages-free.js:323 assets/js/bp-messages-premium.js:323
+msgctxt "File Uploader"
+msgid "Begin video recording"
+msgstr "Comenzar grabación de vídeo"
+
+#: assets/js/bp-messages-free.js:322 assets/js/bp-messages-premium.js:322
+msgctxt "File Uploader"
+msgid "Begin screen capturing"
+msgstr "Comenzar captura de pantalla"
+
+#: assets/js/bp-messages-free.js:321 assets/js/bp-messages-premium.js:321
+msgctxt "File Uploader"
+msgid "Begin audio recording"
+msgstr "Comenzar grabación de audio"
+
+#: assets/js/bp-messages-free.js:320 assets/js/bp-messages-premium.js:320
+msgctxt "File Uploader"
+msgid "Save changes"
+msgstr "Guardar cambios"
+
+#: assets/js/bp-messages-free.js:319 assets/js/bp-messages-premium.js:319
+msgctxt "File Uploader"
+msgid "Save"
+msgstr "Guardar"
+
+#: assets/js/bp-messages-free.js:318 assets/js/bp-messages-premium.js:318
+msgctxt "File Uploader"
+msgid "Remove file"
+msgstr "Eliminar archivo"
+
+#: assets/js/bp-messages-free.js:317 assets/js/bp-messages-premium.js:317
+msgctxt "File Uploader"
+msgid "Record Video"
+msgstr "Grabar Vídeo"
+
+#: assets/js/bp-messages-free.js:316 assets/js/bp-messages-premium.js:316
+msgctxt "File Uploader"
+msgid "Recording length %{recording_length}"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:315 assets/js/bp-messages-premium.js:315
+msgctxt "File Uploader"
+msgid "Recording"
+msgstr "Grabando"
+
+#: assets/js/bp-messages-free.js:314 assets/js/bp-messages-premium.js:314
+msgctxt "File Uploader"
+msgid "Processing %{smart_count} files"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:313 assets/js/bp-messages-premium.js:313
+msgctxt "File Uploader"
+msgid "Processing %{smart_count} file"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:312 assets/js/bp-messages-premium.js:312
+msgctxt "File Uploader"
+msgid "Camera"
+msgstr "Cámara"
+
+#: assets/js/bp-messages-free.js:311 assets/js/bp-messages-premium.js:311
+msgctxt "File Uploader"
+msgid "Audio"
+msgstr "Audio"
+
+#: assets/js/bp-messages-free.js:310 assets/js/bp-messages-premium.js:310
+msgctxt "File Uploader"
+msgid "Camera Not Available"
+msgstr "Cámara No Disponible"
+
+#: assets/js/bp-messages-free.js:309 assets/js/bp-messages-premium.js:309
+msgctxt "File Uploader"
+msgid "In order to take pictures or record video, please connect a camera device"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:308 assets/js/bp-messages-premium.js:308
+msgctxt "File Uploader"
+msgid "Microphone Not Available"
+msgstr "Micrófono No Disponible"
+
+#: assets/js/bp-messages-free.js:307 assets/js/bp-messages-premium.js:307
+msgctxt "File Uploader"
+msgid "In order to record audio, please connect a microphone or another audio input device"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:306 assets/js/bp-messages-premium.js:306
+msgctxt "File Uploader"
+msgid "My Device"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:305 assets/js/bp-messages-premium.js:305
+msgctxt "File Uploader"
+msgid "Missing required meta fields: %{fields}."
+msgstr ""
+
+#: assets/js/bp-messages-free.js:304 assets/js/bp-messages-premium.js:304
+msgctxt "File Uploader"
+msgid "Missing required meta field: %{fields}."
+msgstr ""
+
+#: assets/js/bp-messages-free.js:303 assets/js/bp-messages-premium.js:303
+msgctxt "File Uploader"
+msgid "Microphone access denied by user"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:302 assets/js/bp-messages-premium.js:302
+msgctxt "File Uploader"
+msgid "Generating thumbnails..."
+msgstr "Generando miniaturas..."
+
+#: assets/js/bp-messages-free.js:301 assets/js/bp-messages-premium.js:301
+msgctxt "File Uploader"
+msgid "Finish editing file"
+msgstr "Finalizando la edición del archivo"
+
+#: assets/js/bp-messages-free.js:300 assets/js/bp-messages-premium.js:300
+msgctxt "File Uploader"
+msgid "Editing %{file}"
+msgstr "Editando %{file}"
+
+#: assets/js/bp-messages-free.js:299 assets/js/bp-messages-premium.js:299
+msgctxt "File Uploader"
+msgid "Edit file %{file}"
+msgstr "Editar archivo %{file}"
+
+#: assets/js/bp-messages-free.js:298 assets/js/bp-messages-premium.js:298
+msgctxt "File Uploader"
+msgid "Edit file"
+msgstr "Editar archivo"
+
+#: assets/js/bp-messages-free.js:297 assets/js/bp-messages-premium.js:297
+msgctxt "File Uploader"
+msgid "Drop files here, %{browseFolders} or import from:"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:296 assets/js/bp-messages-premium.js:296
+msgctxt "File Uploader"
+msgid "Drop files here, %{browseFiles} or import from:"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:295 assets/js/bp-messages-premium.js:295
+msgctxt "File Uploader"
+msgid "Drop files here, %{browseFiles}, %{browseFolders} or import from:"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:294 assets/js/bp-messages-premium.js:294
+msgctxt "File Uploader"
+msgid "Drop files here or %{browseFolders}"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:293 assets/js/bp-messages-premium.js:293
+msgctxt "File Uploader"
+msgid "Drop files here or %{browseFiles}"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:292 assets/js/bp-messages-premium.js:292
+msgctxt "File Uploader"
+msgid "Drop files here, %{browseFiles} or %{browseFolders}"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:291 assets/js/bp-messages-premium.js:291
+msgctxt "File Uploader"
+msgid "Drop your files here"
+msgstr "Desliza tus archivos aquí"
+
+#: assets/js/bp-messages-free.js:290 assets/js/bp-messages-premium.js:290
+msgctxt "File Uploader"
+msgid "Drop here or %{browse}"
+msgstr "Dejar aquí o %{browse}"
+
+#: assets/js/bp-messages-free.js:289 assets/js/bp-messages-premium.js:289
+msgctxt "File Uploader"
+msgid "Done"
+msgstr "Hecho"
+
+#: assets/js/bp-messages-free.js:288 assets/js/bp-messages-premium.js:288
+msgctxt "File Uploader"
+msgid "Discard recorded file"
+msgstr "Descartar archivo grabado"
+
+#: assets/js/bp-messages-free.js:287 assets/js/bp-messages-premium.js:287
+msgctxt "File Uploader"
+msgid "Close Modal"
+msgstr "Cerrar Modal"
+
+#: assets/js/bp-messages-free.js:286 assets/js/bp-messages-premium.js:286
+msgctxt "File Uploader"
+msgid "Choose files"
+msgstr "Elegir archivos"
+
+#: assets/js/bp-messages-free.js:285 assets/js/bp-messages-premium.js:285
+msgctxt "File Uploader"
+msgid "Cancel upload"
+msgstr "Cancelar subida"
+
+#: assets/js/bp-messages-free.js:284 assets/js/bp-messages-premium.js:284
+msgctxt "File Uploader"
+msgid "browse folders"
+msgstr "buscar archivos"
+
+#: assets/js/bp-messages-free.js:283 assets/js/bp-messages-premium.js:283
+msgctxt "File Uploader"
+msgid "browse files"
+msgstr "buscar archivos"
+
+#: assets/js/bp-messages-free.js:282 assets/js/bp-messages-premium.js:282
+msgctxt "File Uploader"
+msgid "browse"
+msgstr "buscar"
+
+#: assets/js/bp-messages-free.js:281 assets/js/bp-messages-premium.js:281
+msgctxt "File Uploader"
+msgid "Back"
+msgstr "Regresar"
+
+#: assets/js/bp-messages-free.js:280 assets/js/bp-messages-premium.js:280
+msgctxt "File Uploader"
+msgid "Please allow access to your microphone"
+msgstr "Por favor permite acceso a tu micrófono"
+
+#: assets/js/bp-messages-free.js:279 assets/js/bp-messages-premium.js:279
+msgctxt "File Uploader"
+msgid "In order to record audio, please allow microphone access for this site."
+msgstr ""
+
+#: assets/js/bp-messages-free.js:278 assets/js/bp-messages-premium.js:278
+msgctxt "File Uploader"
+msgid "Please allow access to your camera"
+msgstr "Por favor permite acceso a tu cámara"
+
+#: assets/js/bp-messages-free.js:277 assets/js/bp-messages-premium.js:277
+msgctxt "File Uploader"
+msgid "In order to take pictures or record video with your camera, please allow camera access for this site."
+msgstr ""
+
+#: assets/js/bp-messages-free.js:276 assets/js/bp-messages-premium.js:276
+msgctxt "File Uploader"
+msgid "Add more files"
+msgstr "Añadir más archivos"
+
+#: assets/js/bp-messages-free.js:275 assets/js/bp-messages-premium.js:275
+msgctxt "File Uploader"
+msgid "Add more"
+msgstr "Añadir más"
+
+#: assets/js/bp-messages-free.js:274 assets/js/bp-messages-premium.js:274
+msgctxt "File Uploader"
+msgid "Adding more files"
+msgstr "Añadir más archivos"
+
+#: assets/js/bp-messages-free.js:273 assets/js/bp-messages-premium.js:273
+msgctxt "File Uploader"
+msgid "Added %{smart_count} files from %{folder}"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:272 assets/js/bp-messages-premium.js:272
+msgctxt "File Uploader"
+msgid "Added %{smart_count} file from %{folder}"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:271 assets/js/bp-messages-premium.js:271
+msgctxt "File Uploader"
+msgid "The folder \"%{folder}\" was already added"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:270 assets/js/bp-messages-premium.js:270
+msgctxt "File Uploader"
+msgid "No files were added from empty folder"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:269 assets/js/bp-messages-premium.js:269
+msgctxt "File Uploader"
+msgid "Loading..."
+msgstr "Cargando..."
+
+#: assets/js/bp-messages-free.js:268 assets/js/bp-messages-premium.js:268
+msgctxt "File Uploader"
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: assets/js/bp-messages-free.js:267 assets/js/bp-messages-premium.js:267
+msgctxt "File Uploader"
+msgid "Open folder %{name}"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:266 assets/js/bp-messages-premium.js:266
+msgctxt "File Uploader"
+msgid "All files from folder %{name}"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:265 assets/js/bp-messages-premium.js:265
+msgctxt "File Uploader"
+msgid "Select %{smart_count}"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:264 assets/js/bp-messages-premium.js:264
+msgctxt "File Uploader"
+msgid "You have no files or folders here"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:263 assets/js/bp-messages-premium.js:263
+msgctxt "File Uploader"
+msgid "Failed to upload %{file}"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:262 assets/js/bp-messages-premium.js:262
+msgctxt "File Uploader"
+msgid "Authentication aborted"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:261 assets/js/bp-messages-premium.js:261
+msgctxt "File Uploader"
+msgid "Cannot add the duplicate file '%{fileName}', it already exists"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:260 assets/js/bp-messages-premium.js:260
+msgctxt "File Uploader"
+msgid "Cannot add more files"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:259 assets/js/bp-messages-premium.js:259
+msgctxt "File Uploader"
+msgid "You can only upload: %{types}"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:258 assets/js/bp-messages-premium.js:258
+msgctxt "File Uploader"
+msgid "This file is smaller than the allowed size of %{size}"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:257 assets/js/bp-messages-premium.js:257
+msgctxt "File Uploader"
+msgid "Missing required meta fields in %{fileName}"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:256 assets/js/bp-messages-premium.js:256
+msgctxt "File Uploader"
+msgid "Missing required meta fields"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:255 assets/js/bp-messages-premium.js:255
+msgctxt "File Uploader"
+msgid "%{file} exceeds maximum allowed size of %{size}"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:254 assets/js/bp-messages-premium.js:254
+msgctxt "File Uploader"
+msgid "You can only upload %{smart_count} files"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:253 assets/js/bp-messages-premium.js:253
+msgctxt "File Uploader"
+msgid "You can only upload %{smart_count} file"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:252 assets/js/bp-messages-premium.js:252
+msgctxt "File Uploader"
+msgid "Failed to add %{smart_count} files due to internal errors"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:251 assets/js/bp-messages-premium.js:251
+msgctxt "File Uploader"
+msgid "Failed to add %{smart_count} file due to an internal error"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:250 assets/js/bp-messages-premium.js:250
+msgctxt "File Uploader - Failed to upload (%filename)"
+msgid "Failed to upload %s"
+msgstr "Error al cargar %s"
+
+#: assets/js/bp-messages-free.js:249 assets/js/bp-messages-premium.js:249
+msgctxt "Typing indicator (3 or more typing)"
+msgid "%s typing"
+msgid_plural "%s typing"
+msgstr[0] "%s está escribiendo"
+msgstr[1] "%s están escribiendo"
+
+#: assets/js/bp-messages-free.js:248 assets/js/bp-messages-premium.js:248
+msgctxt "Typing indicator (Username 1, Username 2 typing)"
+msgid "%s typing"
+msgid_plural "%s typing"
+msgstr[0] "%s está escribiendo"
+msgstr[1] "%s están escribiendo"
+
+#: assets/js/bp-messages-free.js:247 assets/js/bp-messages-premium.js:247
+msgctxt "Typing indicator (private conversation)"
+msgid "typing"
+msgstr "escribiendo"
+
+#: assets/js/bp-messages-free.js:246 assets/js/bp-messages-premium.js:246
+msgctxt "Conversation Settings"
+msgid "Participants"
+msgstr "Participantes"
+
+#: assets/js/bp-messages-free.js:245 assets/js/bp-messages-premium.js:245
+msgctxt "Conversation Settings"
+msgid "Conversation settings"
+msgstr "Ajustes de la conversación"
+
+#: assets/js/bp-messages-free.js:244 assets/js/bp-messages-premium.js:244
+msgctxt "Conversation Settings"
+msgid "When enabled, conversation participants will be able to add other users to conversation."
+msgstr "Cuando está activado, los participantes de la conversación podrán añadir a otros usuarios a la conversación."
+
+#: assets/js/bp-messages-free.js:243 assets/js/bp-messages-premium.js:243
+msgctxt "Conversation Settings"
+msgid "Allow conversation members to invite other members"
+msgstr "Permitir a los miembros de la conversación invitar a otros miembros"
+
+#: assets/js/bp-messages-free.js:242 assets/js/bp-messages-premium.js:242
+msgctxt "Conversation Settings"
+msgid "Change subject"
+msgstr "Cambiar asunto"
+
+#: assets/js/bp-messages-free.js:240 assets/js/bp-messages-premium.js:240
+msgctxt "Stickers selector"
+msgid "You have not used any stickers yet"
+msgstr "No has usado ningún sticker aún"
+
+#: assets/js/bp-messages-free.js:239 assets/js/bp-messages-premium.js:239
+msgctxt "Stickers selector"
+msgid "No stickers found"
+msgstr "No se han encontrado stickers"
+
+#: assets/js/bp-messages-free.js:238 assets/js/bp-messages-premium.js:238
+msgctxt "Stickers selector"
+msgid "Search results will display here"
+msgstr "Los resultados de búsqueda aparecerán aquí"
+
+#: assets/js/bp-messages-free.js:237 assets/js/bp-messages-premium.js:237
+msgctxt "Stickers selector - Search Input Placeholder"
+msgid "Search"
+msgstr "Buscar"
+
+#: assets/js/bp-messages-free.js:236 assets/js/bp-messages-premium.js:236
+msgctxt "Stickers selector"
+msgid "Close"
+msgstr "Cerrar"
+
+#: assets/js/bp-messages-free.js:235 assets/js/bp-messages-premium.js:235
+msgctxt "Stickers selector"
+msgid "Search"
+msgstr "Buscar"
+
+#: assets/js/bp-messages-free.js:234 assets/js/bp-messages-premium.js:234
+msgctxt "Stickers selector"
+msgid "Latest"
+msgstr "Últimos"
+
+#: assets/js/bp-messages-free.js:233 assets/js/bp-messages-premium.js:233
+msgctxt "\"Send Sticker\" button tooltip"
+msgid "Send Sticker"
+msgstr "Enviar Sticker"
+
+#: assets/js/bp-messages-free.js:232 assets/js/bp-messages-premium.js:232
+msgctxt "Search Results"
+msgid "Conversations"
+msgstr "Conversaciones"
+
+#: assets/js/bp-messages-free.js:231 assets/js/bp-messages-premium.js:231
+msgctxt "Search Results"
+msgid "Members"
+msgstr "Miembros"
+
+#: assets/js/bp-messages-free.js:230 assets/js/bp-messages-premium.js:230
+msgctxt "Search Results"
+msgid "Friends"
+msgstr "Amigos"
+
+#: assets/js/bp-messages-free.js:229 assets/js/bp-messages-premium.js:229
+msgctxt "Search Results"
+msgid "Nothing found"
+msgstr "No se ha encontrado nada"
+
+#: assets/js/bp-messages-free.js:228 assets/js/bp-messages-premium.js:228
+msgctxt "Search input field placeholder"
+msgid "Search..."
+msgstr "Buscar…"
+
+#: assets/js/bp-messages-free.js:227 assets/js/bp-messages-premium.js:227
+msgctxt "\"Edit message\" button tooltip"
+msgid "Save Message"
+msgstr "Guardar Mensaje"
+
+#: assets/js/bp-messages-free.js:224 assets/js/bp-messages-premium.js:224
+msgctxt "Reply message panel"
+msgid "Reply to message"
+msgstr "Responder a mensaje"
+
+#: assets/js/bp-messages-free.js:223 assets/js/bp-messages-premium.js:223
+msgctxt "Edit message panel"
+msgid "Edit message"
+msgstr "Editar mensaje"
+
+#: assets/js/bp-messages-free.js:216 assets/js/bp-messages-premium.js:216
+msgctxt "Gifs selector"
+msgid "You have not used any gifs yet"
+msgstr "No has usado ningún gif aún"
+
+#: assets/js/bp-messages-free.js:215 assets/js/bp-messages-premium.js:215
+msgctxt "Gifs selector"
+msgid "No gifs found"
+msgstr "No se han encontrado gifs"
+
+#: assets/js/bp-messages-free.js:214 assets/js/bp-messages-premium.js:214
+msgctxt "Gifs selector"
+msgid "Search results will display here"
+msgstr "Los resultados de búsqueda se mostrarán aquí"
+
+#: assets/js/bp-messages-free.js:213 assets/js/bp-messages-premium.js:213
+msgctxt "Gifs selector"
+msgid "Close"
+msgstr "Cerrar"
+
+#: assets/js/bp-messages-free.js:212 assets/js/bp-messages-premium.js:212
+msgctxt "Gifs selector"
+msgid "Search"
+msgstr "Buscar"
+
+#: assets/js/bp-messages-free.js:211 assets/js/bp-messages-premium.js:211
+msgctxt "Gifs selector"
+msgid "Trending"
+msgstr "Tendencias"
+
+#: assets/js/bp-messages-free.js:210 assets/js/bp-messages-premium.js:210
+msgctxt "\"Send GIF\" button tooltip"
+msgid "Send GIF"
+msgstr "Enviar GIF"
+
+#: assets/js/bp-messages-free.js:209 assets/js/bp-messages-premium.js:209
+msgctxt "Emoji Picker"
+msgid "Dark"
+msgstr "Oscuro"
+
+#: assets/js/bp-messages-free.js:208 assets/js/bp-messages-premium.js:208
+msgctxt "Emoji Picker"
+msgid "Medium-Dark"
+msgstr "Medio-Oscuro"
+
+#: assets/js/bp-messages-free.js:207 assets/js/bp-messages-premium.js:207
+msgctxt "Emoji Picker"
+msgid "Medium"
+msgstr "Medio"
+
+#: assets/js/bp-messages-free.js:206 assets/js/bp-messages-premium.js:206
+msgctxt "Emoji Picker"
+msgid "Medium-Light"
+msgstr "Medio-Claro"
+
+#: assets/js/bp-messages-free.js:205 assets/js/bp-messages-premium.js:205
+msgctxt "Emoji Picker"
+msgid "Light"
+msgstr "Claro"
+
+#: assets/js/bp-messages-free.js:204 assets/js/bp-messages-premium.js:204
+msgctxt "Emoji Picker"
+msgid "Default"
+msgstr "Predeterminado"
+
+#: assets/js/bp-messages-free.js:203 assets/js/bp-messages-premium.js:203
+msgctxt "Emoji Picker"
+msgid "Choose default skin tone"
+msgstr "Elige color de piel predeterminado"
+
+#: assets/js/bp-messages-free.js:202 assets/js/bp-messages-premium.js:202
+msgctxt "Emoji Picker"
+msgid "Symbols"
+msgstr "Símbolos"
+
+#: assets/js/bp-messages-free.js:201 assets/js/bp-messages-premium.js:201
+msgctxt "Emoji Picker"
+msgid "Search Results"
+msgstr "Resultados de Búsqueda"
+
+#: assets/js/bp-messages-free.js:200 assets/js/bp-messages-premium.js:200
+msgctxt "Emoji Picker"
+msgid "Travel & Places"
+msgstr "Viajes y Lugares"
+
+#: assets/js/bp-messages-free.js:199 assets/js/bp-messages-premium.js:199
+msgctxt "Emoji Picker"
+msgid "Smileys & People"
+msgstr "Caras y Gente"
+
+#: assets/js/bp-messages-free.js:198 assets/js/bp-messages-premium.js:198
+msgctxt "Emoji Picker"
+msgid "Objects"
+msgstr "Objetos"
+
+#: assets/js/bp-messages-free.js:197 assets/js/bp-messages-premium.js:197
+msgctxt "Emoji Picker"
+msgid "Animals & Nature"
+msgstr "Animales y Naturaleza"
+
+#: assets/js/bp-messages-free.js:196 assets/js/bp-messages-premium.js:196
+msgctxt "Emoji Picker"
+msgid "Frequently used"
+msgstr "Usados frecuentemente"
+
+#: assets/js/bp-messages-free.js:195 assets/js/bp-messages-premium.js:195
+msgctxt "Emoji Picker"
+msgid "Food & Drink"
+msgstr "Comida y Bebida"
+
+#: assets/js/bp-messages-free.js:194 assets/js/bp-messages-premium.js:194
+msgctxt "Emoji Picker"
+msgid "Flags"
+msgstr "Banderas"
+
+#: assets/js/bp-messages-free.js:193 assets/js/bp-messages-premium.js:193
+msgctxt "Emoji Picker"
+msgid "Activity"
+msgstr "Actividad"
+
+#: assets/js/bp-messages-free.js:192 assets/js/bp-messages-premium.js:192
+msgctxt "Emoji Picker"
+msgid "Pick an emoji…"
+msgstr "Elige un emoji..."
+
+#: assets/js/bp-messages-free.js:191 assets/js/bp-messages-premium.js:191
+msgctxt "Emoji Picker"
+msgid "That emoji couldn’t be found"
+msgstr "Ese emoji no pudo ser encontrado"
+
+#: assets/js/bp-messages-free.js:190 assets/js/bp-messages-premium.js:190
+msgctxt "Emoji Picker"
+msgid "Oh no!"
+msgstr "¡Oh, no!"
+
+#: assets/js/bp-messages-free.js:189 assets/js/bp-messages-premium.js:189
+msgctxt "Emoji Picker"
+msgid "Search"
+msgstr "Buscar"
+
+#: assets/js/bp-messages-free.js:188 assets/js/bp-messages-premium.js:188
+msgctxt "Group Call Screen"
+msgid "Connection Status (Quality)"
+msgstr "Estado de la Conexión (Calidad)"
+
+#: assets/js/bp-messages-free.js:187 assets/js/bp-messages-premium.js:187
+msgctxt "Mobile view tabs"
+msgid "Groups"
+msgstr "Grupos"
+
+#: assets/js/bp-messages-free.js:186 assets/js/bp-messages-premium.js:186
+msgctxt "Mobile view tabs"
+msgid "Friends"
+msgstr "Amigos"
+
+#: assets/js/bp-messages-free.js:185 assets/js/bp-messages-premium.js:185
+msgctxt "Mobile view tabs"
+msgid "Messages"
+msgstr "Mensajes"
+
+#: assets/js/bp-messages-free.js:184 assets/js/bp-messages-premium.js:184
+msgctxt "Chat Room Screen"
+msgid "Only participants can see this chat room messages"
+msgstr "Sólo los participantes pueden ver los mensajes en esta sala de chat"
+
+#: assets/js/bp-messages-free.js:183 assets/js/bp-messages-premium.js:183
+msgctxt "User settings screen"
+msgid "You haven’t blocked anyone yet"
+msgstr "No has bloqueado a nadie aún"
+
+#: assets/js/bp-messages-free.js:182 assets/js/bp-messages-premium.js:182
+msgctxt "User settings screen"
+msgid "Unblock user"
+msgstr "Desbloquear usuario"
+
+#: assets/js/bp-messages-free.js:181 assets/js/bp-messages-premium.js:181
+msgctxt "User settings screen"
+msgid "This is a list of users that you have blocked. You may unblock them from the blocklist below."
+msgstr "Esta es una lista de usuarios que has bloqueado. Puedes desbloquearlos desde la lista de bloqueo abajo."
+
+#: assets/js/bp-messages-free.js:180 assets/js/bp-messages-premium.js:180
+msgctxt "User settings screen"
+msgid "Disable"
+msgstr "Desactivar"
+
+#: assets/js/bp-messages-free.js:179 assets/js/bp-messages-premium.js:179
+msgctxt "User settings screen"
+msgid "Enable"
+msgstr "Activar"
+
+#: assets/js/bp-messages-free.js:178 assets/js/bp-messages-premium.js:178
+msgctxt "User settings screen"
+msgid "Waiting..."
+msgstr "Esperando..."
+
+#: assets/js/bp-messages-free.js:177 assets/js/bp-messages-premium.js:177
+msgctxt "Bulk Messages Page"
+msgid "Stop Messaging"
+msgstr "Dejar de Enviar Mensajes"
+
+#: assets/js/bp-messages-free.js:176 assets/js/bp-messages-premium.js:176
+msgctxt "Bulk Messages Page"
+msgid "Start Messaging"
+msgstr "Comenzar a Enviar Mensajes"
+
+#: assets/js/bp-messages-free.js:175 assets/js/bp-messages-premium.js:175
+msgctxt "Bulk Messages Page"
+msgid "Message"
+msgstr "Mensaje"
+
+#: assets/js/bp-messages-free.js:174 assets/js/bp-messages-premium.js:174
+msgctxt "Bulk Messages Page"
+msgid "Add all recipients to one conversation"
+msgstr "Añadir a todos los destinatarios a una conversación"
+
+#: assets/js/bp-messages-free.js:173 assets/js/bp-messages-premium.js:173
+msgctxt "Bulk Messages Page"
+msgid "Do not create a new conversation if it already exists"
+msgstr "No crear una nueva conversación si ya existe"
+
+#: assets/js/bp-messages-free.js:172 assets/js/bp-messages-premium.js:172
+msgctxt "Bulk Messages Page"
+msgid "Disable replies to this message"
+msgstr "Desactivar respuestas a este mensaje"
+
+#: assets/js/bp-messages-free.js:171 assets/js/bp-messages-premium.js:171
+msgctxt "Bulk Messages Page"
+msgid "If you are messaging to many users better to hide new threads from your conversation list."
+msgstr "Si estás enviando mensajes a muchos usuarios es mejor ocultar las nuevas conversaciones de tu lista de conversaciones."
+
+#: assets/js/bp-messages-free.js:169 assets/js/bp-messages-premium.js:169
+msgctxt "Bulk Messages Page"
+msgid "Options"
+msgstr "Opciones"
+
+#: assets/js/bp-messages-free.js:168 assets/js/bp-messages-premium.js:168
+msgctxt "Bulk Messages Page"
+msgid "Users selected:"
+msgstr "Usuarios seleccionados:"
+
+#: assets/js/bp-messages-free.js:167 assets/js/bp-messages-premium.js:167
+msgctxt "Bulk Messages Page"
+msgid "Group"
+msgstr "Grupo"
+
+#: assets/js/bp-messages-free.js:166 assets/js/bp-messages-premium.js:166
+msgctxt "Bulk Messages Page"
+msgid "Users with Role"
+msgstr "Usuarios con Rol"
+
+#: assets/js/bp-messages-free.js:165 assets/js/bp-messages-premium.js:165
+msgctxt "Bulk Messages Page"
+msgid "All Users"
+msgstr "Todos los Usuarios"
+
+#: assets/js/bp-messages-free.js:164 assets/js/bp-messages-premium.js:164
+msgctxt "Bulk Messages Page"
+msgid "Send to"
+msgstr "Enviar a"
+
+#: assets/js/bp-messages-free.js:163 assets/js/bp-messages-premium.js:163
+msgctxt "Bulk Messages Page"
+msgid "Delete"
+msgstr "Eliminar"
+
+#: assets/js/bp-messages-free.js:162 assets/js/bp-messages-premium.js:162
+msgctxt "Bulk Messages Page"
+msgid "Disable Reply"
+msgstr "Desactivar Respuesta"
+
+#: assets/js/bp-messages-free.js:161 assets/js/bp-messages-premium.js:161
+msgctxt "Bulk Messages Page"
+msgid "Date"
+msgstr "Fecha"
+
+#: assets/js/bp-messages-free.js:160 assets/js/bp-messages-premium.js:160
+msgctxt "Bulk Messages Page"
+msgid "Read"
+msgstr "Leído"
+
+#: assets/js/bp-messages-free.js:159 assets/js/bp-messages-premium.js:159
+msgctxt "Bulk Messages Page"
+msgid "Sent"
+msgstr "Enviado"
+
+#: assets/js/bp-messages-free.js:158 assets/js/bp-messages-premium.js:158
+msgctxt "Bulk Messages Page"
+msgid "Sender"
+msgstr "Remitente"
+
+#: assets/js/bp-messages-free.js:157 assets/js/bp-messages-premium.js:157
+msgctxt "Bulk Messages Page"
+msgid "Subject"
+msgstr "Asunto"
+
+#: assets/js/bp-messages-free.js:156 assets/js/bp-messages-premium.js:156
+msgctxt "Bulk Messages Page"
+msgid "ID"
+msgstr "ID"
+
+#: assets/js/bp-messages-free.js:155 assets/js/bp-messages-premium.js:155
+msgctxt "Bulk Messages Page"
+msgid "No reports yet."
+msgstr "No hay reportes aún."
+
+#: assets/js/bp-messages-free.js:154 assets/js/bp-messages-premium.js:154
+msgctxt "Bulk Messages Page"
+msgid "Reports"
+msgstr "Reportes"
+
+#: assets/js/bp-messages-free.js:153 assets/js/bp-messages-premium.js:153
+msgctxt "Bulk Messages Page"
+msgid "Are you sure you want to delete %s conversation(s) and report?"
+msgstr "¿Estás seguro que quieres eliminar la conversación(es) de %s y reportar?"
+
+#: assets/js/bp-messages-free.js:152 assets/js/bp-messages-premium.js:152
+msgctxt "New threads screen"
+msgid "Type a message below to continue the conversation."
+msgstr "Escribe un mensaje para continuar la conversación."
+
+#: assets/js/bp-messages-free.js:151 assets/js/bp-messages-premium.js:151
+msgctxt "New threads screen"
+msgid "You already have a conversation with this member."
+msgstr "Ya tienes una conversación con este miembro."
+
+#: assets/js/bp-messages-free.js:150 assets/js/bp-messages-premium.js:150
+msgctxt "New threads screen"
+msgid "Enter conversation subject"
+msgstr "Ingresar asunto de la conversación"
+
+#: assets/js/bp-messages-free.js:149 assets/js/bp-messages-premium.js:149
+msgctxt "New threads screen"
+msgid "Subject:"
+msgstr "Asunto:"
+
+#: assets/js/bp-messages-free.js:148 assets/js/bp-messages-premium.js:148
+msgctxt "New threads screen"
+msgid "No members found"
+msgstr "No se han encontrado miembros"
+
+#: assets/js/bp-messages-free.js:147 assets/js/bp-messages-premium.js:147
+msgctxt "New threads screen"
+msgid "Loading..."
+msgstr "Cargando..."
+
+#: assets/js/bp-messages-free.js:146 assets/js/bp-messages-premium.js:146
+msgctxt "New threads screen"
+msgid "To: "
+msgstr "Para: "
+
+#: assets/js/bp-messages-free.js:145 assets/js/bp-messages-premium.js:145
+msgctxt "New threads screen"
+msgid "Start typing to search members"
+msgstr "Comienza a escribir para buscar miembros"
+
+#: assets/js/bp-messages-free.js:144 assets/js/bp-messages-premium.js:144
+msgctxt "Starting Messages Screen (No threads selected)"
+msgid "Start a new conversation"
+msgstr "Comienza una nueva conversación"
+
+#: assets/js/bp-messages-free.js:143 assets/js/bp-messages-premium.js:143
+msgctxt "Starting Messages Screen (No threads selected)"
+msgid "or"
+msgstr "o"
+
+#: assets/js/bp-messages-free.js:142 assets/js/bp-messages-premium.js:142
+msgctxt "Starting Messages Screen (No threads selected)"
+msgid "Select a conversation to display messages"
+msgstr "Elige una conversación para mostrar los mensajes"
+
+#: assets/js/bp-messages-free.js:141 assets/js/bp-messages-premium.js:141
+msgctxt "\"Close\" Button Tooltip"
+msgid "Close"
+msgstr "Cerrar"
+
+#: assets/js/bp-messages-free.js:140 assets/js/bp-messages-premium.js:140
+msgctxt "Links tooltip"
+msgid "Go to <strong>%s</strong>"
+msgstr "Ir a <strong>%s</strong>"
+
+#: assets/js/bp-messages-free.js:139 assets/js/bp-messages-premium.js:139
+msgctxt "Group Thread Online Count"
+msgid "%s participant"
+msgid_plural "%s participants"
+msgstr[0] "%s participante"
+msgstr[1] "%s participantes"
+
+#: assets/js/bp-messages-free.js:138 assets/js/bp-messages-premium.js:138
+msgid "Deleted user"
+msgstr "Usuario eliminado"
+
+#: assets/js/bp-messages-free.js:137 assets/js/bp-messages-premium.js:137
+msgctxt "User settings screen"
+msgid "Settings"
+msgstr "Ajustes"
+
+#: assets/js/bp-messages-free.js:136 assets/js/bp-messages-premium.js:136
+msgctxt "Bulk messaging screen"
+msgid "Bulk Messages"
+msgstr "Mensajes Masivos"
+
+#: assets/js/bp-messages-free.js:135 assets/js/bp-messages-premium.js:135
+msgctxt "New threads screen"
+msgid "Bulk Message"
+msgstr "Mensaje Masivo"
+
+#: assets/js/bp-messages-free.js:134 assets/js/bp-messages-premium.js:134
+msgctxt "New threads screen"
+msgid "Start a new conversation"
+msgstr "Comenzar una nueva conversación"
+
+#: assets/js/bp-messages-free.js:133 assets/js/bp-messages-premium.js:133
+msgctxt "\"User Settings\" Button Tooltip"
+msgid "Settings"
+msgstr "Ajustes"
+
+#: assets/js/bp-messages-free.js:132 assets/js/bp-messages-premium.js:132
+msgctxt "\"Search\" Button Tooltip"
+msgid "Search"
+msgstr "Buscar"
+
+#: assets/js/bp-messages-free.js:131 assets/js/bp-messages-premium.js:131
+msgctxt "\"Favorited\" Button Tooltip"
+msgid "Favorited"
+msgstr "Añadido a favoritos"
+
+#: assets/js/bp-messages-free.js:130 assets/js/bp-messages-premium.js:130
+msgctxt "\"Mark all as read\" Button Tooltip"
+msgid "Mark all as read"
+msgstr "Marcar todo como leído"
+
+#: assets/js/bp-messages-free.js:129 assets/js/bp-messages-premium.js:129
+msgctxt "Favorited messages screen"
+msgid "Favorited messages"
+msgstr "Mensajes añadidos a favoritos"
+
+#: assets/js/bp-messages-free.js:128 assets/js/bp-messages-premium.js:128
+msgctxt "\"Back\" Button Tooltip"
+msgid "Back"
+msgstr "Atrás"
+
+#: assets/js/bp-messages-free.js:127 assets/js/bp-messages-premium.js:127
+msgctxt "Favorited messages screen"
+msgid "No favorited messages yet!"
+msgstr "¡No hay mensajes en favoritos aún!"
+
+#: assets/js/bp-messages-free.js:123 assets/js/bp-messages-premium.js:123
+msgctxt "Close Modal Window"
+msgid "Close"
+msgstr "Cerrar"
+
+#: assets/js/bp-messages-free.js:122 assets/js/bp-messages-premium.js:122
+msgctxt "Message Delivery Status Modal"
+msgid "Message is not received or seen by anyone yet"
+msgstr "El mensaje no ha sido recibido o visto por nadie aún"
+
+#: assets/js/bp-messages-free.js:114 assets/js/bp-messages-premium.js:114
+msgctxt "Add Participants Panel"
+msgid "Add participants"
+msgstr "Añadir participantes"
+
+#: assets/js/bp-messages-free.js:113 assets/js/bp-messages-premium.js:113
+msgctxt "Add Participants Panel"
+msgid "No members found"
+msgstr "No se han encontrado miembros"
+
+#: assets/js/bp-messages-free.js:112 assets/js/bp-messages-premium.js:112
+msgctxt "Add Participants Panel"
+msgid "Loading..."
+msgstr "Cargando..."
+
+#: assets/js/bp-messages-free.js:111 assets/js/bp-messages-premium.js:111
+msgctxt "Add Participants Panel"
+msgid "Start typing to search members"
+msgstr "Comienza a escribir para añadir miembros"
+
+#: assets/js/bp-messages-free.js:110 assets/js/bp-messages-premium.js:110
+msgctxt "Messages list unread label"
+msgid "Unread messages"
+msgstr "Mensajes no leídos"
+
+#: assets/js/bp-messages-free.js:109 assets/js/bp-messages-premium.js:109
+msgctxt "Messages stack date (current year) https://moment.github.io/luxon/#/formatting?id=table-of-tokens"
+msgid "MMMM d"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:108 assets/js/bp-messages-premium.js:108
+msgctxt "Messages stack date (previous years) https://moment.github.io/luxon/#/formatting?id=table-of-tokens"
+msgid "MMMM d, y"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:107 assets/js/bp-messages-premium.js:107
+msgctxt "Messages stack date (yesterday)"
+msgid "Yesterday"
+msgstr "Ayer"
+
+#: assets/js/bp-messages-free.js:106 assets/js/bp-messages-premium.js:106
+msgctxt "Messages stack date (today)"
+msgid "Today"
+msgstr "Hoy"
+
+#: assets/js/bp-messages-free.js:105 assets/js/bp-messages-premium.js:105
+msgctxt "Label at the start of messages list in conversation"
+msgid "Start of conversation"
+msgstr "Comienzo de la conversación"
+
+#: assets/js/bp-messages-free.js:104 assets/js/bp-messages-premium.js:104
+msgctxt "Label at the start of messages list in conversation while loading"
+msgid "Loading..."
+msgstr "Cargando..."
+
+#: assets/js/bp-messages-free.js:103 assets/js/bp-messages-premium.js:103
+msgid "Write a message to start the conversation"
+msgstr "Escribe un mensaje para iniciar la conversación"
+
+#: assets/js/bp-messages-free.js:102 assets/js/bp-messages-premium.js:102
+msgctxt "Message Delivery Status Tooltip"
+msgid "Sent"
+msgstr "Enviado"
+
+#: assets/js/bp-messages-free.js:101 assets/js/bp-messages-premium.js:101
+msgctxt "Message Delivery Status Tooltip"
+msgid "Seen"
+msgstr "Visto"
+
+#: assets/js/bp-messages-free.js:100 assets/js/bp-messages-premium.js:100
+msgctxt "Message Delivery Status Tooltip"
+msgid "Delivered"
+msgstr "Entregado"
+
+#: assets/js/bp-messages-free.js:99 assets/js/bp-messages-premium.js:99
+msgctxt "Message Delivery Status Modal"
+msgid "Message status"
+msgstr "Estado del mensaje"
+
+#: assets/js/bp-messages-free.js:98 assets/js/bp-messages-premium.js:98
+msgctxt "Message Reactions Modal"
+msgid "Message reactions"
+msgstr "Reacciones al mensaje"
+
+#: assets/js/bp-messages-free.js:97 assets/js/bp-messages-premium.js:97
+msgctxt "More button"
+msgid "More"
+msgstr "Más"
+
+#: assets/js/bp-messages-free.js:96 assets/js/bp-messages-premium.js:96
+msgctxt "Reply to message button"
+msgid "Reply"
+msgstr "Responder"
+
+#: assets/js/bp-messages-free.js:95 assets/js/bp-messages-premium.js:95
+msgctxt "Remove message from favorited"
+msgid "Remove from Favorited"
+msgstr "Eliminar de Favoritos"
+
+#: assets/js/bp-messages-free.js:94 assets/js/bp-messages-premium.js:94
+msgctxt "Mark message as favorite"
+msgid "Mark as Favorited"
+msgstr "Marcar como Favorito"
+
+#: assets/js/bp-messages-free.js:93 assets/js/bp-messages-premium.js:93
+msgctxt "Message context menu"
+msgid "Copy message text"
+msgstr "Copiar texto del mensaje"
+
+#: assets/js/bp-messages-free.js:92 assets/js/bp-messages-premium.js:92
+msgctxt "Message context menu"
+msgid "Delete"
+msgstr "Eliminar"
+
+#: assets/js/bp-messages-free.js:91 assets/js/bp-messages-premium.js:91
+msgctxt "Message context menu"
+msgid "Edit"
+msgstr "Editar"
+
+#: assets/js/bp-messages-free.js:90 assets/js/bp-messages-premium.js:90
+msgctxt "Message context menu"
+msgid "Reply"
+msgstr "Responder"
+
+#: assets/js/bp-messages-free.js:89 assets/js/bp-messages-premium.js:89
+msgctxt "Messages from blocked user"
+msgid "Message hidden (User blocked)"
+msgstr "Mensaje ocultado (Usuario bloqueado)"
+
+#: assets/js/bp-messages-free.js:88 assets/js/bp-messages-premium.js:88
+msgctxt "Message context menu"
+msgid "Text copied to clipboard"
+msgstr "Texto copiado al portapapeles"
+
+#: assets/js/bp-messages-free.js:87 assets/js/bp-messages-premium.js:87
+msgctxt "Frontend Scripts"
+msgid "Loading"
+msgstr "Cargando"
+
+#: assets/js/bp-messages-free.js:84 assets/js/bp-messages-premium.js:84
+msgctxt "\"Additional options\" Button Tooltip"
+msgid "More"
+msgstr "Más"
+
+#: assets/js/bp-messages-free.js:83 assets/js/bp-messages-premium.js:83
+msgctxt "\"Minimize messages window\" Button Tooltip"
+msgid "Minimize"
+msgstr "Minimizar"
+
+#: assets/js/bp-messages-free.js:82 assets/js/bp-messages-premium.js:82
+msgctxt "\"Maximize messages window\" Button Tooltip"
+msgid "Maximize"
+msgstr "Maximizar"
+
+#: assets/js/bp-messages-free.js:81 assets/js/bp-messages-premium.js:81
+msgctxt "\"Minimize conversation\" Button Tooltip"
+msgid "Minimize chat"
+msgstr "Minimizar chat"
+
+#: assets/js/bp-messages-free.js:80 assets/js/bp-messages-premium.js:80
+msgctxt "\"Participants\" Button Tooltip"
+msgid "Participants"
+msgstr "Participantes"
+
+#: assets/js/bp-messages-free.js:79 assets/js/bp-messages-premium.js:79
+msgctxt "\"Video Chat\" Button Tooltip"
+msgid "Video Chat"
+msgstr "Chat de Vídeo"
+
+#: assets/js/bp-messages-free.js:78 assets/js/bp-messages-premium.js:78
+msgctxt "\"Audio Chat\" Button Tooltip"
+msgid "Audio Chat"
+msgstr "Chat de Audio"
+
+#: assets/js/bp-messages-free.js:77 assets/js/bp-messages-premium.js:77
+msgctxt "\"Video Call\" Button Tooltip"
+msgid "Video Call"
+msgstr "Videollamada"
+
+#: assets/js/bp-messages-free.js:76 assets/js/bp-messages-premium.js:76
+msgctxt "\"Audio Call\" Button Tooltip"
+msgid "Audio Call"
+msgstr "Llamada de Audio"
+
+#: assets/js/bp-messages-free.js:75 assets/js/bp-messages-premium.js:75
+msgctxt "\"Leave Chat Room\" Button"
+msgid "Leave chat room"
+msgstr "Abandonar la sala de chat"
+
+#: assets/js/bp-messages-free.js:74 assets/js/bp-messages-premium.js:74
+msgctxt "\"Leave Chat Room\" Button Tooltip"
+msgid "Leave chat room"
+msgstr "Abandonar sala de chat"
+
+#: assets/js/bp-messages-free.js:73 assets/js/bp-messages-premium.js:73
+msgctxt "Delete Conversation Action"
+msgid "Are you sure you want to delete this conversation? (This action is irreversible)"
+msgstr "¿Estás seguro que deseas eliminar esta conversación? (Esta acción es irreversible)"
+
+#: assets/js/bp-messages-free.js:66 assets/js/bp-messages-premium.js:66
+msgctxt "\"Delete thread\" Button Tooltip"
+msgid "Delete conversation"
+msgstr "Eliminar conversación"
+
+#: assets/js/bp-messages-free.js:71 assets/js/bp-messages-premium.js:71
+msgctxt "\"Erase thread\" Button Tooltip"
+msgid "Erase conversation and all messages"
+msgstr "Borrar la conversación y todos los mensajes"
+
+#: assets/js/bp-messages-free.js:70 assets/js/bp-messages-premium.js:70
+msgctxt "Clear Messages Action"
+msgid "Are you sure you want to delete all messages in this conversation? (This action is irreversible)"
+msgstr "¿Estás seguro de que quieres eliminar todos los mensajes de esta conversación? (Esta acción es irreversible)"
+
+#: assets/js/bp-messages-free.js:69 assets/js/bp-messages-premium.js:69
+msgctxt "\"Clear messages\" Button"
+msgid "Clear messages"
+msgstr "Borrar mensajes"
+
+#: assets/js/bp-messages-free.js:68 assets/js/bp-messages-premium.js:68
+msgctxt "\"Clear messages\" Button Tooltip"
+msgid "Delete all messages in this conversation"
+msgstr "Borrar todos los mensajes en esta conversación"
+
+#: assets/js/bp-messages-free.js:65 assets/js/bp-messages-premium.js:65
+msgctxt "\"Leave conversation\" Button"
+msgid "Leave"
+msgstr "Salir"
+
+#: assets/js/bp-messages-free.js:64 assets/js/bp-messages-premium.js:64
+msgctxt "\"Leave conversation\" Button Tooltip"
+msgid "Leave this conversation"
+msgstr "Salir de esta conversación"
+
+#: assets/js/bp-messages-free.js:63 assets/js/bp-messages-premium.js:63
+msgctxt "Conversation Settings"
+msgid "Add new participant"
+msgstr "Añadir nuevo participante"
+
+#: assets/js/bp-messages-free.js:62 assets/js/bp-messages-premium.js:62
+msgctxt "\"Add new participants\" Button"
+msgid "Add new participants"
+msgstr "Añadir nuevos participantes"
+
+#: assets/js/bp-messages-free.js:61 assets/js/bp-messages-premium.js:61
+msgctxt "\"Add new participants\" Button Tooltip"
+msgid "Add new participants to current conversation"
+msgstr "Añadir nuevos participantes a esta conversación"
+
+#: assets/js/bp-messages-free.js:60 assets/js/bp-messages-premium.js:60
+msgctxt "\"Unblock user\" Button"
+msgid "Unblock user"
+msgstr "Desbloquear usuario"
+
+#: assets/js/bp-messages-free.js:59 assets/js/bp-messages-premium.js:59
+msgctxt "\"Unblock user\" Button Tooltip"
+msgid "Unblock user"
+msgstr "Desbloquear usuario"
+
+#: assets/js/bp-messages-free.js:58 assets/js/bp-messages-premium.js:58
+msgctxt "\"Block user\" Button"
+msgid "Block user"
+msgstr "Bloquear usuario"
+
+#: assets/js/bp-messages-free.js:57 assets/js/bp-messages-premium.js:57
+msgctxt "\"Block user\" Button Tooltip"
+msgid "Block user"
+msgstr "Bloquear usuario"
+
+#: assets/js/bp-messages-free.js:55 assets/js/bp-messages-premium.js:55
+msgctxt "\"Mute thread\" Button Tooltip"
+msgid "Mute conversation notifications"
+msgstr "Silenciar notificaciones de conversaciones"
+
+#: assets/js/bp-messages-free.js:53 assets/js/bp-messages-premium.js:53
+msgctxt "\"Unmute thread\" Button Tooltip"
+msgid "Unmute conversation notifications"
+msgstr "Dejar de silenciar notificaciones de la conversación"
+
+#: assets/js/bp-messages-free.js:50 assets/js/bp-messages-premium.js:50
+msgctxt "Mini Chat"
+msgid "Open Member Profile"
+msgstr "Abrir Perfil del Miembro"
+
+#: assets/js/bp-messages-free.js:48 assets/js/bp-messages-premium.js:48
+msgctxt "Empty groups list"
+msgid "No groups found"
+msgstr "No se han encontrado grupos"
+
+#: assets/js/bp-messages-free.js:47 assets/js/bp-messages-premium.js:47
+msgctxt "Empty groups list"
+msgid "No groups added yet"
+msgstr "No han sido añadidos aún"
+
+#: assets/js/bp-messages-free.js:46 assets/js/bp-messages-premium.js:46
+msgctxt "Groups list"
+msgid "Search..."
+msgstr "Buscar..."
+
+#: assets/js/bp-messages-free.js:45 assets/js/bp-messages-premium.js:45
+msgctxt "Groups List"
+msgid "Group Homepage"
+msgstr "Página de inicio del grupo"
+
+#: assets/js/bp-messages-free.js:44 assets/js/bp-messages-premium.js:44
+msgctxt "Group Video Chat"
+msgid "Camera Disabled"
+msgstr "Cámara Desactivada"
+
+#: assets/js/bp-messages-free.js:43 assets/js/bp-messages-premium.js:43
+msgctxt "Group Video Chat"
+msgid "Microphone Disabled"
+msgstr "Micrófono Desactivado"
+
+#: assets/js/bp-messages-free.js:42 assets/js/bp-messages-premium.js:42
+msgctxt "Group Video Chat"
+msgid "Allow Broadcast"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:41 assets/js/bp-messages-premium.js:41
+msgctxt "Group Video Chat"
+msgid "Block Broadcast"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:40 assets/js/bp-messages-premium.js:40
+msgctxt "Group Video Chat"
+msgid "Kick User"
+msgstr "Expulsar Usuario"
+
+#: assets/js/bp-messages-free.js:39 assets/js/bp-messages-premium.js:39
+msgctxt "Group Video Chat"
+msgid "Exit Chat"
+msgstr "Salir del Chat"
+
+#: assets/js/bp-messages-free.js:38 assets/js/bp-messages-premium.js:38
+msgctxt "Group Video Chat"
+msgid "Stop Screen Sharing"
+msgstr "Detener Compartir Pantalla"
+
+#: assets/js/bp-messages-free.js:37 assets/js/bp-messages-premium.js:37
+msgctxt "Group Video Chat"
+msgid "Share Screen"
+msgstr "Compartir Pantalla"
+
+#: assets/js/bp-messages-free.js:36 assets/js/bp-messages-premium.js:36
+msgctxt "Group Video Chat"
+msgid "Exit Full Screen Mode"
+msgstr "Salir de Modo Pantalla Completa"
+
+#: assets/js/bp-messages-free.js:35 assets/js/bp-messages-premium.js:35
+msgctxt "Group Video Chat"
+msgid "Switch to Full Screen Mode"
+msgstr "Cambiar a Modo Pantalla Completa"
+
+#: assets/js/bp-messages-free.js:34 assets/js/bp-messages-premium.js:34
+msgctxt "Group Video Chat"
+msgid "Enable Microphone"
+msgstr "Activar Micrófono"
+
+#: assets/js/bp-messages-free.js:33 assets/js/bp-messages-premium.js:33
+msgctxt "Group Video Chat"
+msgid "Disable Microphone"
+msgstr "Desactivar Micrófono"
+
+#: assets/js/bp-messages-free.js:32 assets/js/bp-messages-premium.js:32
+msgctxt "Group Video Chat"
+msgid "Enable Camera"
+msgstr "Activar Cámara"
+
+#: assets/js/bp-messages-free.js:31 assets/js/bp-messages-premium.js:31
+msgctxt "Group Video Chat"
+msgid "Disable Camera"
+msgstr "Desactivar Cámara"
+
+#: assets/js/bp-messages-free.js:30 assets/js/bp-messages-premium.js:30
+msgctxt "Group Video Chat"
+msgid "Configure"
+msgstr "Configurar"
+
+#: assets/js/bp-messages-free.js:29 assets/js/bp-messages-premium.js:29
+msgctxt "Group Audio Chat"
+msgid "Microphone Enabled"
+msgstr "Micrófono Activado"
+
+#: assets/js/bp-messages-free.js:28 assets/js/bp-messages-premium.js:28
+msgctxt "Group Audio Chat"
+msgid "Microphone Disabled"
+msgstr "Micrófono Desactivado"
+
+#: assets/js/bp-messages-free.js:27 assets/js/bp-messages-premium.js:27
+msgctxt "Group Audio Chat"
+msgid "Allow Broadcast"
+msgstr "Permitir Transmisión"
+
+#: assets/js/bp-messages-free.js:26 assets/js/bp-messages-premium.js:26
+msgctxt "Group Audio Chat"
+msgid "Block Broadcast"
+msgstr "Bloquear Transmisión"
+
+#: assets/js/bp-messages-free.js:25 assets/js/bp-messages-premium.js:25
+msgctxt "Group Audio Chat"
+msgid "Kick User"
+msgstr "Expulsar Usuario"
+
+#: assets/js/bp-messages-free.js:24 assets/js/bp-messages-premium.js:24
+msgctxt "Group Audio Chat"
+msgid "Exit Chat"
+msgstr "Salir del Chat"
+
+#: assets/js/bp-messages-free.js:23 assets/js/bp-messages-premium.js:23
+msgctxt "Group Audio Chat"
+msgid "Enable Microphone"
+msgstr "Activar Micrófono"
+
+#: assets/js/bp-messages-free.js:22 assets/js/bp-messages-premium.js:22
+msgctxt "Group Audio Chat"
+msgid "Disable Microphone"
+msgstr "Desactivar Micrófono"
+
+#: assets/js/bp-messages-free.js:21 assets/js/bp-messages-premium.js:21
+msgctxt "Group Audio Chat"
+msgid "Stop Screen Sharing"
+msgstr "Detener Compartir Pantalla"
+
+#: assets/js/bp-messages-free.js:20 assets/js/bp-messages-premium.js:20
+msgctxt "Group Audio Chat"
+msgid "Share Screen"
+msgstr "Compartir Pantalla"
+
+#: assets/js/bp-messages-free.js:19 assets/js/bp-messages-premium.js:19
+msgctxt "Group Audio Chat"
+msgid "Exit Full Screen Mode"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:18 assets/js/bp-messages-premium.js:18
+msgctxt "Group Audio Chat"
+msgid "Switch to Full Screen Mode"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:17 assets/js/bp-messages-premium.js:17
+msgctxt "Group Audio Chat"
+msgid "Configure"
+msgstr "Configurar"
+
+#: assets/js/bp-messages-free.js:16 assets/js/bp-messages-premium.js:16
+msgctxt "Calling Features - Toggle Chat Screen"
+msgid "Toggle Chat Screen"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:15 assets/js/bp-messages-premium.js:15
+msgctxt "Reply area placeholder"
+msgid "Write your message"
+msgstr "Escribe tu mensaje"
+
+#: assets/js/bp-messages-free.js:49 assets/js/bp-messages-premium.js:49
+msgctxt "Mobile view"
+msgid "Tap to open messages"
+msgstr "Toca para abrir los mensajes"
+
+#: assets/js/bp-messages-free.js:13 assets/js/bp-messages-premium.js:13
+msgctxt "\"New Conversation\" Button Tooltip"
+msgid "New Conversation"
+msgstr "Nueva Conversación"
+
+#: assets/js/bp-messages-free.js:4 assets/js/bp-messages-premium.js:4
+msgctxt "Group Audio Chat"
+msgid "Join Audio Chat"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:3 assets/js/bp-messages-premium.js:3
+msgctxt "Group Audio Chat"
+msgid "participants are in group audio chat"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:2 assets/js/bp-messages-premium.js:2
+msgctxt "Group Video Chat"
+msgid "Join Video Chat"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:1 assets/js/bp-messages-premium.js:1
+msgctxt "Group Video Chat"
+msgid "participants are in group video chat"
+msgstr ""
+
+#: views/layout-viewer.php:92
+msgctxt "WP Admin"
+msgid "This message contains %s attachment(s):"
+msgstr ""
+
+#: views/layout-settings.php:1479
+msgctxt "Settings page"
+msgid "Set 0 to not delete attachments"
+msgstr ""
+
+#: views/layout-settings.php:1068
+msgctxt "Settings page"
+msgid "If the user already has conversation with the selected recipient, but its deleted, it will be proposed to continue conversation by restoring it"
+msgstr ""
+
+#: views/layout-settings.php:1067
+msgctxt "Settings page"
+msgid "Include when starting new conversation"
+msgstr "Incluir cuando empieza una nueva conversación"
+
+#: views/layout-settings.php:1058
+msgctxt "Settings page"
+msgid "The user will not be proposed to continue deleted conversation"
+msgstr ""
+
+#: views/layout-settings.php:1057
+msgctxt "Settings page"
+msgid "Ignore when starting new conversation"
+msgstr ""
+
+#: views/layout-settings.php:1045
+msgctxt "Settings page"
+msgid "Deleted conversations"
+msgstr "Conversaciones eliminadas"
+
+#: views/layout-settings.php:999
+msgctxt "Settings page"
+msgid "Allow to see who seen the message in group conversations"
+msgstr ""
+
+#: views/layout-settings.php:998
+msgctxt "Settings page"
+msgid "Detailed Messages Status"
+msgstr ""
+
+#: views/layout-settings.php:989
+msgctxt "Settings page"
+msgid "Show messages statuses in conversation list"
+msgstr ""
+
+#: views/layout-settings.php:988
+msgctxt "Settings page"
+msgid "Messages Status in Conversation list"
+msgstr ""
+
+#: views/layout-settings.php:966
+msgctxt "Settings page"
+msgid "Messages status"
+msgstr ""
+
+#: views/layout-settings.php:956
+msgctxt "Settings page"
+msgid "Users will be able to see who reacted to the message"
+msgstr ""
+
+#: views/layout-settings.php:955
+msgctxt "Settings page"
+msgid "Detailed Reactions"
+msgstr ""
+
+#: views/layout-settings.php:932
+msgctxt "Settings page"
+msgid "Messages reactions"
+msgstr ""
+
+#: views/layout-settings.php:666
+msgctxt "Settings page"
+msgid "Seems like this website has active WebSocket License, but you are still using free version of plugin. If you already have WebSocket version installed, then delete free version completely. Try to download and install plugin from <a href=\"%s\">your account</a> page."
+msgstr ""
+
+#: views/layout-settings.php:639
+msgctxt "Settings page"
+msgid "Translate Better Messages"
+msgstr ""
+
+#: views/layout-settings.php:563
+msgctxt "Settings page"
+msgid "More customization options"
+msgstr ""
+
+#: views/layout-settings.php:540
+msgctxt "Settings page"
+msgid "Modern messages layout"
+msgstr ""
+
+#: inc/user-config.php:163
+msgctxt "User settings"
+msgid "When enabled, you will not hear a sound when a new message is received."
+msgstr ""
+
+#: inc/user-config.php:160
+msgctxt "User settings"
+msgid "Disable new message sound notification"
+msgstr ""
+
+#: inc/hooks.php:1567
+msgid "You need to recover this conversation to continue."
+msgstr "Debes restaurar esta conversación para continuar."
+
+#: inc/hooks.php:1566
+msgid "This conversation is deleted."
+msgstr "Esta conversación ha sido eliminada."
+
+#: inc/customize.php:1153
+msgctxt "WP Customizer"
+msgid "Right side"
+msgstr ""
+
+#: inc/customize.php:1152
+msgctxt "WP Customizer"
+msgid "Left side"
+msgstr ""
+
+#: inc/customize.php:1150
+msgctxt "WP Customizer"
+msgid "Choose where do you want to locate mini widgets and mini chats"
+msgstr ""
+
+#: inc/customize.php:1147
+msgctxt "WP Customizer"
+msgid "Mini widgets position"
+msgstr ""
+
+#: inc/customize.php:1124
+msgctxt "WP Customizer"
+msgid "Mini Chats Buttons Roundness"
+msgstr ""
+
+#: inc/customize.php:1100
+msgctxt "WP Customizer"
+msgid "Mini Widgets Window Roundness"
+msgstr ""
+
+#: inc/customize.php:1082
+msgctxt "WP Customizer"
+msgid "Mini Widgets & Mini Chats"
+msgstr ""
+
+#: inc/customize.php:708 inc/customize.php:1069
+msgctxt "WP Customizer"
+msgid "Tooltips: Text Color"
+msgstr ""
+
+#: inc/customize.php:687 inc/customize.php:1048
+msgctxt "WP Customizer"
+msgid "Tooltips: Background Color"
+msgstr ""
+
+#: inc/customize.php:478
+msgctxt "WP Customizer"
+msgid "Date Background"
+msgstr ""
+
+#: inc/customize.php:330
+msgctxt "WP Customizer"
+msgid "At the start of messages stack"
+msgstr ""
+
+#: inc/customize.php:329
+msgctxt "WP Customizer"
+msgid "At every single message"
+msgstr ""
+
+#: inc/customize.php:325
+msgctxt "WP Customizer"
+msgid "Show message sent date"
+msgstr ""
+
+#: inc/customize.php:305
+msgctxt "WP Customizer"
+msgid "Hide everywhere"
+msgstr ""
+
+#: inc/customize.php:304
+msgctxt "WP Customizer"
+msgid "Hide in group conversations"
+msgstr ""
+
+#: inc/customize.php:303
+msgctxt "WP Customizer"
+msgid "Hide in private conversations"
+msgstr ""
+
+#: inc/customize.php:302
+msgctxt "WP Customizer"
+msgid "Show everywhere"
+msgstr ""
+
+#: inc/customize.php:300
+msgctxt "WP Customizer"
+msgid "Hide avatars if you want to allow messages to have more space in messages list"
+msgstr ""
+
+#: inc/customize.php:297
+msgctxt "WP Customizer"
+msgid "Avatars in messages list"
+msgstr ""
+
+#: inc/customize.php:280
+msgctxt "WP Customizer"
+msgid "Nothing"
+msgstr ""
+
+#: inc/customize.php:279
+msgctxt "WP Customizer"
+msgid "Conversation subject"
+msgstr ""
+
+#: inc/customize.php:278
+msgctxt "WP Customizer"
+msgid "Online indicator or last active time (only WebSocket Version)"
+msgstr ""
+
+#: inc/customize.php:276
+msgctxt "WP Customizer"
+msgid "What to show under user name in private conversations?"
+msgstr ""
+
+#: inc/customize.php:273
+msgctxt "WP Customizer"
+msgid "Subtitle in private conversations"
+msgstr ""
+
+#: inc/customize.php:255
+msgctxt "WP Customizer"
+msgid "Show avatars in group conversation header"
+msgstr ""
+
+#: inc/customize.php:204
+msgctxt "WP Customizer"
+msgid "Date Labels Roundness"
+msgstr ""
+
+#: inc/customize.php:183
+msgctxt "WP Customizer"
+msgid "Show Date Labels"
+msgstr ""
+
+#: inc/customize.php:160
+msgctxt "WP Customizer"
+msgid "Avatars Roundness"
+msgstr ""
+
+#: inc/customize.php:108
+msgctxt "WP Customizer"
+msgid "Messages Window Roundness"
+msgstr ""
+
+#: addons/wpforo.php:99
+msgctxt "wpForo Integration"
+msgid "Private Message"
+msgstr "Mensaje Privado"
+
+#: addons/wpforo.php:52
+msgctxt "wpForo Integration"
+msgid "Messages"
+msgstr "Mensajes"
+
+#: addons/wp-user-manager.php:111
+msgctxt "WP User Manager Integration"
+msgid "Show in WP User Manager profile"
+msgstr ""
+
+#: addons/wp-user-manager.php:102
+msgctxt "WP User Manager Integration"
+msgid "Messages"
+msgstr "Mensajes"
+
+#: addons/wp-user-manager.php:76
+msgctxt "WP User Manager Integration"
+msgid "Private Message"
+msgstr "Mensaje Privado"
+
+#: addons/userswp.php:102
+msgctxt "UsersWP Integration"
+msgid "Messages"
+msgstr "Mensajes"
+
+#: addons/userswp.php:85
+msgctxt "UsersWP Integration"
+msgid "Private Message"
+msgstr "Mensaje Privado"
+
+#: addons/userswp.php:58
+msgctxt "UsersWP Integration"
+msgid "Show in UsersWP profile"
+msgstr ""
+
+#: addons/profile-grid.php:112
+msgctxt "ProfileGrid Integration"
+msgid "Message"
+msgstr "Mensaje"
+
+#: addons/profile-grid.php:106 addons/profile-grid.php:121
+msgctxt "ProfileGrid Integration"
+msgid "Messages"
+msgstr "Mensajes"
+
+#: addons/profile-grid.php:84
+msgctxt "ProfileGrid Integration"
+msgid "Show in ProfileGrid profile"
+msgstr ""
+
+#: addons/peepso.php:447
+msgctxt "PeepSo Integration"
+msgid "View All"
+msgstr "Ver Todos"
+
+#: addons/peepso.php:441
+msgctxt "PeepSo Integration"
+msgid "New message"
+msgstr "Nuevo mensaje"
+
+#: addons/peepso.php:411 addons/peepso.php:439
+msgctxt "PeepSo Integration"
+msgid "Messages"
+msgstr "Mensajes"
+
+#. Description of the plugin
+msgid "Realtime private messaging system for WordPress"
+msgstr ""
+
+#: views/layout-viewer.php:116
+msgctxt "WP Admin"
+msgid "View conversation"
+msgstr "Ver conversación"
+
+#: views/layout-viewer.php:109
+msgctxt "WP Admin"
+msgid "Participants Count:"
+msgstr "Numero de participantes:"
+
+#: views/layout-viewer.php:64
+msgctxt "WP Admin"
+msgid "Time Sent"
+msgstr ""
+
+#: views/layout-viewer.php:62
+msgctxt "WP Admin"
+msgid "Message"
+msgstr "Mensaje"
+
+#: views/layout-viewer.php:61
+msgctxt "WP Admin"
+msgid "Sender"
+msgstr "Remitente"
+
+#: views/layout-system.php:11
+msgctxt "WP Admin"
+msgid "Database Tools"
+msgstr "Herramientas de la base de datos"
+
+#: views/layout-system.php:8
+msgctxt "WP Admin"
+msgid "System"
+msgstr "Sistema"
+
+#: views/layout-settings.php:3846
+msgctxt "Settings page"
+msgid "This shortcode will try to find user_id from environment, for example author of post and display Mini Chat button."
+msgstr ""
+
+#: views/layout-settings.php:3888
+msgctxt "Settings page"
+msgid "This shortcode will try to find user_id from environment, for example author of post and display Audio Call button."
+msgstr ""
+
+#: views/layout-settings.php:3867
+msgctxt "Settings page"
+msgid "This shortcode will try to find user_id from environment, for example author of post and display Video Call button."
+msgstr ""
+
+#: views/layout-settings.php:3819
+msgctxt "Settings page"
+msgid "This shortcode will try to find user_id from environment, for example author of post and display Private Message button."
+msgstr "Este shortcode intentará encontrar user_id en el entorno, por ejemplo, el autor de la publicación y mostrar el botón de mensaje privado."
+
+#: views/layout-settings.php:3788
+msgctxt "Settings page"
+msgid "To add this shortcode to your menu item you can use <a href=\"https://wordpress.org/plugins/shortcode-in-menus/\" target=\"_blank\">Shortcode in Menus</a> plugin."
+msgstr "Para añadir este shortcode a tus elementos del menú puedes usar el plugin <a href=\"https://es.wordpress.org/plugins/shortcode-in-menus/\" target=\"_blank\">Shortcode in Menus</a>."
+
+#: views/layout-settings.php:3592
+msgctxt "Settings page"
+msgid "Show link in bbPress author details"
+msgstr ""
+
+#: views/layout-settings.php:3584
+msgctxt "Settings page"
+msgid "This notice will be hidden when bbPress plugin is installed"
+msgstr ""
+
+#: views/layout-settings.php:3569
+msgctxt "Settings page"
+msgid "Message when user can`t send start new conversation"
+msgstr ""
+
+#: views/layout-settings.php:3534
+msgctxt "Settings page"
+msgid "The charge will be applied additionally to the message price"
+msgstr ""
+
+#: views/layout-settings.php:3533
+msgctxt "Settings page"
+msgid "Price for new starting new conversation"
+msgstr ""
+
+#: views/layout-settings.php:3525 views/layout-settings.php:3570
+msgctxt "Settings page"
+msgid "HTML Allowed"
+msgstr ""
+
+#: views/layout-settings.php:3524
+msgctxt "Settings page"
+msgid "Message when user can`t send new reply"
+msgstr ""
+
+#: views/layout-settings.php:3498 views/layout-settings.php:3543
+msgctxt "Settings page"
+msgid "Price"
+msgstr ""
+
+#: views/layout-settings.php:1880 views/layout-settings.php:3497
+#: views/layout-settings.php:3542
+msgctxt "Settings page"
+msgid "Role"
+msgstr ""
+
+#: views/layout-settings.php:3490 views/layout-settings.php:3535
+msgctxt "Settings page"
+msgid "Use 0 if this is free"
+msgstr ""
+
+#: views/layout-settings.php:3489
+msgctxt "Settings page"
+msgid "Price for new message in the conversation"
+msgstr ""
+
+#: views/layout-settings.php:3432
+msgctxt "Settings page"
+msgid "Change messages tab URL slug in BuddyPress group"
+msgstr ""
+
+#: views/layout-settings.php:3431
+msgctxt "Settings page"
+msgid "URL Slug"
+msgstr ""
+
+#: views/layout-settings.php:3415
+msgctxt "Settings page"
+msgid "Email Notifications"
+msgstr ""
+
+#: views/layout-settings.php:3389
+msgctxt "Settings page"
+msgid "Enables mini groups widget fixed to the bottom of browser window"
+msgstr "Permite que el widget de la lista de amigos se fije al final de la ventana del navegador"
+
+#: views/layout-settings.php:3380
+msgctxt "Settings page"
+msgid "Enable file uploading in BuddyPress Groups Messages"
+msgstr ""
+
+#: views/layout-settings.php:3379
+msgctxt "Settings page"
+msgid "Enable File Uploading"
+msgstr ""
+
+#: views/layout-settings.php:3370
+msgctxt "Settings page"
+msgid "Enable messages for BuddyPress groups"
+msgstr ""
+
+#: views/layout-settings.php:1650 views/layout-settings.php:3357
+msgctxt "Settings page"
+msgid "BuddyPress Groups"
+msgstr ""
+
+#: views/layout-settings.php:1646 views/layout-settings.php:3305
+msgctxt "Settings page"
+msgid "BuddyPress Friends"
+msgstr ""
+
+#: views/layout-settings.php:3292
+msgctxt "Settings page"
+msgid "Change messages tab URL slug in BuddyPress profile (\"messages\" slug is not allowed)"
+msgstr ""
+
+#: views/layout-settings.php:3285
+msgctxt "Settings page"
+msgid "You can enable this to show private message button at your members list if its missing"
+msgstr ""
+
+#: views/layout-settings.php:3284
+msgctxt "Settings page"
+msgid "Some themes does not shows private message button automatically."
+msgstr ""
+
+#: views/layout-settings.php:3241
+msgctxt "Settings page"
+msgid "BuddyPress Integration"
+msgstr ""
+
+#: views/layout-settings.php:3234
+msgctxt "Settings page"
+msgid "This notice will be hidden when BuddyPress plugin is installed"
+msgstr ""
+
+#: views/layout-settings.php:3219
+msgctxt "Settings page"
+msgid "Two letter language code for showing stickers which best fits this language"
+msgstr "Código de dos letras para mostrar los dibujos que mejor se ajusten a este lenguaje"
+
+#: views/layout-settings.php:3170
+msgctxt "Settings page"
+msgid "GIPHY Content Rating <a href=\"%s\" target=\"_blank\">Learn more</a>"
+msgstr "Clasificación de contenido de GIPHY <a href=\"%s\" target=\"_blank\">Más información</a>"
+
+#: views/layout-settings.php:3131
+msgctxt "Settings page"
+msgid "Allow only send message if user following the user or followed by the user"
+msgstr ""
+
+#: views/layout-settings.php:3130
+msgctxt "Settings page"
+msgid "Only Followers Mode"
+msgstr ""
+
+#: views/layout-settings.php:3078
+msgctxt "Settings page"
+msgid "When enabled users will receive email notifications for Group Messages"
+msgstr ""
+
+#: views/layout-settings.php:3068
+msgctxt "Settings page"
+msgid "Enable file uploading in Ultimate Member Groups messages"
+msgstr ""
+
+#: views/layout-settings.php:3056
+msgctxt "Settings page"
+msgid "Enable messages for Ultimate Member Groups"
+msgstr ""
+
+#: views/layout-settings.php:2981
+msgctxt "Settings page"
+msgid "You can enable this to show private message button at your members list"
+msgstr ""
+
+#: views/layout-settings.php:2980 views/layout-settings.php:3283
+msgctxt "Settings page"
+msgid "Show Private Message Link at Members List"
+msgstr ""
+
+#: views/layout-settings.php:2972
+msgctxt "Settings page"
+msgid "Show Private Message button in user profiles"
+msgstr ""
+
+#: views/layout-settings.php:2971
+msgctxt "Settings page"
+msgid "User Profile - Private Message Button"
+msgstr ""
+
+#: views/layout-settings.php:2949
+msgctxt "Settings page"
+msgid "Ultimate Member Integration"
+msgstr ""
+
+#: views/layout-settings.php:2942
+msgctxt "Settings page"
+msgid "This notice will be hidden when Ultimate Member plugin is installed"
+msgstr ""
+
+#: views/layout-settings.php:2840
+msgctxt "Settings page"
+msgid "Click on emoji to enable or disable it, drag it to change it position in emoji selector"
+msgstr ""
+
+#: views/layout-settings.php:2837
+msgctxt "Settings page"
+msgid "Emojis for Selector"
+msgstr ""
+
+#: views/layout-settings.php:2768
+msgctxt "Settings page"
+msgid "Select Emoji for new reaction"
+msgstr ""
+
+#: views/layout-settings.php:2760
+msgctxt "Settings page"
+msgid "Add new reaction"
+msgstr ""
+
+#: views/layout-settings.php:2734
+msgctxt "Settings page"
+msgid "Emojis for Reactions"
+msgstr ""
+
+#: views/layout-settings.php:2691
+msgctxt "Settings page"
+msgid "Emojis Set"
+msgstr ""
+
+#: views/layout-settings.php:2628 views/layout-settings.php:3119
+#: views/layout-settings.php:3407
+msgctxt "Settings page"
+msgid "Shows Groups as tab at bottom of Mobile View"
+msgstr ""
+
+#: views/layout-settings.php:2619 views/layout-settings.php:3110
+#: views/layout-settings.php:3398
+msgctxt "Settings page"
+msgid "Shows Groups in left column of Combined view"
+msgstr ""
+
+#: views/layout-settings.php:2610 views/layout-settings.php:3101
+msgctxt "Settings page"
+msgid "Enables mini groups list widget fixed to the bottom of browser window"
+msgstr ""
+
+#: views/layout-settings.php:2588 views/layout-settings.php:3416
+msgctxt "Settings page"
+msgid "When enabled users will receive email notifications for Group Chats"
+msgstr ""
+
+#: views/layout-settings.php:2587 views/layout-settings.php:3077
+msgctxt "Settings page"
+msgid "Enable Email Notifications"
+msgstr "Activar Notificaciones por Correo"
+
+#: views/layout-settings.php:2579
+msgctxt "Settings page"
+msgid "Enable file uploading PeepSo group messages"
+msgstr ""
+
+#: views/layout-settings.php:2578 views/layout-settings.php:3067
+msgctxt "Settings page"
+msgid "Enable file uploading"
+msgstr "Activar subir archivos"
+
+#: views/layout-settings.php:2569
+msgctxt "Settings page"
+msgid "Enable messages for PeepSo groups"
+msgstr ""
+
+#: views/layout-settings.php:2568 views/layout-settings.php:3055
+#: views/layout-settings.php:3369
+msgctxt "Settings page"
+msgid "Enable Messages"
+msgstr "Activar Mensajes"
+
+#: views/layout-settings.php:2546 views/layout-settings.php:3034
+#: views/layout-settings.php:3346
+msgctxt "Settings page"
+msgid "Shows Friends as tab at bottom of Mobile View"
+msgstr ""
+
+#: views/layout-settings.php:2545 views/layout-settings.php:2627
+#: views/layout-settings.php:3033 views/layout-settings.php:3118
+#: views/layout-settings.php:3345 views/layout-settings.php:3406
+msgctxt "Settings page"
+msgid "Mobile View"
+msgstr ""
+
+#: views/layout-settings.php:2537 views/layout-settings.php:3025
+#: views/layout-settings.php:3337
+msgctxt "Settings page"
+msgid "Shows Friends in left column of Combined view"
+msgstr ""
+
+#: views/layout-settings.php:590 views/layout-settings.php:2536
+#: views/layout-settings.php:2618 views/layout-settings.php:3024
+#: views/layout-settings.php:3109 views/layout-settings.php:3336
+#: views/layout-settings.php:3397
+msgctxt "Settings page"
+msgid "Combined View"
+msgstr ""
+
+#: views/layout-settings.php:2528 views/layout-settings.php:3016
+#: views/layout-settings.php:3328
+msgctxt "Settings page"
+msgid "Enables mini friends list widget fixed to the bottom of browser window"
+msgstr "Permite que el widget de la lista de amigos se fije al final de la ventana del navegador"
+
+#: views/layout-settings.php:2526 views/layout-settings.php:2608
+#: views/layout-settings.php:3014 views/layout-settings.php:3099
+#: views/layout-settings.php:3326 views/layout-settings.php:3388
+msgctxt "Settings page"
+msgid "Mini Widget"
+msgstr ""
+
+#: views/layout-settings.php:2518 views/layout-settings.php:2570
+#: views/layout-settings.php:3006 views/layout-settings.php:3057
+#: views/layout-settings.php:3132
+msgctxt "Settings page"
+msgid "%s must be installed"
+msgstr ""
+
+#: views/layout-settings.php:2517 views/layout-settings.php:3005
+#: views/layout-settings.php:3318
+msgctxt "Settings page"
+msgid "This will also remove not friends users from search results."
+msgstr ""
+
+#: views/layout-settings.php:2516 views/layout-settings.php:3004
+#: views/layout-settings.php:3317
+msgctxt "Settings page"
+msgid "Allow only friends to send messages each other"
+msgstr ""
+
+#: views/layout-settings.php:2515 views/layout-settings.php:3003
+#: views/layout-settings.php:3316
+msgctxt "Settings page"
+msgid "Only Friends Mode"
+msgstr ""
+
+#: views/layout-settings.php:2493 views/layout-settings.php:3265
+msgctxt "Settings page"
+msgid "Add audio call button to user profile"
+msgstr ""
+
+#: views/layout-settings.php:2492 views/layout-settings.php:3264
+msgctxt "Settings page"
+msgid "Audio Call button in user profile"
+msgstr ""
+
+#: views/layout-settings.php:2483 views/layout-settings.php:3275
+msgctxt "Settings page"
+msgid "Add video call button to user profile"
+msgstr ""
+
+#: views/layout-settings.php:2482 views/layout-settings.php:3274
+msgctxt "Settings page"
+msgid "Video Call button in user profile"
+msgstr ""
+
+#: views/layout-settings.php:2472 views/layout-settings.php:2963
+#: views/layout-settings.php:3255
+msgctxt "Settings page"
+msgid "Mini Chats must be enabled. Ensure they are enabled <a href=\"%s\">here</a>"
+msgstr ""
+
+#: views/layout-settings.php:2471 views/layout-settings.php:2962
+#: views/layout-settings.php:3254
+msgctxt "Settings page"
+msgid "Open mini chat instead of redirecting to standalone messages page, when clicking private messages button in members directory or member profile"
+msgstr ""
+
+#: views/layout-settings.php:2470 views/layout-settings.php:2961
+#: views/layout-settings.php:3253
+msgctxt "Settings page"
+msgid "Advanced Mini Chats"
+msgstr ""
+
+#: views/layout-settings.php:2460
+msgctxt "Settings page"
+msgid "Enable PeepSo Header at Messages Page"
+msgstr ""
+
+#: views/layout-settings.php:2448
+msgctxt "Settings page"
+msgid "PeepSo Integration"
+msgstr ""
+
+#: views/layout-settings.php:2440
+msgctxt "Settings page"
+msgid "This notice will be hidden when PeepSo plugin is installed"
+msgstr ""
+
+#: views/layout-settings.php:2439 views/layout-settings.php:2941
+#: views/layout-settings.php:3233 views/layout-settings.php:3481
+#: views/layout-settings.php:3583
+msgctxt "Settings page"
+msgid "Website must to have %s plugin to be installed."
+msgstr ""
+
+#: views/layout-settings.php:2433
+msgctxt "Settings page"
+msgid "Emojis"
+msgstr ""
+
+#: views/layout-settings.php:2431
+msgctxt "Settings page"
+msgid "GIFs & Stickers"
+msgstr ""
+
+#: views/layout-settings.php:2406
+msgctxt "Settings page"
+msgid "Disables new conversation button and screen (admin will always see it)"
+msgstr "Desactivar el botón de nuevas conversaciones y la pantalla (el administrador siempre las verá)"
+
+#: views/layout-settings.php:2350
+msgctxt "Settings page"
+msgid "Side conversation list width when Combined View is enabled in pixels"
+msgstr ""
+
+#: views/layout-settings.php:2340
+msgctxt "Settings page"
+msgid "Set 9999 to use all available window height"
+msgstr ""
+
+#: views/layout-settings.php:2339
+msgctxt "Settings page"
+msgid "Max Height of Messages Container in pixels"
+msgstr ""
+
+#: views/layout-settings.php:2338
+msgctxt "Settings page"
+msgid "Max Height of Messages Container"
+msgstr ""
+
+#: views/layout-settings.php:2329
+msgctxt "Settings page"
+msgid "Min Height of Messages Container in pixels"
+msgstr ""
+
+#: views/layout-settings.php:2328
+msgctxt "Settings page"
+msgid "Min Height of Messages Container"
+msgstr ""
+
+#: views/layout-settings.php:2319
+msgctxt "Settings page"
+msgid "This needed for correct scrolling in some cases"
+msgstr ""
+
+#: views/layout-settings.php:2318
+msgctxt "Settings page"
+msgid "If your website has fixed header specify its height in pixels."
+msgstr ""
+
+#: views/layout-settings.php:2317
+msgctxt "Settings page"
+msgid "Fixed Header Height"
+msgstr ""
+
+#: views/layout-settings.php:2308
+msgctxt "Settings page"
+msgid "Messenger Height"
+msgstr ""
+
+#: views/layout-settings.php:2297
+msgctxt "Settings page"
+msgid "Colors"
+msgstr ""
+
+#: views/layout-settings.php:2281
+msgctxt "Settings page"
+msgid "Allow users to start group audio chats in chat rooms"
+msgstr ""
+
+#: views/layout-settings.php:2280
+msgctxt "Settings page"
+msgid "Enable Audio Chat for Chat Rooms"
+msgstr ""
+
+#: views/layout-settings.php:2270
+msgctxt "Settings page"
+msgid "Allow users to start group audio chats in conversations with many participants"
+msgstr ""
+
+#: views/layout-settings.php:2260
+msgctxt "Settings page"
+msgid "Allow users to start group audio chats in Group Chats"
+msgstr ""
+
+#: views/layout-settings.php:2259
+msgctxt "Settings page"
+msgid "Enable Audio Chat for Groups"
+msgstr ""
+
+#: views/layout-settings.php:2252
+msgctxt "Settings page"
+msgid "Group audio chat allowing your user to start high definition voice only group chat up to 50 people per 1 conversation."
+msgstr ""
+
+#: views/layout-settings.php:2251
+msgctxt "Settings page"
+msgid "Group Audio Chat"
+msgstr ""
+
+#: views/layout-settings.php:2241
+msgctxt "Settings page"
+msgid "Allow users to start group video chats in chat rooms"
+msgstr ""
+
+#: views/layout-settings.php:2240
+msgctxt "Settings page"
+msgid "Enable Video Chat for Chat Rooms"
+msgstr ""
+
+#: views/layout-settings.php:2230
+msgctxt "Settings page"
+msgid "Allow users to start group video chats in conversations with many participants"
+msgstr ""
+
+#: views/layout-settings.php:2220
+msgctxt "Settings page"
+msgid "Allow users to start group video chats in Group Chats"
+msgstr ""
+
+#: views/layout-settings.php:2219
+msgctxt "Settings page"
+msgid "Enable Video Chat for Groups"
+msgstr ""
+
+#: views/layout-settings.php:2213
+msgctxt "Settings page"
+msgid "Group audio chat allows to start high definition video & voice group chat up to 16 people per 1 conversation."
+msgstr ""
+
+#: views/layout-settings.php:2212
+msgctxt "Settings page"
+msgid "Group Video Chat"
+msgstr ""
+
+#: views/layout-settings.php:2166
+msgctxt "Settings page"
+msgid "Selected roles will not be allowed to call, but they will be able to receive calls still"
+msgstr ""
+
+#: views/layout-settings.php:2165
+msgctxt "Settings page"
+msgid "Restrict calls"
+msgstr ""
+
+#: views/layout-settings.php:2155
+msgctxt "Settings page"
+msgid "Allow call even when user is offline"
+msgstr ""
+
+#: views/layout-settings.php:2146
+msgctxt "Settings page"
+msgid "Leaving message about missed call for user if user was offline at that moment."
+msgstr "Dejar mensaje sobre llamada perdida para el usuario si el usuario no estaba conectado en ese momento."
+
+#: views/layout-settings.php:2110
+msgctxt "Settings page"
+msgid "Allow only friends to make calls between each other (admins always can call)"
+msgstr "Permite que solo los amigos hagan llamadas entre ellos (el administrador siempre puede llamar)"
+
+#: views/layout-settings.php:2109
+msgctxt "Settings page"
+msgid "Limit calls only to the friends"
+msgstr ""
+
+#: views/layout-settings.php:2099
+msgctxt "Settings page"
+msgid "Audio calls are possible only with websocket version, its using most secure and modern WebRTC technology to empower audio calls."
+msgstr "Las llamadas de voz son posibles solo con la versión websocket, este usa la tecnología WebRTC más segura y moderna para ejecutar las llamadas de voz."
+
+#: views/layout-settings.php:2088
+msgctxt "Settings page"
+msgid "Video calls are possible only with websocket version, its using most secure and modern WebRTC technology to empower video chats."
+msgstr "Las Video llamadas son posibles solo con la versión websocket, este usa la tecnología WebRTC más segura y moderna para ejecutar los video chats."
+
+#: views/layout-settings.php:2077
+msgctxt "Settings page"
+msgid "This is security requirements by browsers. Contact your hosting company to enable SSL certificate at your website."
+msgstr "Esto es un requerimiento de seguridad de ls navegadores. Contacta a tu compañía de hosting para habilitar el certificado SSL en tu sitio web."
+
+#: views/layout-settings.php:2076
+msgctxt "Settings page"
+msgid "Website must to have SSL certificate in order to audio and video calls work."
+msgstr ""
+
+#: views/layout-settings.php:1978
+msgctxt "Settings page"
+msgid "Selected roles will see message configured below instead of real message"
+msgstr ""
+
+#: views/layout-settings.php:1755
+msgctxt "Settings page"
+msgid "Disable users from being able to write each other based on user role"
+msgstr ""
+
+#: views/layout-settings.php:1745
+msgctxt "Settings page"
+msgid "Disable users from being able to delete conversation (admin always can delete)"
+msgstr "Prohibir que los usuarios puedan borrar las conversaciones (los administradores siempre pueden borrarlos)"
+
+#: views/layout-settings.php:1719
+msgctxt "Settings page"
+msgid "Roles which can't be blocked by other users"
+msgstr ""
+
+#: views/layout-settings.php:1711
+msgctxt "Settings page"
+msgid "Roles which can't block other users"
+msgstr "Roles que no pueden bloquear a otros usuarios"
+
+#: views/layout-settings.php:1699
+msgctxt "Settings page"
+msgid "Selected roles will not be able to block other users if previous option is enabled"
+msgstr "Los roles seleccionados no podrán bloquear a otros usuarios si la opción previa está activada"
+
+#: views/layout-settings.php:1698
+msgctxt "Settings page"
+msgid "Restrict user role from blocking other users"
+msgstr ""
+
+#: views/layout-settings.php:1689
+msgctxt "Settings page"
+msgid "Allow users to block other users from sending them messages (admins cant be blocked)"
+msgstr "Permitir a los usuarios bloquear a otros usuarios para enviarles mensajes (los administradores no pueden ser bloqueados)"
+
+#: views/layout-settings.php:1688
+msgctxt "Settings page"
+msgid "Allow users to block other users"
+msgstr "Permitir a los usuarios bloquear a otros usuarios"
+
+#: views/layout-settings.php:1679
+msgctxt "Settings page"
+msgid "Allow users to select who start conversations with them in plugin user settings"
+msgstr ""
+
+#: addons/buddyboss.php:78
+msgctxt "Settings page"
+msgid "The BuddyBoss OneSignal integration is active and will be used, this option do not need to be enabled"
+msgstr ""
+
+#: views/layout-settings.php:1587
+msgctxt "Settings page"
+msgid "Supported in all major browsers like: Chrome, Opera, Firefox, IE, Edge and others"
+msgstr "Soportado en la mayoría de los navegadores como: Chrome, Opera, Firefox, IE, Edge y otros"
+
+#: views/layout-settings.php:1586
+msgctxt "Settings page"
+msgid "Also adds notifications, when user has website opened in other tab"
+msgstr ""
+
+#: views/layout-settings.php:1585
+msgctxt "Settings page"
+msgid "Allow users to enable web push notifications, so they can receive messages even with closed website"
+msgstr ""
+
+#: views/layout-settings.php:1575
+msgctxt "Settings page"
+msgid "Stop messages notifications to be added to BuddyPress Notifications Bell"
+msgstr "Detiene las notificaciones de mensajes para que se agreguen a la Campana de Notificaciones BuddyPress"
+
+#: views/layout-settings.php:1566
+msgctxt "Settings page"
+msgid "Send email after user is not online for (minutes)"
+msgstr ""
+
+#: views/layout-settings.php:1661
+msgctxt "Settings page"
+msgid "You need to disable it only if you modified email template and plugin try to replace it"
+msgstr ""
+
+#: views/layout-settings.php:1659
+msgctxt "Settings page"
+msgid "Auto create BuddyPress Email template if its missing"
+msgstr ""
+
+#: views/layout-settings.php:1547
+msgctxt "Settings page"
+msgid "When enabled users will be able to mute conversations"
+msgstr ""
+
+#: views/layout-settings.php:1538
+msgctxt "Settings page"
+msgid "Show unread conversations number in website title (browser tab)"
+msgstr ""
+
+#: views/layout-settings.php:2598 views/layout-settings.php:3089
+#: views/layout-settings.php:3425
+msgctxt "Settings page"
+msgid "Push Notifications"
+msgstr ""
+
+#: views/layout-settings.php:1504 views/layout-settings.php:1509
+msgctxt "Settings page"
+msgid "Allowed formats"
+msgstr ""
+
+#: views/layout-settings.php:1496
+msgctxt "Settings page"
+msgid "Set 0 to not limit"
+msgstr ""
+
+#: views/layout-settings.php:1495
+msgctxt "Settings page"
+msgid "Max number of attachments per message"
+msgstr ""
+
+#: views/layout-settings.php:1487
+msgctxt "Settings page"
+msgid "Max attachment size"
+msgstr ""
+
+#: views/layout-settings.php:1478
+msgctxt "Settings page"
+msgid "Delete attachment after"
+msgstr ""
+
+#: views/layout-settings.php:1470
+msgctxt "Settings page"
+msgid ".jpg or .png format must be enabled"
+msgstr ""
+
+#: views/layout-settings.php:1469
+msgctxt "Settings page"
+msgid "Allow to capture photos from user webcam"
+msgstr ""
+
+#: views/layout-settings.php:1468
+msgctxt "Settings page"
+msgid "Allow to capture photos"
+msgstr ""
+
+#: views/layout-settings.php:1460
+msgctxt "Settings page"
+msgid "Changes file names to random to improve users privacy"
+msgstr ""
+
+#: views/layout-settings.php:1459
+msgctxt "Settings page"
+msgid "Random file names"
+msgstr ""
+
+#: views/layout-settings.php:1451
+msgctxt "Settings page"
+msgid "Hides attachments from media gallery"
+msgstr ""
+
+#: views/layout-settings.php:1450
+msgctxt "Settings page"
+msgid "Hide Attachments"
+msgstr ""
+
+#: views/layout-settings.php:1442
+msgctxt "Settings page"
+msgid "Enable file sharing between users"
+msgstr ""
+
+#: views/layout-settings.php:1441
+msgctxt "Settings page"
+msgid "Enable files"
+msgstr ""
+
+#: views/layout-settings.php:1421
+msgctxt "Settings page"
+msgid "If in mobile view something overlaying the messages enable this option"
+msgstr ""
+
+#: views/layout-settings.php:1420
+msgctxt "Settings page"
+msgid "Hide Possible Overlaying Elements"
+msgstr ""
+
+#: views/layout-settings.php:1323 views/layout-settings.php:1359
+msgctxt "Settings page"
+msgid "Position"
+msgstr ""
+
+#: views/layout-settings.php:1318
+msgctxt "Settings page"
+msgid "Adds button fixed to the right corner on mobile devices, on click fully featured messaging will appear in full screen mode"
+msgstr "Agrega un botón fijado en la esquina derecha en los dispositivos móviles, en al hacer click un mensaje con funciones completas aparecerá en modo de pantalla completa"
+
+#: views/layout-settings.php:1317
+msgctxt "Settings page"
+msgid "Enable Mobile Chat at Any Page"
+msgstr ""
+
+#: views/layout-settings.php:1120 views/layout-settings.php:1316
+msgctxt "Settings page"
+msgid "Enable"
+msgstr ""
+
+#: views/layout-settings.php:1304
+msgctxt "Settings page"
+msgid "Mobile Chat at Any Page"
+msgstr ""
+
+#: views/layout-settings.php:1282
+msgctxt "Settings page"
+msgid "Auto open full screen mode when opening messages page"
+msgstr ""
+
+#: views/layout-settings.php:1281
+msgctxt "Settings page"
+msgid "Auto open Full Screen Mode"
+msgstr ""
+
+#: views/layout-settings.php:1273 views/layout-settings.php:1283
+msgctxt "Settings page"
+msgid "Recommended"
+msgstr ""
+
+#: views/layout-settings.php:1272
+msgctxt "Settings page"
+msgid "Enable full screen mode for Mobile Devices"
+msgstr ""
+
+#: views/layout-settings.php:1271
+msgctxt "Settings page"
+msgid "Enable Full Screen Mode"
+msgstr ""
+
+#: views/layout-settings.php:1246
+msgctxt "Settings page"
+msgid "Mobile Mode"
+msgstr ""
+
+#: views/layout-settings.php:1180
+msgctxt "Settings page"
+msgid "Adds additional close button when widgets are opened"
+msgstr ""
+
+#: views/layout-settings.php:1179
+msgctxt "Settings page"
+msgid "Add close button"
+msgstr ""
+
+#: views/layout-settings.php:1171
+msgctxt "Settings page"
+msgid "Enables mini chats fixed to the bottom of browser window"
+msgstr ""
+
+#: views/layout-settings.php:1170 views/layout-settings.php:1192
+msgctxt "Settings page"
+msgid "Mini Chats"
+msgstr ""
+
+#: views/layout-settings.php:1161
+msgctxt "Settings page"
+msgid "Enables mini conversation list widget fixed to the bottom of browser window"
+msgstr ""
+
+#: views/layout-settings.php:1160
+msgctxt "Settings page"
+msgid "Mini Conversations"
+msgstr ""
+
+#: views/layout-settings.php:1139
+msgctxt "Settings page"
+msgid "Widgets"
+msgstr ""
+
+#: views/layout-settings.php:1091
+msgctxt "Settings page"
+msgid "Disable Send on Enter for Desktop devices"
+msgstr ""
+
+#: views/layout-settings.php:1079
+msgctxt "Settings page"
+msgid "Miscellaneous"
+msgstr ""
+
+#: views/layout-settings.php:1034
+msgctxt "Settings page"
+msgid "Allow users to leave conversations with multiple participants (creator can`t leave conversation he started)"
+msgstr ""
+
+#: views/layout-settings.php:1033
+msgctxt "Settings page"
+msgid "Allow users to leave conversations with multiple participants"
+msgstr ""
+
+#: views/layout-settings.php:1025
+msgctxt "Settings page"
+msgid "(admins can add more participants even if this option is disabled)"
+msgstr ""
+
+#: views/layout-settings.php:1024
+msgctxt "Settings page"
+msgid "Allow users to invite more participants to private conversations converting them to group conversation"
+msgstr ""
+
+#: views/layout-settings.php:1023
+msgctxt "Settings page"
+msgid "Allow invite more participants to private conversations"
+msgstr ""
+
+#: views/layout-settings.php:1011
+msgctxt "Settings page"
+msgid "Multiple participants functions"
+msgstr ""
+
+#: views/layout-settings.php:921
+msgctxt "Settings page"
+msgid "Nice links finds link in user messages, fetching title and description if available and shows it at the bottom of message"
+msgstr "Nice Links encuentra enlaces en los mensajes del usuario, obtienen el título y la descripción si están disponibles y los muestra en la parte inferior del mensaje"
+
+#: views/layout-settings.php:912
+msgctxt "Settings page"
+msgid "oEmbed YouTube, Vimeo, VideoPress, Flickr, DailyMotion, Kickstarter, Meetup.com, Mixcloud, SoundCloud and more"
+msgstr "oEmbed YouTube, Vimeo, VideoPress, Flickr, DailyMotion, Kickstarter, Meetup.com, Mixcloud, SoundCloud y más"
+
+#: views/layout-settings.php:979
+msgctxt "Settings page"
+msgid "Enable messages status functionality, which show if your message was sent, delivered or seen"
+msgstr ""
+
+#: views/layout-settings.php:978
+msgctxt "Settings page"
+msgid "Messages Status"
+msgstr ""
+
+#: views/layout-settings.php:903
+msgctxt "Settings page"
+msgid "Allow users to delete their messages only"
+msgstr ""
+
+#: views/layout-settings.php:902
+msgctxt "Settings page"
+msgid "Allow users to delete messages"
+msgstr ""
+
+#: views/layout-settings.php:894
+msgctxt "Settings page"
+msgid "Allow users to edit their messages only"
+msgstr ""
+
+#: views/layout-settings.php:893
+msgctxt "Settings page"
+msgid "Allow users to edit messages"
+msgstr ""
+
+#: views/layout-settings.php:947
+msgctxt "Settings page"
+msgid "You can select reactions in Integrations -> Emojis Tab"
+msgstr ""
+
+#: views/layout-settings.php:946
+msgctxt "Settings page"
+msgid "Users will be able to react messages with emojis"
+msgstr ""
+
+#: views/layout-settings.php:945
+msgctxt "Settings page"
+msgid "Enable Reactions"
+msgstr ""
+
+#: views/layout-settings.php:884
+msgctxt "Settings page"
+msgid "Users will be able to select messages to reply"
+msgstr ""
+
+#: views/layout-settings.php:883
+msgctxt "Settings page"
+msgid "Enable Replies"
+msgstr ""
+
+#: views/layout-settings.php:871
+msgctxt "Settings page"
+msgid "Messages functions"
+msgstr ""
+
+#: views/layout-settings.php:838
+msgctxt "Settings page"
+msgid "Friends are listed first, after that listed lastly active users"
+msgstr ""
+
+#: views/layout-settings.php:837
+msgctxt "Settings page"
+msgid "Enable users suggestions on new conversations screen for the fast selection of users"
+msgstr ""
+
+#: views/layout-settings.php:836
+msgctxt "Settings page"
+msgid "Users suggestions"
+msgstr ""
+
+#: views/layout-settings.php:827
+msgctxt "Settings page"
+msgid "Otherwise search works only within friends. (Admins can search all users even if this option is disabled)."
+msgstr ""
+
+#: views/layout-settings.php:826
+msgctxt "Settings page"
+msgid "Enable search among all users when starting new conversation"
+msgstr ""
+
+#: views/layout-settings.php:803
+msgctxt "Settings page"
+msgid "Settings related to searching users while starting the conversation"
+msgstr ""
+
+#: views/layout-settings.php:802
+msgctxt "Settings page"
+msgid "Searching users"
+msgstr "Buscando usuarios"
+
+#: views/layout-settings.php:791
+msgctxt "Settings page"
+msgid "This will also disable subjects for already started conversations"
+msgstr "Esto también desactivará los asuntos de conversaciones ya iniciadas"
+
+#: views/layout-settings.php:790
+msgctxt "Settings page"
+msgid "Disable subject when starting new conversation"
+msgstr "Desactivar asunto al iniciar una nueva conversación"
+
+#: views/layout-settings.php:789
+msgctxt "Settings page"
+msgid "Disable subject"
+msgstr "Desactivar asunto"
+
+#: views/layout-settings.php:780
+msgctxt "Settings page"
+msgid "Don`t allow to create conversations with multiple participants"
+msgstr ""
+
+#: views/layout-settings.php:779
+msgctxt "Settings page"
+msgid "Disable Conversations with multiple participants"
+msgstr ""
+
+#: views/layout-settings.php:770
+msgctxt "Settings page"
+msgid "This will not allow members to create new private conversation if member already have conversation with recipient"
+msgstr ""
+
+#: views/layout-settings.php:769
+msgctxt "Settings page"
+msgid "Prevent creating multiple conversations with same member"
+msgstr ""
+
+#: views/layout-settings.php:761
+msgctxt "Settings page"
+msgid "When clicking the Private Message button user will be immediately redirected to new conversation instead of new conversation screen"
+msgstr ""
+
+#: views/layout-settings.php:760
+msgctxt "Settings page"
+msgid "Fast Start"
+msgstr ""
+
+#: views/layout-settings.php:749
+msgctxt "Settings page"
+msgid "Settings related to starting new conversations by website members"
+msgstr ""
+
+#: views/layout-settings.php:748
+msgctxt "Settings page"
+msgid "Starting new conversation"
+msgstr ""
+
+#: views/layout-settings.php:694
+msgctxt "Settings page"
+msgid "WebSocket server dont know about this domain, realtime functionality will not work. If you just activated the license at this website need to wait some time for system to sync your license with websocket servers. It usually takes up to 15 minutes, but in some cases can take longer."
+msgstr ""
+
+#: views/layout-settings.php:690
+msgctxt "Settings page"
+msgid "All good, WebSocket server know about this domain, all should be working good."
+msgstr "Todo bien, el servidor WebSocket conoce este dominio, todo debería estar trabajando bien."
+
+#: views/layout-settings.php:672
+msgctxt "Settings page"
+msgid "Double-checking if WebSocket server know about this domain and sync is fine"
+msgstr "Doble-chequeando si el servidor WebSocket conoce este dominio y la sincronización está bien"
+
+#: views/layout-settings.php:661
+msgctxt "Settings page"
+msgid "If you have license, and it must be attached to this website, try to press sync button in <a href=\"%s\">your account</a>."
+msgstr "Si tienes una licencia y debe ser anexada a este sitio web, intenta presionar el botón sincronizar en <a href=\"%s\">tu cuenta</a>."
+
+#: views/layout-settings.php:660
+msgctxt "Settings page"
+msgid "This website using WebSocket plugin version, but has no active license attached."
+msgstr "Esta web usa la versión WebSocket del plugin, pero no tiene adjunta una licencia activa."
+
+#: views/layout-settings.php:361 views/layout-settings.php:569
+#: views/layout-settings.php:1147 views/layout-settings.php:2303
+msgctxt "Settings page"
+msgid "Customization"
+msgstr "Personalización"
+
+#: views/layout-settings.php:510
+msgctxt "Settings page"
+msgid "Encrypts all sensitive content before transfer to websocket server and decrypt on client site with special secret keys not known by our side."
+msgstr "Encripta todo el contenido sensible antes de transferirlo al servidor websocket y decodificarlo en el sitio del cliente con claves secretas especiales que no sabemos de nuestro lado."
+
+#: views/layout-settings.php:453
+msgctxt "Settings page"
+msgid "If first shortcode does not work (this can happen when using some page builders) - use <code>%s</code> shortcode instead."
+msgstr ""
+
+#: views/layout-settings.php:452
+msgctxt "Settings page"
+msgid "You can use <code>%s</code> shortcode to place chat in specific place of your selected page, if you not used this shortcode all page content will be replaced."
+msgstr "Puedes usar <code>%s</code> un atajo para poner el chat en un lugar en específico de tu página seleccionada, si no usas este shortcode todo el contenido de la página será reemplazado."
+
+#: views/layout-moderation.php:12
+msgid "Messages Viewer"
+msgstr "Visor de Mensajes"
+
+#: inc/user-config.php:194
+msgctxt "User settings"
+msgid "Saved successfully"
+msgstr "Guardado exitosamente"
+
+#: inc/user-config.php:179
+msgctxt "User settings"
+msgid "When enabled, you will receive messages notifications even if browser is closed."
+msgstr "Cuando está activado, recibirás notificaciones de mensajes incluso si el navegador está cerrado."
+
+#: inc/user-config.php:178
+msgctxt "User settings"
+msgid "Browser push notifications"
+msgstr "Notificaciones push del navegador"
+
+#: inc/user-config.php:154
+msgctxt "User settings"
+msgid "When enabled, you will receive notifications about new messages via email when you are offline."
+msgstr "Cuando está activado, recibirás notificaciones sobre los nuevos mensajes por correo electrónico cuando no estás conectado."
+
+#: inc/user-config.php:151
+msgctxt "User settings"
+msgid "Enable notifications via email"
+msgstr "Activar notificaciones por correo"
+
+#: inc/user-config.php:169
+msgctxt "User settings"
+msgid "Notifications"
+msgstr "Notificaciones"
+
+#: inc/user-config.php:139
+msgctxt "User settings"
+msgid "Who can start private conversations with you?"
+msgstr "¿Quién puede iniciar conversaciones privadas contigo?"
+
+#: inc/user-config.php:68
+msgctxt "User settings"
+msgid "Nobody"
+msgstr "Nadie"
+
+#: inc/user-config.php:65
+msgctxt "User settings"
+msgid "Allow Friends"
+msgstr "Permitir Amigos"
+
+#: inc/user-config.php:57
+msgctxt "User settings"
+msgid "Allow Followers"
+msgstr "Permitir Seguidores"
+
+#: inc/user-config.php:43
+msgctxt "User settings"
+msgid "Everyone"
+msgstr "Todos"
+
+#: assets/js/bp-messages-free.js:225 assets/js/bp-messages-premium.js:225
+msgid "Record Voice Message"
+msgstr "Grabar mensaje de voz"
+
+#: addons/buddyboss.php:140
+msgid "You have new message from %s"
+msgstr "Tienes un nuevo mensaje de %s"
+
+#: addons/buddyboss.php:139
+msgid "New message from %s"
+msgstr "Nuevo mensaje de %s"
+
+#: inc/rest-api.php:1824
+msgctxt "Rest API Error"
+msgid "Sorry, you are not allowed to access this conversation"
+msgstr "Lo siento, no tienes permisos para acceder a esta conversación"
+
+#: inc/rest-api.php:1810
+msgctxt "Rest API Error"
+msgid "Sorry, the conversation which you tried to access does not exists"
+msgstr "Lo siento, la conversación a la que intentas acceder no existe"
+
+#: inc/rest-api.php:1729 inc/rest-api.php:1747 inc/rest-api.php:1759
+#: inc/rest-api.php:1770
+msgctxt "Rest API Error"
+msgid "Sorry, you are not allowed to reply into this conversation"
+msgstr "Lo siento, no tienes permiso para responder a esta conversación"
+
+#: inc/rest-api.php:836
+msgid "Message content was empty."
+msgstr "El contenido del mensaje estaba en blanco."
+
+#: inc/rest-api.php:778 assets/js/bp-messages-free.js:10
+#: assets/js/bp-messages-premium.js:10
+msgctxt "User tried to send empty message error"
+msgid "The message you were trying to send was empty"
+msgstr "El mensaje que intentaste enviar está en blanco"
+
+#: inc/rest-api.php:697 inc/rest-api.php:711
+msgctxt "Rest API Error"
+msgid "Sorry, you are not allowed to restore this conversation"
+msgstr "No tienes permiso para recuperar esta conversación."
+
+#: inc/rest-api.php:635
+msgctxt "Rest API Error"
+msgid "You are not allowed to delete message of super moderator."
+msgstr "No tienes permitido borrar mensajes de un Super moderador"
+
+#: inc/options.php:272 inc/options.php:273 views/layout-viewer.php:44
+msgctxt "WP Admin"
+msgid "Messages Viewer"
+msgstr "Visor de Mensajes"
+
+#: inc/options.php:261 inc/options.php:262
+msgctxt "WP Admin"
+msgid "Settings"
+msgstr "Ajustes"
+
+#: inc/options.php:252
+msgctxt "WP Admin"
+msgid "Better Messages"
+msgstr "Better Messages"
+
+#: inc/options.php:151
+msgctxt "Settings page"
+msgid "Not enough points to start a new conversation."
+msgstr "No hay suficientes puntos para comenzar una nueva conversación."
+
+#: inc/options.php:149
+msgctxt "Settings page"
+msgid "Not enough points to send a new message."
+msgstr ""
+
+#: inc/options.php:69
+msgid "Message hidden"
+msgstr "Mensaje oculto"
+
+#: inc/options.php:67
+msgid "You are not allowed to make a call"
+msgstr "No tienes permisos para iniciar una llamada"
+
+#: inc/options.php:65
+msgid "You are not allowed to continue conversation"
+msgstr "No tienes permiso para continuar esta conversación"
+
+#: inc/options.php:62
+msgid "Your message contains a word from blacklist"
+msgstr "Tu mensaje contiene una palabra de la lista negra"
+
+#: inc/options.php:61
+msgid "You are not allowed to start new conversations"
+msgstr "No tienes permiso para comenzar nuevas conversaciones"
+
+#: inc/options.php:59
+msgid "Your limit for replies is exceeded"
+msgstr "Has excedido tu límite de respuestas"
+
+#: inc/notifications.php:575
+msgid "<a href=\"%s\">Go to the discussion</a> to reply or catch up on the conversation."
+msgstr "<a href=\"%s\">Ve a la discusión</a> para responder o ponerte al día sobre la conversación."
+
+#: inc/notifications.php:572
+msgid "Hi %s,"
+msgstr "Hola %s,"
+
+#: inc/notifications.php:454
+msgctxt "Email notification header for non BuddyPress websites"
+msgid "You have unread messages:"
+msgstr "Tienes mensajes sin leer:"
+
+#: inc/notifications.php:452
+msgctxt "Email notification header for non BuddyPress websites"
+msgid "You have unread messages: \"%s\""
+msgstr "Tienes mensajes sin leer: \"%s\""
+
+#: inc/notifications.php:391
+msgid "%s wrote:"
+msgstr "%s escribió:"
+
+#: inc/install.php:26 inc/notifications.php:117
+msgid "A member has unread private messages."
+msgstr "Un miembro tiene mensajes privados sin leer."
+
+#. translators: do not remove {} brackets or translate its contents.
+#: inc/install.php:22 inc/notifications.php:113
+msgid ""
+"You have unread messages: \"{{subject}}\"\n"
+"\n"
+"{{messages.raw}}\n"
+"\n"
+"Go to the discussion to reply or catch up on the conversation: {{{thread.url}}}"
+msgstr ""
+"Tienes mensajes sin leer: \"{{subject}}\"\n"
+"\n"
+"{{messages.raw}}\n"
+"\n"
+"Ve a la discusión para responder o ponerte al tanto sobre la conversación: {{{thread.url}}}"
+
+#. translators: do not remove {} brackets or translate its contents.
+#: inc/install.php:20 inc/notifications.php:111
+msgid ""
+"You have unread messages: &quot;{{subject}}&quot;\n"
+"\n"
+"{{{messages.html}}}\n"
+"\n"
+"<a href=\"{{{thread.url}}}\">Go to the discussion</a> to reply or catch up on the conversation."
+msgstr ""
+"Tienes mensajes sin leer: &quot;{{subject}}&quot;\n"
+"\n"
+"{{{messages.html}}}\n"
+"\n"
+"<a href=\"{{{thread.url}}}\">Ve a la discusión</a> para ponerte al tanto de la conversación ."
+
+#. translators: do not remove {} brackets or translate its contents.
+#: inc/install.php:18 inc/notifications.php:109
+msgid "[{{{site.name}}}] You have unread messages: {{subject}}"
+msgstr "[{{{site.name}}}] Tienes mensajes sin leer: {{subject}}"
+
+#: inc/hooks.php:1689
+msgid "You must become friends with <strong>%s</strong> to start conversation"
+msgstr "Debes ser amigo con <strong>%s</strong> para comenzar una conversación"
+
+#: inc/hooks.php:1658
+msgctxt "Ultimate Member User Restriction"
+msgid "<strong>%s</strong> allows only followers to message him"
+msgstr "<strong>%s</strong> sólo le permite enviar mensaje a sus seguidores"
+
+#: inc/hooks.php:1656 inc/hooks.php:1662 inc/hooks.php:1666
+msgid "<strong>%s</strong> allows only friends to message him"
+msgstr "<strong>%s</strong> sólo le permite enviar mensaje a sus amigos"
+
+#: inc/hooks.php:1647
+msgid "%s not allow to message him"
+msgstr "%s no permite enviarle mensajes"
+
+#: inc/hooks.php:1452
+msgid "You were blocked by recipient"
+msgstr "Has sido bloqueado por el destinatario"
+
+#: inc/hooks.php:1422
+msgctxt "Error message when group threads are disabled"
+msgid "You can start conversation only with 1 user per time"
+msgstr "Puedes comenzar una conversación con 1 solo usuario por vez"
+
+#: inc/hooks.php:1084 inc/hooks.php:1092
+msgid "Your membership does not allow to use messages"
+msgstr "Tu membresía no permite usar mensajes"
+
+#: inc/hooks.php:1012
+msgid "This user does not exist."
+msgstr "Este usuario no existe."
+
+#: inc/hooks.php:1002
+msgid "You need to login to have access to profiles."
+msgstr "Debes iniciar sesión para poder acceder a los perfiles."
+
+#: inc/hooks.php:952 inc/hooks.php:1035
+msgctxt "Messages list sub nav"
+msgid "Messages <span class=\"%s bp-better-messages-unread\">%s</span>"
+msgstr "Mensajes <span class=\"%s bp-better-messages-unread\">%s</span>"
+
+#: inc/hooks.php:891
+msgctxt "MyCred Log Entry"
+msgid "Better Messages charge for message #%d"
+msgstr ""
+
+#: inc/hooks.php:874
+msgctxt "MyCred Log Entry"
+msgid "Better Messages charge for new thread #%d"
+msgstr ""
+
+#: inc/hooks.php:824
+msgid "You cant start new conversation now. Please wait %s seconds."
+msgstr "Puedes comenzar una nueva conversación ahora. Espera %s segundos."
+
+#: inc/functions.php:2925
+msgid "Message was not sent. Please try again."
+msgstr "No se ha enviado el mensaje. Inténtalo de nuevo."
+
+#: inc/functions.php:2845 assets/js/bp-messages-free.js:8
+#: assets/js/bp-messages-premium.js:8
+msgctxt "User tried to send message with no recipients"
+msgid "Please select recipient(s) before sending the message"
+msgstr "Por favor elige destinatario(s) antes de enviar el mensaje"
+
+#: inc/functions.php:2838
+msgid "Re: %s"
+msgstr ""
+
+#: inc/functions.php:2796
+msgid "Your message was not sent. Please enter some content."
+msgstr "Tu mensaje no ha sido enviado. Por favor ingresa algún contenido."
+
+#: inc/functions.php:2793
+msgid "Your message was not sent. Please use a valid sender."
+msgstr "Tu mensajes no fue enviado. Por favor selecciona un remitente válido"
+
+#: inc/functions.php:2691
+msgctxt "Login form for unlogged users"
+msgid "Login required"
+msgstr "Se requiere ingresar"
+
+#: assets/js/bp-messages-free.js:12 assets/js/bp-messages-premium.js:12
+msgctxt "Combined view tabs"
+msgid "Groups"
+msgstr "Grupos"
+
+#: assets/js/bp-messages-free.js:11 assets/js/bp-messages-premium.js:11
+msgctxt "Combined view tabs"
+msgid "Friends"
+msgstr "Amigos"
+
+#: assets/js/bp-messages-free.js:14 assets/js/bp-messages-premium.js:14
+msgctxt "Combined view tabs"
+msgid "Messages"
+msgstr "Mensajes"
+
+#: inc/shortcodes.php:248
+msgid "Audio Call"
+msgstr "LLamada de Audio"
+
+#: inc/shortcodes.php:197
+msgid "Video Call"
+msgstr "Vídeo Llamada"
+
+#: inc/functions.php:2422 inc/functions.php:2424
+msgid "No Subject"
+msgstr "Sin asunto"
+
+#: inc/functions.php:2329
+msgid "My profile"
+msgstr "Mi perfil"
+
+#: inc/functions.php:2273
+msgid "<a href=\"%s\" target=\"_blank\">Download</a> and install Premium version of plugin to use this feature"
+msgstr "<a href=\"%s\" target=\"_blank\">Descarga</a> e instala la versión Premium del plugin para usar esta característica"
+
+#: inc/functions.php:2269
+msgid "Get WebSocket License"
+msgstr "Obtén Licencia WebSocket"
+
+#: inc/functions.php:1902 assets/js/bp-messages-free.js:7
+#: assets/js/bp-messages-premium.js:7
+msgctxt "Thread Title (when subjects are disabled)"
+msgid "%s Participants"
+msgstr "%s Participantes"
+
+#: inc/functions.php:1708
+msgid "Access restricted"
+msgstr "Acceso restringido"
+
+#: inc/functions.php:1320 inc/functions.php:1352
+msgctxt "Rest API Error"
+msgid "Error while creating new conversation"
+msgstr "Error al crear una nueva conversación"
+
+#: assets/js/bp-messages-free.js:222 assets/js/bp-messages-premium.js:222
+msgid "Recover"
+msgstr "Recuperar"
+
+#: inc/functions.php:1079
+msgid "Profile picture of %s"
+msgstr "Imagen de perfil de %s"
+
+#: inc/functions.php:1048 inc/functions.php:1067 inc/hooks.php:648
+#: views/layout-viewer.php:75
+msgid "Deleted User"
+msgstr "Usuario Eliminado"
+
+#: inc/customize.php:1214
+msgctxt "WP Customizer"
+msgid "Indent of mini widgets from the window side"
+msgstr ""
+
+#: inc/customize.php:1212
+msgctxt "WP Customizer"
+msgid "Indent of Mini Widgets"
+msgstr ""
+
+#: inc/customize.php:1191
+msgctxt "WP Customizer"
+msgid "Height of Mini Widgets"
+msgstr ""
+
+#: inc/customize.php:1170
+msgctxt "WP Customizer"
+msgid "Width of Mini Widgets"
+msgstr ""
+
+#: inc/customize.php:1255
+msgctxt "WP Customizer"
+msgid "Height of Mini Chat"
+msgstr ""
+
+#: inc/customize.php:1234
+msgctxt "WP Customizer"
+msgid "Width of Mini Chat"
+msgstr ""
+
+#: inc/customize.php:667 inc/customize.php:1028
+msgctxt "WP Customizer"
+msgid "Date Label: Text Color"
+msgstr ""
+
+#: inc/customize.php:646 inc/customize.php:1007
+msgctxt "WP Customizer"
+msgid "Date Label: Background Color"
+msgstr ""
+
+#: inc/customize.php:625 inc/customize.php:986
+msgctxt "WP Customizer"
+msgid "Modern Message: Right Content Color"
+msgstr ""
+
+#: inc/customize.php:604 inc/customize.php:965
+msgctxt "WP Customizer"
+msgid "Modern Message: Right Background Color"
+msgstr ""
+
+#: inc/customize.php:583 inc/customize.php:944
+msgctxt "WP Customizer"
+msgid "Modern Message: Right Nickname Color"
+msgstr ""
+
+#: inc/customize.php:562 inc/customize.php:923
+msgctxt "WP Customizer"
+msgid "Modern Message: Left Content Color"
+msgstr ""
+
+#: inc/customize.php:541 inc/customize.php:902
+msgctxt "WP Customizer"
+msgid "Modern Message: Left Background Color"
+msgstr ""
+
+#: inc/customize.php:520 inc/customize.php:881
+msgctxt "WP Customizer"
+msgid "Modern Message: Left Nickname Color"
+msgstr ""
+
+#: inc/customize.php:499 inc/customize.php:860
+msgctxt "WP Customizer"
+msgid "Primary Text Color"
+msgstr ""
+
+#: inc/customize.php:457 inc/customize.php:839
+msgctxt "WP Customizer"
+msgid "Secondary Border Color"
+msgstr ""
+
+#: inc/customize.php:436 inc/customize.php:818
+msgctxt "WP Customizer"
+msgid "Primary Border Color"
+msgstr ""
+
+#: inc/customize.php:415 inc/customize.php:797
+msgctxt "WP Customizer"
+msgid "Hover Background Color"
+msgstr ""
+
+#: inc/customize.php:394 inc/customize.php:776
+msgctxt "WP Customizer"
+msgid "Secondary Background Color"
+msgstr ""
+
+#: inc/customize.php:373 inc/customize.php:755
+msgctxt "WP Customizer"
+msgid "Primary Background Color"
+msgstr ""
+
+#: inc/customize.php:352 inc/customize.php:734
+msgctxt "WP Customizer"
+msgid "Primary Color"
+msgstr ""
+
+#: inc/customize.php:235
+msgctxt "WP Customizer"
+msgid "Dark"
+msgstr ""
+
+#: inc/customize.php:234
+msgctxt "WP Customizer"
+msgid "Light"
+msgstr ""
+
+#: inc/customize.php:230
+msgctxt "WP Customizer"
+msgid "Color scheme"
+msgstr ""
+
+#: inc/customize.php:134
+msgctxt "WP Customizer"
+msgid "Modern Messages Roundness"
+msgstr ""
+
+#: inc/customize.php:90
+msgctxt "WP Customizer"
+msgid "Dark Mode"
+msgstr ""
+
+#: inc/customize.php:81
+msgctxt "WP Customizer"
+msgid "Light Mode"
+msgstr ""
+
+#: inc/customize.php:69
+msgctxt "WP Customizer"
+msgid "General"
+msgstr "General"
+
+#: inc/component.php:164
+msgctxt "Messages list sub nav"
+msgid "Messages"
+msgstr "Mensajes"
+
+#: inc/component.php:162
+msgctxt "Messages list sub nav"
+msgid "Messages <span class=\"%s\">%s</span>"
+msgstr "Mensajes <span class=\"%s\">%s</span>"
+
+#: inc/component.php:131
+msgid "Starred"
+msgstr "Favorito"
+
+#: inc/component.php:109
+msgctxt "Messages list sub nav"
+msgid "Messages <span class=\"%s bp-better-messages-unread count\">%s</span>"
+msgstr "Mensaje <span class=\"%s bp-better-messages-unread count\">%s</span>"
+
+#: inc/component-group.php:260
+msgid "Disabled"
+msgstr "Desactivado"
+
+#: inc/component-group.php:255
+msgid "Enabled"
+msgstr "Activado"
+
+#: inc/component-group.php:251
+msgctxt "BuddyPress Groups"
+msgid "All members of the group will be automatically joined to the conversation of this group"
+msgstr "Todos los miembros de este grupo serán añadidos automáticamente a la conversación de este grupo"
+
+#: inc/component-group.php:250
+msgctxt "BuddyPress Groups"
+msgid "Enable Group Messages feature for this group"
+msgstr "Activar la funcionalidad de Mensajes de Grupo para este grupo"
+
+#: inc/component-group.php:248
+msgid "Group Messages"
+msgstr "Mensajes de grupo"
+
+#: inc/chats.php:648 inc/chats.php:666 inc/chats.php:675 inc/chats.php:684
+msgid "HTML allowed"
+msgstr "HTML permitido"
+
+#: inc/chats.php:639
+msgid "All messages at left side"
+msgstr "Todos los mensajes en el lado izquierdo"
+
+#: inc/chats.php:635
+msgid "My messages at right side"
+msgstr "Mis mensajes en el lado derecho"
+
+#: inc/chats.php:631
+msgid "My messages at left side"
+msgstr "Mis mensajes en el lado izquierdo"
+
+#: inc/chats.php:621
+msgid "Modern messages layout"
+msgstr "Diseño de mensajes modernos"
+
+#: inc/chats.php:614
+msgid "Modern"
+msgstr "Moderno"
+
+#: inc/chats.php:612
+msgid "Standard"
+msgstr "Estándar"
+
+#: inc/chats.php:610 inc/chats.php:627
+msgid "Default"
+msgstr "Defecto"
+
+#: inc/chats.php:605
+msgid "Messages styling"
+msgstr "Estilo de mensajes"
+
+#: inc/chats.php:548
+msgctxt "Chat rooms settings page"
+msgid "Hide participants list (not for admins)"
+msgstr "Ocultar la lista de participantes (no para administradores)"
+
+#: inc/chats.php:544
+msgctxt "Chat rooms settings page"
+msgid "Auto join users to this chat (when they visiting chat page)"
+msgstr "Añadir automáticamente usuarios a este chat (cuando visitan la página del chat)"
+
+#: inc/chats.php:540
+msgctxt "Chat rooms settings page"
+msgid "Only joined can read messages"
+msgstr "Sólo los que se han unido pueden leer mensajes"
+
+#: inc/chats.php:536
+msgctxt "Chat rooms settings page"
+msgid "Shortcode"
+msgstr ""
+
+#: assets/js/bp-messages-free.js:220 assets/js/bp-messages-premium.js:220
+msgid "Login"
+msgstr ""
+
+#: inc/api/conversations.php:330 inc/api/conversations.php:348
+#: inc/rest-api.php:657 inc/rest-api.php:670
+msgctxt "Rest API Error"
+msgid "Sorry, you are not allowed to delete this conversation"
+msgstr "Lo siento, no tienes permisos para borrar esta conversación"
+
+#: inc/api/conversations.php:315
+msgctxt "Rest API Error"
+msgid "Sorry, you are not allowed to remove this user from conversation"
+msgstr "Lo siento, no tienes permitido eliminar al usuario de la conversación"
+
+#: inc/api/conversations.php:307
+msgctxt "Rest API Error"
+msgid "Sorry, this user is not participant of this conversation"
+msgstr "Lo siento, este usuario no es participante de la conversación"
+
+#: inc/api/conversations.php:297
+msgctxt "Rest API Error"
+msgid "Sorry, you are not allowed to remove participants from this conversation"
+msgstr "Lo siento, no tienes permitido eliminar participantes de esta conversación"
+
+#: inc/api/conversations.php:278
+msgctxt "Rest API Error"
+msgid "Sorry, this user already participating in this conversation"
+msgstr "Lo siento, este usuario ya está participante en esta conversación"
+
+#: inc/api/conversations.php:262
+msgctxt "Rest API Error"
+msgid "Sorry, you are not allowed to add participants to this conversation"
+msgstr ""
+
+#: inc/api/conversations.php:247
+msgctxt "Rest API Error"
+msgid "Something went wrong"
+msgstr "Algo fue mal"
+
+#: inc/api/conversations.php:231
+msgctxt "Rest API Error"
+msgid "You can not make user moderator if he is not participant of the conversation"
+msgstr ""
+
+#: inc/api/conversations.php:196
+msgctxt "Rest API Error"
+msgid "You can not unmake user moderator if he is not participant of the conversation"
+msgstr ""
+
+#: addons/pinned-conversations.php:49 addons/pinned-conversations.php:74
+#: inc/api/conversations.php:163 inc/api/conversations.php:178
+#: inc/api/conversations.php:188 inc/api/conversations.php:213
+#: inc/api/conversations.php:223 inc/api/conversations.php:404
+#: inc/api/conversations.php:424 inc/guests.php:185 inc/guests.php:194
+#: inc/moderation.php:106 inc/moderation.php:131 inc/moderation.php:157
+#: inc/moderation.php:182
+msgctxt "Rest API Error"
+msgid "Sorry, you are not allowed to do that"
+msgstr ""
+
+#: inc/api/bulk-message.php:277
+msgctxt "Bulk Messages Page"
+msgid "No users was selected"
+msgstr "No se han seleccionado usuarios"
+
+#: inc/api/bulk-message.php:269
+msgctxt "Bulk Messages Page"
+msgid "Message is empty"
+msgstr "El mensaje está en blanco"
+
+#: addons/users-block.php:147
+msgctxt "Message when user cant send message to user who blocked him"
+msgid "You can't send message to user who blocked you"
+msgstr "No puedes enviarle mensaje a un usuario que te ha bloqueado"
+
+#: addons/users-block.php:136
+msgctxt "Message when user cant send message to user blocked by him"
+msgid "You can't send message to user who was blocked by you"
+msgstr "No puedes enviarle mensaje a un usuario al que has bloqueado"
+
+#: addons/users-block.php:103
+msgctxt "Error when starting new thread but user blocked"
+msgid "%s blocked you"
+msgstr "%s te ha bloqueado"
+
+#: addons/users-block.php:97
+msgctxt "Error when starting new thread but user blocked"
+msgid "%s blocked by you"
+msgstr "%s fue bloqueado por ti"
+
+#: addons/users-block.php:37
+msgctxt "User settings screen"
+msgid "Blocked users"
+msgstr "Usuarios bloqueados"
+
+#: addons/buddypress.php:132 addons/buddypress.php:134
+#: addons/ultimate-member.php:447 addons/ultimate-member.php:464
+#: addons/ultimate-member.php:466 inc/hooks.php:970 inc/hooks.php:983
+#: inc/hooks.php:1030 inc/shortcodes.php:58 inc/shortcodes.php:113
+#: inc/shortcodes.php:300
+msgid "Private Message"
+msgstr "Mensaje Privado"
+
+#: addons/ultimate-member.php:400 inc/component-group.php:47
+#: inc/component.php:37 inc/hooks.php:611
+msgid "Messages"
+msgstr "Mensajes"
+
+#: addons/ultimate-member.php:326
+msgctxt "Ultimate member - follower restriction"
+msgid "You must follower this user to send messages"
+msgstr "Debes seguir a este usuario para enviarle mensajes"
+
+#: addons/ultimate-member.php:298
+msgctxt "Ultimate member - follower restriction"
+msgid "%s need to be followed to start new conversation"
+msgstr "%s debe ser seguido para iniciar una nueva conversación"
+
+#: addons/ultimate-member-groups.php:189
+msgctxt "Ultimate Member - Group Tab Name"
+msgid "Messages"
+msgstr "Mensajes"
+
+#: addons/stickers.php:180 inc/notifications.php:356
+#: assets/js/bp-messages-free.js:6 assets/js/bp-messages-premium.js:6
+msgid "Sticker"
+msgstr "Dibujo"
+
+#: addons/reactions.php:115
+msgctxt "Rest API Error"
+msgid "Sorry, you have no access to this conversation"
+msgstr "Lo siento, no tienes acceso a esta conversación"
+
+#: addons/reactions.php:107
+msgctxt "Reactions"
+msgid "You can only put reactions to other members messages"
+msgstr "Sólo puedes poner reacciones a mensajes de otros miembros"
+
+#: addons/reactions.php:96 inc/rest-api.php:867
+msgid "Message not found"
+msgstr "No se encontró el mensaje"
+
+#: addons/reactions.php:84
+msgctxt "Reactions"
+msgid "No such reaction available"
+msgstr "Reacción no disponible"
+
+#: addons/peepso.php:412
+msgctxt "Peepso Integration"
+msgid "Messages"
+msgstr "Mensajes"
+
+#: addons/peepso.php:393
+msgctxt "PeepSo Integration"
+msgid "Audio Call"
+msgstr "Llamada de Audio"
+
+#: addons/peepso.php:376
+msgctxt "PeepSo Integration"
+msgid "Video Call"
+msgstr "Videollamada"
+
+#: addons/peepso.php:348 addons/peepso.php:357
+msgctxt "PeepSo Integration"
+msgid "Start a conversation"
+msgstr "Comenzar una conversación"
+
+#: addons/peepso.php:297
+msgctxt "PeepSo Integration"
+msgid "Send Message"
+msgstr "Enviar Mensaje"
+
+#: addons/peepso.php:231 addons/ultimate-member.php:383 inc/hooks.php:1595
+msgid "You must become friends to send messages"
+msgstr "Deben ser amigos para enviar mensajes"
+
+#: addons/peepso.php:203 addons/ultimate-member.php:356
+msgid "%s not on your friends list"
+msgstr "%s no está en tu lista de contactos"
+
+#: addons/peepso-groups.php:383
+msgctxt "PeepSo Group Section Label"
+msgid "Messages"
+msgstr "Mensajes"
+
+#: addons/giphy.php:304
+msgid "Search results will display here"
+msgstr "Los resultados de la búsqueda se mostrarán aquí"
+
+#: addons/giphy.php:285 inc/notifications.php:361
+msgid "GIF"
+msgstr "GIF"
+
+#: addons/files.php:525
+msgctxt "File Uploader Error"
+msgid "Your request is empty."
+msgstr ""
+
+#: addons/files.php:475
+msgctxt "File Uploader Error"
+msgid "%s is too large! Please upload file up to %d MB."
+msgstr ""
+
+#: addons/files.php:451 addons/files.php:466
+msgctxt "File Uploader Error"
+msgid "Sorry, you are not allowed to upload this file type"
+msgstr ""
+
+#: addons/files.php:439
+msgctxt "File Uploader Error"
+msgid "Sorry, you are not allowed to upload files"
+msgstr ""
+
+#: addons/files.php:144 addons/files.php:416
+msgctxt "File Uploader Error"
+msgid "Sorry, you are not allowed to upload files for this message"
+msgstr ""
+
+#: addons/files.php:136 addons/files.php:408
+msgctxt "File Uploader Error"
+msgid "Conversation mismatch while trying to upload file"
+msgstr ""
+
+#: addons/files.php:243
+msgid "attachments"
+msgstr "archivos adjuntos"
+
+#: addons/files.php:233 assets/js/bp-messages-free.js:5
+#: assets/js/bp-messages-premium.js:5
+msgid "Voice Message"
+msgstr "Mensaje de voz"
+
+#: addons/buddyboss.php:318
+msgid "You can't message this member."
+msgstr "No puedes escribirle a este miembro."
+
+#: addons/buddyboss.php:296
+msgid "You can't message a blocked member."
+msgstr "No puedes escribirle a un miembro bloqueado."
+
+#: addons/buddyboss.php:266
+msgid "This message was deleted."
+msgstr "Este mensaje fue eliminado."
+
+#: addons/buddyboss.php:261
+msgid "Joined \"%s\""
+msgstr "Te uniste \"%s\""
+
+#: addons/buddyboss.php:259
+msgid "Left \"%s\""
+msgstr "Saliste \"%s\""
+
+#. Author of the plugin
+msgid "WordPlus"
+msgstr "WordPlus"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.wordplus.org"
+msgstr "https://www.wordplus.org"
+
+#. Plugin Name of the plugin
+#: addons/buddyboss/notifications/new-message.php:76 inc/options.php:251
+msgid "Better Messages"
+msgstr "Mensajes"

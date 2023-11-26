@@ -1,0 +1,65 @@
+.container-encuesta
+{
+	width: 100%;
+    display: block !important;
+    border: 1.4px solid var(--primary);
+    margin-top: auto;
+    margin-bottom: auto;
+    position: relative;
+    border-radius: 18px;
+    box-shadow: 5px 4px #d3d0d0;
+}
+
+.dem__radio_label
+{
+    color: var(--tertiary);
+    font-family: Klavika;
+    font-weight: 400;
+    font-size: 1em;
+    line-height: 18px;
+}
+
+.democracy ul.dem-vote li>*
+{
+    margin-bottom: 0.6em;
+    border-bottom: 2px solid var(--primary);
+    padding: 10px 0px;
+}
+
+.dem-vote-button {
+    float: right !important;
+    padding: 10px;
+}
+
+.input[type=submit].dem-button:hover, a.dem-button:hover, .dem-button:hover
+{
+    background-color: var(--tertiary) !important;
+    color: #FFFFFF !important;
+}
+
+input[type=submit].dem-button, a.dem-button, .dem-button
+{
+    font-size: .938em;
+    background-color: var(--secondary);
+    border: var(--secondary);
+    font-family: 'Klavika';
+    color: var(--tertiary) ;
+    font-weight: 500;
+    width: 100%;
+    padding: 10px !important;
+}
+
+.dem-voted-this .dem-fill
+{
+    background-color: var(--primary) !important;
+}
+
+a.dem-link.dem-results-link
+{
+    display: none;
+}
+
+.encuesta-vertical ul
+{
+    display: block;
+}

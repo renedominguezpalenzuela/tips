@@ -1,0 +1,93 @@
+.fc .fc-scrollgrid-liquid {
+    border: none !important
+}
+
+.fc-theme-standard td {
+    border: 2px solid var(--secondary) !important
+}
+
+.fc-theme-standard th {
+    border: none !important
+}
+
+.fc .fc-scrollgrid-section,
+.fc .fc-scrollgrid-section table,
+.fc .fc-scrollgrid-section>td {
+    height: 1px;
+    border-radius: 10px
+}
+
+.fc .fc-button-primary {
+    background-color: #ffffff00 !important;
+    border-color: transparent !important;
+    color: var(--primary) !important
+}
+
+.fc .fc-toolbar-title {
+    font-family: Klavika;
+    font-weight: 500;
+    color: var(--tertiary) !important;
+    text-transform: capitalize !important;
+    font-size: 4.75em !important
+}
+
+a.fc-col-header-cell-cushion {
+    font-family: Klavika;
+    font-weight: 400;
+    color: var(--primary) !important;
+    text-transform: capitalize !important;
+    font-size: 1em
+}
+
+.fc .fc-button .fc-icon {
+    font-size: 3.5em !important
+}
+
+.closeModal {
+    border: 0;
+    color: var(--primary);
+    background: #fff;
+    font-size: 25px
+}
+
+.btnIconClose {
+    float: right;
+    top: -38px;
+    display: flex;
+    position: relative
+}
+
+.modal-content-calendario {
+    border: 4px solid var(--primary);
+    border-radius: 10px;
+    height: 300px
+}
+
+.modal-body-calendario {
+    overflow-y: scroll;
+    height: 252px
+}
+
+.modal-calendario {
+    left: 0
+}
+
+::-webkit-scrollbar {
+    width: 6px
+}
+
+::-webkit-scrollbar-track {
+    background: #f4f6f8;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 22px
+}
+
+::-webkit-scrollbar-thumb {
+    background: #7a8ba3;
+    border-radius: 20px
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555
+}

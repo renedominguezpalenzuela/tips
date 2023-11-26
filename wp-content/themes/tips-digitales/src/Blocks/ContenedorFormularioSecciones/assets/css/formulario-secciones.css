@@ -1,0 +1,120 @@
+.container-formulario-secciones
+{
+    width: 100%;
+    display: block !important;
+    border: 1.4px solid var(--primary);
+    margin-top: auto;
+    margin-bottom: auto;
+    position: relative;
+    border-radius: 18px;
+    box-shadow: 5px 4px #d3d0d0;
+}
+
+.tituloPropuesta-user
+{
+    color: var(--tertiary);
+    font-family: 'Klavika';
+    font-weight: 500;
+    font-size: 1.4em;
+    line-height: 34px;
+}
+
+.descripcionPropuesta-user
+{
+    color: var(--tertiary);
+    font-family: 'Klavika';
+    font-weight: 400;
+    font-size: 1.138em;
+    line-height: 1.25;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+
+}
+
+.mesPropuesta-user
+{
+    color: var(--tertiary);
+    font-family: 'Klavika';
+    font-weight: 500;
+    font-size: 2em;
+    letter-spacing: -2px;
+    margin-top: -10px;
+    text-align: right;
+}
+.diaPropuesta-user
+{
+    color: var(--tertiary);
+    font-family: 'Klavika';
+    font-weight: 600;
+    font-size: 4em;
+    letter-spacing: -2px;
+    text-align: right;
+    position: relative;
+    top: -30px;
+    height: 60px;
+}
+
+.localidadPropuesta-user
+{
+    color: var(--tertiary);
+    font-family: 'Klavika';
+    font-weight: 400;
+    font-size: 1.5em;
+    line-height: 1.25;
+    margin-top: -12px;
+}
+
+.containerPropuesta-documentos-modal
+{
+    border: 2px solid var(--primary);
+}
+
+.tituloPropuesta-modal
+{
+    color: var(--tertiary);
+    font-family: 'Klavika';
+    font-weight: 600;
+    font-size: 2em;
+    line-height: 1.25;
+    margin-top: -12px;
+}
+
+.descripcionPropuesta-modal
+{
+    color: var(--tertiary);
+    font-family: 'Klavika';
+    font-weight: 400;
+    font-size: 1.138em;
+    line-height: 1.25;
+    max-height: 350px;
+    overflow-y: auto;
+}
+
+.slider-propuestas-paginas
+{
+    color: var(--tertiary);
+    font-family: 'Klavika';
+    font-weight: 400;
+    font-size: 1.138em;
+    line-height: 1.25;
+    text-align: center;
+}
+
+@media (max-width:991px)
+{
+    .mesPropuesta-user
+    {
+        text-align: center;
+        font-size: 2em;
+    }
+    .diaPropuesta-user
+    {
+        text-align: center;
+        height: 20px;
+        font-size: 2em;
+        top: -10px;
+    }
+}

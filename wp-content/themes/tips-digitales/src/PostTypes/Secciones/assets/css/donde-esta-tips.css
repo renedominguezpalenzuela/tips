@@ -1,0 +1,166 @@
+#bloque-info-filtros
+{
+    display: none;
+}
+
+#bloque-info-proyectos-de-inversion
+{
+    display: none;
+}
+
+#bloque-info-oficinas-participacion
+{
+    display: none;
+}
+
+.bloque-info-filtros-left
+{
+    display: block;
+    border: 1.4px solid var(--primary);
+    position: relative;
+    border-radius: 7px;
+    box-shadow: 5px 4px #d3d0d0;
+min-height: 420px;
+    height: 100%;
+    }
+
+.title-bloque-info-filtros
+{
+    color: var(--tertiary);
+    font-family: Klavika;
+    font-weight: 500;
+    font-size: 1.8em;
+    letter-spacing: -2px;
+    margin-top: -12px;
+}
+
+.descripcion-bloque-info-filtros
+{
+    color: var(--tertiary);
+    font-family: Klavika;
+    font-weight: 400;
+    font-size: 1.138em;
+    line-height: 1.25;
+}
+
+.icon-dialogo
+{
+    background-image: url('../images/dialogos-agenda.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 90px;
+    width: 100%;
+    display: inline-block;
+    margin: auto;
+}
+
+.icon-bibliotecapdf
+{
+    background-image: url('../images/biblioteca-icon.png') !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+
+.icon-contacto
+{
+    background-image: url('../images/contactar-icon.png') !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+
+.icon-documentos
+{
+    background-image: url('../images/documentos-icon.png') !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+
+.icon-documentos-asocioaciones
+{
+    background-image: url('../images/documentos-icon.png') !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 60px;
+    width: 60px;
+    display: inline-block;
+}
+
+.buttonClose-modal-dialogos-agendas, .buttonClose-modal-proyectos-inversion-local, .buttonClass-laboratorio-tips
+{
+    position: absolute;
+    float: right;
+    right: 20px;
+    top: 20px;
+}
+
+.accordionLocalidades
+{
+    --bs-accordion-border-color: none;
+}
+
+.accordion-descripcion-localidades
+{
+    color: var(--tertiary);
+    font-family: Klavika;
+    font-weight: 400;
+    font-size: 1.138em;
+    line-height: 1.25;
+    padding: 0;
+    overflow: auto;
+    height: 150px;
+}
+
+.container-vista-inmersiva-multimedia-donde-esta-tips
+{
+}
+
+.bloque-proyectos-de-inversion
+{
+    display: block;
+    border: 1.4px solid var(--primary);
+    position: relative;
+    border-radius: 7px;
+    box-shadow: 5px 4px #d3d0d0;;
+}
+
+.bloque-oficinas-participacion
+{
+    display: block;
+    border: 1.4px solid var(--primary);
+    position: relative;
+    border-radius: 7px;
+    box-shadow: 5px 4px #d3d0d0;;
+}
+
+.bloque-laboratorio-tips
+{
+    display: block;
+    border: 1.4px solid var(--primary);
+    position: relative;
+    border-radius: 7px;
+    box-shadow: 5px 4px #d3d0d0;;
+}
+
+.localidadesSUBRED
+{
+    display: none;
+}
+
+.bloque-hide
+{
+    display: none;
+}
+
+.marginTop-5
+{
+    margin-top: -5px;
+}

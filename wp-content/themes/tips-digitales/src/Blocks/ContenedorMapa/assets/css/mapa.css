@@ -1,0 +1,144 @@
+.container-map
+{
+    width: 100%;
+    display: block!important;
+    margin-top: auto;
+    margin-bottom: auto;
+    position: relative;
+	height: 500px;
+}
+
+#map
+{
+	height: 500px;
+}
+
+.modal-title-mapa
+{
+    font-family: 'Klavika';
+    font-weight: 500;
+    color: var(--tertiary);
+    text-transform: capitalize!important;
+    font-size: 2em!important;
+}
+
+.modal-subtitle-mapa
+{
+    font-family: 'Klavika';
+    font-weight: 500;
+    color: var(--primary);
+    text-transform: capitalize!important;
+    font-size: 1.2em!important
+}
+
+.modal-descripcion-mapa, .modal-data-mapa
+{
+    font-family: 'Klavika';
+    font-weight: 400;
+    color: var(--tertiary);
+    font-size: 1em!important;
+    line-height: 20px;
+}
+
+#accordion_filtros_mapa_general_2
+{
+    display: none;
+}
+
+#accordion_filtros_mapa_otros_2
+{
+    display: none;
+}
+
+.bloqueInfoModalIniciativas
+{
+    height: 180px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.modal-content-mapa
+{
+    border: 6px solid var(--primary);
+    border-radius: 10px;
+}
+
+.container-loading-mapa
+{
+    display: none; /* hidden by default */
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 9;
+    background: #FFF;
+}
+
+.page-load-status-container-mapa
+{
+    display: none; /* hidden by default */
+    top: 50%;
+    color: var(--tertiary);
+    position: absolute;
+    z-index: 10;
+}
+
+.contenedor-asociaciones-recuadro
+{
+    border: 1.4px solid var(--primary);
+    position: relative;
+    border-radius: 7px;
+    box-shadow: 5px 4px #d3d0d0;
+}
+
+.personasSlider
+{
+    display: block;
+}
+
+.title-home
+{
+    color: var(--tertiary);
+    font-family: 'Klavika';
+    font-weight: 600;
+    font-size: 2.4em;
+    letter-spacing: -2px;
+    margin-top: -12px;
+}
+
+.title-home-big
+{
+    font-size: 3.4em;
+    margin-top: -30px;
+    line-height: 1em;
+}
+
+.descripcion-home
+{
+    color: var(--tertiary);
+    font-family: 'Klavika';
+    font-weight: 400;
+    font-size: 1.138em;
+    line-height: 1.25;
+}
+
+@media (max-width:991px)
+{
+    .personasSlider
+    {
+        display: none;
+    }
+}
+
+@media (max-width:425px)
+{
+    .title-home-big
+    {
+        font-size: 2.4em;
+    }
+}
+
+.informesContainer
+{
+    max-height: 300px;
+    overflow-y: auto;
+}

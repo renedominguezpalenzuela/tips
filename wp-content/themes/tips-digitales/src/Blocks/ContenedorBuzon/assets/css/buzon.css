@@ -1,0 +1,113 @@
+.modal-content-buzon
+{
+    border: 6px solid var(--primary);
+    border-radius: 10px;
+    height: 500px;
+}
+
+.avatar-buzonShare
+{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 2px solid var(--secondary);
+    position: relative;
+    background-color: white;
+    background-position: center;
+    background-size: cover;
+    display: block;
+    margin: auto;
+}
+
+.name-buzonShare
+{
+    color: var(--primary);
+    font-family: Klavika;
+    font-weight: 500;
+    font-size: 1.1em;
+}
+
+.avatarFriendBlock
+{
+    height: 50px;
+}
+
+.userFriendRight
+{
+    font-size: 2em;
+    color: var(--primary);
+}
+
+.containerFriends
+{
+    height: 330px;
+    overflow-y: auto;
+}
+
+.inputFriendElement
+{
+    border: 3px solid #dbdce1 !important;
+    border-radius: 50rem;
+}
+
+.bp-messages-wrap *
+{
+    color: var(--primary);
+    font-family: Klavika;
+    font-weight: 400;
+    font-size: 1em;
+}
+
+.bp-messages-wrap .bm-messages-list .bm-list .bm-messages-stack.bm-left-side .bm-content .bm-messages-listing .bm-message .bm-message-content:not(.bm-hide-background) *
+{
+    color: var(--tertiary) !important;
+    font-family: Klavika;
+    font-weight: 400;
+    font-size: 1.1em;
+}
+
+.bp-messages-wrap .threads-list .thread .bm-info .name
+{
+    color: var(--tertiary) !important;
+    font-family: Klavika;
+    font-weight: 400;
+    font-size: 1em;
+}
+
+.bp-messages-wrap .threads-list .thread:last-child>*
+{
+    color: var(--tertiary) !important;
+    font-family: Klavika;
+    font-weight: 400;
+    font-size: 1em;
+}
+
+.bp-messages-wrap .bp-messages-side-threads .threads-list .thread .pic img
+{
+    border-radius: 50% !important;
+    border: 2px solid var(--secondary);
+}
+
+.bp-messages-wrap .bm-messages-list .bm-list .bm-messages-stack.bm-left-side .bm-content .bm-info a
+{
+    color: var(--primary) !important;
+    font-family: Klavika;
+    font-weight: 400 !important;
+    font-size: 1em !important;
+}
+
+.bm-message .bm-message-content.reply-enabled
+{
+    background: var(--primary) !important;
+}
+
+.bm-message.my .bm-message-content.reply-enabled
+{
+    background: var(--fourthy) !important;
+}
+
+.bp-messages-wrap .avatar
+{
+    border-radius: 50% !important;
+    border: 2px solid var(--secondary) !important;
+}
